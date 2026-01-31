@@ -1,222 +1,163 @@
 /*
-===================================================
-DDL Script: CREATE BRONZE TABLES
-===================================================
-Script Purpose: 
-	This SQL script is designed to automate the Data Ingestion process for
-	Data Warehouse's Bronze Layer. It creates a reusable Stored Procedure 
-	that cleans (truncates) and reloads all the CRM and ERP data from local 
-	CSV files into SQL Server.
-	Run this script to re-define the DDL sturcture of 'Bronze' layer. 
+-------------------------------------------------------------------------------
+Script Purpose:
+    This script creates tables in the 'bronze' schema, dropping existing tables 
+    if they already exist.
+	Run this script to re-define the DDL structure of 'bronze' Tables
+-------------------------------------------------------------------------------
 */
 
--- STORE procedure to load data to bronze layer
-CREATE OR ALTER PROCEDURE bronze.load_bronze AS 
-BEGIN
-	-- Variable declared for calculating time duration to load each table and batch duration
-	DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME
-	SET @batch_start_time = GETDATE();
-	-- Error Handling
-	BEGIN TRY
-	PRINT '------------------------------------------'
-	PRINT 'LOADING BRONZE LAYER'
-	PRINT '------------------------------------------'
+-------------------------------------------------------------------------------
+-- 1. CRM_CUSTOMER_INFO table
+-------------------------------------------------------------------------------
 
-	
-	PRINT '============================================='
-	PRINT 'Loading CRM source system'
-	PRINT '============================================='
+-- DROP the table if the table already EXISTS in the DATABASE
+IF OBJECT_ID('bronze.crm_customer_info', 'U') IS NOT NULL   -- here 'U' means user defined 
+    DROP TABLE bronze.crm_customer_info;
+GO 
+-- CREATE crm_customer_info TABLE
+CREATE TABLE bronze.crm_customer_info(
+    customer_id             INT,                --unique id from the CRM
+    customer_number         NVARCHAR(50),       -- the business identifier
+    first_name              NVARCHAR(50),       
+    last_name               NVARCHAR(50),
+    marital_status          NVARCHAR(50),
+    gender                  NVARCHAR(50),
+    birthdate               DATE,               -- properly use data type DATE
+    create_date             DATE                -- properly use date type DATE (profile created)
+);
+GO
 
+-------------------------------------------------------------------------------
+-- 2. CRM_SPATIAL_DATA table
+-------------------------------------------------------------------------------
 
-		----------------------------------------------------------------
-		-- 1. LOAD data from crm_customer_info.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncating Table: bronze.crm_customer_info'
-		TRUNCATE TABLE bronze.crm_customer_info;
-		PRINT '...Inserting Data: bronze.crm_customer_info'
-		BULK INSERT bronze.crm_customer_info
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_crm\crm_customer_info.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '\n',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 2. LOAD data from crm_spatial_data.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table: bronze.crm_spatial_data'
-		TRUNCATE TABLE bronze.crm_spatial_data;
-		PRINT '...Insert Data: crm_spatial_data'
-		BULK INSERT bronze.crm_spatial_data
-		FROM 'E:\Data Analyst Portfolio Project\zenith-global\datasets\source_crm\crm_spatial_data.csv'
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR = '0x0a', -- This represents the \n character
-			TABLOCK
-		);
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 3. LOAD data from crm_territory.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table: bronze.crm_territory'
-		TRUNCATE TABLE bronze.crm_territory;
-		PRINT '...Insert Data: bronze.crm_territory'
-		BULK INSERT bronze.crm_territory
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_crm\crm_territory.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
+-- DROP table if the table already EXISTS in the DATABASE
+IF OBJECT_ID('bronze.crm_spatial_data','U') IS NOT NULL
+    DROP TABLE bronze.crm_spatial_data;
+GO
+-- CREATE crm_spatial_data 
+CREATE TABLE bronze.crm_spatial_data(
+    customer_id             INT,
+    country                 VARCHAR(50),
+    city                    VARCHAR(50)
+);
 
+GO
+-------------------------------------------------------------------------------
+-- 3. CRM_TERRITORY table
+-------------------------------------------------------------------------------
+-- DROP table if the table already EXISTS in the DATABASE
+IF OBJECT_ID('bronze.crm_territory','U') IS NOT NULL
+    DROP TABLE bronze.crm_territory; 
+GO
+-- CREATE crm_territory TABLE
+CREATE TABLE bronze.crm_territory(
+    city                    VARCHAR(50),
+    country                 VARCHAR(50),
+    continent               VARCHAR(50)
+);
 
-		PRINT '=============================================='
-		PRINT 'Loading ERP source system'
-		PRINT '=============================================='
-	
-		----------------------------------------------------------------
-		-- 4. LOAD data from erp_category_map.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table: bronze.erp_category_map'
-		TRUNCATE TABLE bronze.erp_category_map;
-		PRINT '...Insert Data: bronze.erp_category_map'
-		BULK INSERT bronze.erp_category_map
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_category_map.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 5. LOAD data from erp_product_data.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table:bronze.erp_product_data'
-		TRUNCATE TABLE bronze.erp_product_data;
-		PRINT 'Insert Data: erp_product_data'
-		BULK INSERT bronze.erp_product_data
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_product_data.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
+GO
+-------------------------------------------------------------------------------
+-- 4. ERP_SALES_ORDER table
+-------------------------------------------------------------------------------
+-- DROP the table if the table already ESISTS in the DATABASE 
+IF OBJECT_ID('bronze.erp_sales_order', 'U') IS NOT NULL
+    DROP TABLE bronze.erp_sales_order; 
+GO 
 
+-- CREATE bronze.erp_sales_order TABLE
+CREATE TABLE bronze.erp_sales_order(
+    order_number            NVARCHAR(50),      -- Unique Order Identifier (e.g., SO50000)
+    product_id              INT,               -- Links to Product Dimension
+    customer_id             INT,               -- Links to Customer Dimension
+    order_date              DATE,              -- Date of purchase
+    quantity                INT,               -- Number of units sold
+    price                   DECIMAL(18, 2),    -- Unit price
+    shipping_date           DATE,              -- Date item was shipped
+    due_date                DATE,              -- Payment/Delivery due date
+    sales_amount            DECIMAL(18, 2),    -- Total transaction value (Qty * Price)
+);
 
-		----------------------------------------------------------------
-		-- 6. LOAD data from erp_product_specs.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table:bronze.erp_product_specs'
-		TRUNCATE TABLE bronze.erp_product_specs;
-		PRINT '...Insert Data: erp_product_specs'
-		BULK INSERT bronze.erp_product_specs
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_product_specs.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 7. LOAD data from erp_returns.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table:bronze.erp_returns'
-		TRUNCATE TABLE bronze.erp_returns;
-		PRINT '...Insert Data: erp_returns'
-		BULK INSERT bronze.erp_returns
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_returns.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
+GO
+-------------------------------------------------------------------------------
+-- 5. CRM_PRODUCT_DATA table
+-------------------------------------------------------------------------------
 
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 8. LOAD data from erp_sales_order.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table:bronze.erp_sales_order'
-		TRUNCATE TABLE bronze.erp_sales_order;
-		PRINT '...Insert Data: erp_sales_order'
-		BULK INSERT bronze.erp_sales_order
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_sales_order.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
-		----------------------------------------------------------------
-		-- 9. LOAD data from erp_stores.csv 
-		----------------------------------------------------------------
-		SET @start_time = GETDATE();
-		-- TRUNCATE the table first otherwise the data will be stored every time whenever running the code and create duplicate.
-		PRINT '...Truncate Table:bronze.erp_stores'
-		TRUNCATE TABLE bronze.erp_stores;
-		PRINT '...Insert Data: erp_stores'
-		BULK INSERT bronze.erp_stores
-		FROM "E:\Data Analyst Portfolio Project\zenith-global\datasets\source_erp\erp_stores.csv"
-		WITH (
-			FIRSTROW = 2,
-			FIELDTERMINATOR = ',',
-			ROWTERMINATOR= '0x0a',
-			TABLOCK
-		); 
-		SET @end_time = GETDATE();
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@end_time) AS NVARCHAR) + 'seconds';
-		PRINT '********************'
+-- DROP the table if the table already ESISTS in the DATABASE 
+IF OBJECT_ID('bronze.erp_product_data', 'U') IS NOT NULL
+    DROP TABLE bronze.erp_product_data; 
+GO 
 
-		SET @batch_end_time = GETDATE();
-		PRINT '>>>Bronze Layer Loading Completed'
-		PRINT '>>>LOADING Duration: ' + CAST(DATEDIFF(second, @start_time,@batch_end_time) AS NVARCHAR) + 'seconds';
-	END TRY
-	BEGIN CATCH
-		PRINT '...ERROR OCCURED WHILE LOADING BRONZE LAYER..'
-		PRINT 'ERROR MESSAGE:' + ERROR_MESSAGE();
-		PRINT 'ERROR NUMBER:' + CAST(ERROR_NUMBER() AS NVARCHAR);
-		PRINT 'ERROR STATUS:' + CAST(ERROR_STATE() AS NVARCHAR);
-	END CATCH
-END;
+-- CREATE erp_product_data TABLE
+CREATE TABLE bronze.erp_product_data(
+    product_id              INT, 
+    product_number          NVARCHAR(50),
+    product_name            NVARCHAR(100),
+    category_id             INT,
+    cost                    DECIMAL(18,2),
+    product_line            NVARCHAR(50),
+    start_data              DATE
+);
+
+GO
+-------------------------------------------------------------------------------
+-- 6. ERP_PRODUCT_SPECS table
+-------------------------------------------------------------------------------
+
+-- DROP the table if the table already ESISTS in the DATABASE 
+IF OBJECT_ID('bronze.erp_product_specs', 'U') IS NOT NULL
+    DROP TABLE bronze.erp_product_specs; 
+GO 
+
+-- CREATE erp_product_specs TABLE
+CREATE TABLE bronze.erp_product_specs(
+    product_id              INT,
+    subcategory             NVARCHAR(50),
+    maintenance_required    NVARCHAR(50),
+    product_line            NVARCHAR(50)
+);
+
+GO
+-------------------------------------------------------------------------------
+-- 7. CRM_CATEGORY_MAP table
+-------------------------------------------------------------------------------
+
+IF OBJECT_ID('bronze.erp_category_map', 'U') IS NOT NULL 
+DROP TABLE bronze.erp_category_map;
+GO
+
+CREATE TABLE bronze.erp_category_map (
+    category_id          INT,
+    category             NVARCHAR(50),
+    subcategory          NVARCHAR(50),
+    maintenance_required NVARCHAR(10)
+);
+
+GO
+-----------------------------------------------------------
+-- 8. ERP_STORES table
+-----------------------------------------------------------
+IF OBJECT_ID('bronze.erp_stores', 'U') IS NOT NULL DROP TABLE bronze.erp_stores;
+CREATE TABLE bronze.erp_stores (
+    store_id     INT,
+    store_name   NVARCHAR(100),
+    store_type   NVARCHAR(50), -- e.g., Retail, Outlet, Online
+    region       NVARCHAR(50)
+);
+GO
+
+-----------------------------------------------------------
+-- 9. ERP_RETURNS table
+-----------------------------------------------------------
+
+IF OBJECT_ID('bronze.erp_returns', 'U') IS NOT NULL DROP TABLE bronze.erp_returns;
+CREATE TABLE bronze.erp_returns (
+    return_id      INT,
+    order_number   NVARCHAR(50),
+    return_date    DATE,
+    return_reason  NVARCHAR(100),
+    return_amount  DECIMAL(18, 2)
+);
+
