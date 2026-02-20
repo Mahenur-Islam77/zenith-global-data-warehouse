@@ -13,6 +13,7 @@ Script Purpose:
       - Map abbreviated/invalid codes to full standardized values
       - Replace 'n/a', blanks, and NULLs with 'Unknown' where appropriate
       - Recalculate derived fields (sales_amount)
+      - Pass through store_id from source (validated against erp_stores)
       - Filter out records missing primary keys
       - Deduplicate on primary keys (keep latest record)
       - Rename misnamed columns (start_data -> start_date)
@@ -22,16 +23,18 @@ Script Purpose:
       2. silver.crm_product_data
       3. silver.crm_sales_order
 
+Dependencies:
+    None — store_id is now provided directly in the source CSV.
+
 Usage:
     -- First run the DDL section once, then:
     EXEC silver.load_silver_crm;
 ===============================================================================
-
 */
+
 -- ============================================================================
 -- STEP 1: CREATE SILVER SCHEMA (if not exists)
 -- ============================================================================
-USE Zenith_Global_Data_Warehouse;
 
 IF NOT EXISTS (SELECT 1 FROM sys.schemas WHERE name = 'silver')
 BEGIN
@@ -92,6 +95,7 @@ CREATE TABLE silver.crm_sales_order (
     order_number        NVARCHAR(50)    NOT NULL,
     product_id          INT,
     customer_id         INT,
+    store_id            INT,            -- assigned from erp_stores based on customer region
     order_date          DATE,
     quantity            INT,
     price               DECIMAL(18,2),
@@ -296,6 +300,7 @@ BEGIN
             order_number,
             product_id,
             customer_id,
+            store_id,
             order_date,
             quantity,
             price,
@@ -305,50 +310,53 @@ BEGIN
         )
         SELECT
             -- order_number: trim
-            LTRIM(RTRIM(order_number)) AS order_number,
+            LTRIM(RTRIM(d.order_number)) AS order_number,
 
-            product_id,
+            d.product_id,
 
-            customer_id,
+            d.customer_id,
+
+            -- store_id: pass through from source (links to erp_stores)
+            d.store_id,
 
             -- order_date: pass through
-            order_date,
+            d.order_date,
 
             -- quantity: replace NULL/invalid with NULL
             CASE
-                WHEN quantity IS NULL OR quantity <= 0 THEN NULL
-                ELSE quantity
+                WHEN d.quantity IS NULL OR d.quantity <= 0 THEN NULL
+                ELSE d.quantity
             END AS quantity,
 
             -- price: replace NULL/invalid with NULL
             CASE
-                WHEN price IS NULL OR price <= 0 THEN NULL
-                ELSE price
+                WHEN d.price IS NULL OR d.price <= 0 THEN NULL
+                ELSE d.price
             END AS price,
 
             -- shipping_date: NULL out if before order_date (data error)
             CASE
-                WHEN shipping_date < order_date THEN NULL
-                ELSE shipping_date
+                WHEN d.shipping_date < d.order_date THEN NULL
+                ELSE d.shipping_date
             END AS shipping_date,
 
             -- due_date: NULL out if before order_date (data error)
             CASE
-                WHEN due_date < order_date THEN NULL
-                ELSE due_date
+                WHEN d.due_date < d.order_date THEN NULL
+                ELSE d.due_date
             END AS due_date,
 
             -- sales_amount: recalculate from quantity * price for consistency
             -- If either is invalid, keep original sales_amount as fallback
             CASE
-                WHEN quantity IS NOT NULL AND quantity > 0
-                 AND price IS NOT NULL AND price > 0
-                    THEN CAST(quantity * price AS DECIMAL(18,2))
-                ELSE sales_amount
+                WHEN d.quantity IS NOT NULL AND d.quantity > 0
+                 AND d.price IS NOT NULL AND d.price > 0
+                    THEN CAST(d.quantity * d.price AS DECIMAL(18,2))
+                ELSE d.sales_amount
             END AS sales_amount
 
-        FROM cte_dedup
-        WHERE rn = 1;
+        FROM cte_dedup d
+        WHERE d.rn = 1;
 
         SET @end_time = GETDATE();
         PRINT '   Rows loaded: ' + CAST(@@ROWCOUNT AS NVARCHAR);
