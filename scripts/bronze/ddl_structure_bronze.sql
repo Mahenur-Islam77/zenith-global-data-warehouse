@@ -62,6 +62,7 @@ CREATE TABLE bronze.erp_sales_order(
     shipping_date           DATE,              -- Date item was shipped
     due_date                DATE,              -- Payment/Delivery due date
     sales_amount            DECIMAL(18, 2),    -- Total transaction value (Qty * Price)
+    store_id                INT                -- Links to Store Dimension (erp_stores)
 );
 -------------------------------------------------------------------------------
 -- 4. ERP_CATEGORY_MAP table
@@ -72,9 +73,9 @@ DROP TABLE bronze.erp_category_map;
 GO
 -- CREATE bronze.erp_category_map TABLE
 CREATE TABLE bronze.erp_category_map (
-    category_id          NVARCHAR(50),
     category             NVARCHAR(50),
     subcategory          NVARCHAR(50),
+    category_id          NVARCHAR(50)
 );
 -------------------------------------------------------------------------------
 -- 5. ERP_PRODUCT_SPECS table
