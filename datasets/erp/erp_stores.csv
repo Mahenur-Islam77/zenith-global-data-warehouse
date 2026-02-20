@@ -1,0 +1,101 @@
+store_id,store_name,store_type,region
+1,Zenith Sydney Flagship,Flagship,Asia-Pacific
+2,Zenith Bogota Flagship,Flagship,Latin America
+3,Zenith Berlin Flagship,Flagship,Europe
+4,Zenith New York Retail,Retail,North America
+5,Zenith Tokyo Online,Online,Asia-Pacific
+6,Zenith Santiago Flagship,Flagship,Latin America
+7,Zenith New York Retail,Retail,North America
+8,Zenith Rome Online,Online,Europe
+9,Zenith Los Angeles Flagship,Flagship,North America
+10,Zenith Vancouver Retail,Retail,North America
+11,Zenith Berlin Outlet,Outlet,Europe
+12,Zenith Vancouver Retail,Retail,North America
+13,Zenith Berlin Online,Online,Europe
+14,Zenith Santiago Outlet,Outlet,Latin America
+15,Zenith Tokyo Online,Online,Asia-Pacific
+16,Zenith Madrid Flagship,Flagship,Europe
+17,Zenith Chicago Outlet,Outlet,North America
+18,Zenith Mumbai Flagship,Flagship,Asia-Pacific
+19,Zenith Tokyo Outlet,Outlet,Asia-Pacific
+20,Zenith Sydney Online,Online,Asia-Pacific
+21,Zenith New York Online,Online,North America
+22,Zenith Sao Paulo Online,Online,Latin America
+23,Zenith Mumbai Retail,Retail,Asia-Pacific
+24,Zenith Los Angeles Online,Online,North America
+25,Zenith Berlin Outlet,Outlet,Europe
+26,Zenith Mexico City Retail,Retail,Latin America
+27,Zenith Paris Retail,Retail,Europe
+28,Zenith Mumbai Flagship,Flagship,Asia-Pacific
+29,Zenith Mexico City Flagship,Flagship,Latin America
+30,Zenith Sao Paulo Outlet,Outlet,Latin America
+31,Zenith Sydney Flagship,Flagship,Asia-Pacific
+32,Zenith Chicago Outlet,Outlet,North America
+33,Zenith Sydney Flagship,Flagship,Asia-Pacific
+34,Zenith Los Angeles Outlet,Outlet,North America
+35,Zenith Paris Outlet,Outlet,Europe
+36,Zenith London Outlet,Outlet,Europe
+37,Zenith Sao Paulo Retail,Retail,Latin America
+38,Zenith Berlin Flagship,Flagship,Europe
+39,Zenith Mexico City Flagship,Flagship,Latin America
+40,Zenith Buenos Aires Online,Online,Latin America
+41,Zenith Tokyo Retail,Retail,Asia-Pacific
+42,Zenith Bogota Online,Online,Latin America
+43,Zenith Mexico City Outlet,Outlet,Latin America
+44,Zenith Rome Flagship,Flagship,Europe
+45,Zenith Tokyo Online,Online,Asia-Pacific
+46,Zenith Sydney Online,Online,Asia-Pacific
+47,Zenith Tokyo Retail,Retail,Asia-Pacific
+48,Zenith Tokyo Outlet,Outlet,Asia-Pacific
+49,Zenith London Outlet,Outlet,Europe
+50,Zenith Toronto Flagship,Flagship,North America
+51,Zenith Sydney Online,Online,Asia-Pacific
+52,Zenith Toronto Retail,Retail,North America
+53,Zenith Mumbai Retail,Retail,Asia-Pacific
+54,Zenith Rome Retail,Retail,Europe
+55,Zenith Mexico City Outlet,Outlet,Latin America
+56,Zenith Los Angeles Outlet,Outlet,North America
+57,Zenith Toronto Flagship,Flagship,North America
+58,Zenith Sydney Outlet,Outlet,Asia-Pacific
+59,Zenith Rome Flagship,Flagship,Europe
+60,Zenith Vancouver Flagship,Flagship,North America
+61,Zenith Buenos Aires Flagship,Flagship,Latin America
+62,Zenith New York Retail,Retail,North America
+63,Zenith Vancouver Outlet,Outlet,North America
+64,Zenith Los Angeles Online,Online,North America
+65,Zenith Vancouver Flagship,Flagship,North America
+66,Zenith Buenos Aires Online,Online,Latin America
+67,Zenith Paris Outlet,Outlet,Europe
+68,Zenith Santiago Online,Online,Latin America
+69,Zenith Chicago Retail,Retail,North America
+70,Zenith Santiago Online,Online,Latin America
+71,Zenith Sydney Outlet,Outlet,Asia-Pacific
+72,Zenith Tokyo Retail,Retail,Asia-Pacific
+73,Zenith Tokyo Outlet,Outlet,Asia-Pacific
+74,Zenith Sydney Retail,Retail,Asia-Pacific
+75,Zenith Santiago Retail,Retail,Latin America
+76,Zenith Mexico City Flagship,Flagship,Latin America
+77,Zenith Sao Paulo Outlet,Outlet,Latin America
+78,Zenith New York Online,Online,North America
+79,Zenith Tokyo Online,Online,Asia-Pacific
+80,Zenith Bogota Flagship,Flagship,Latin America
+81,Zenith Santiago Retail,Retail,Latin America
+82,Zenith Sydney Online,Online,Asia-Pacific
+83,Zenith Santiago Flagship,Flagship,Latin America
+84,Zenith Mumbai Online,Online,Asia-Pacific
+85,Zenith Mexico City Retail,Retail,Latin America
+86,Zenith Paris Outlet,Outlet,Europe
+87,Zenith Paris Outlet,Outlet,Europe
+88,Zenith Bogota Outlet,Outlet,Latin America
+89,Zenith Toronto Outlet,Outlet,North America
+90,Zenith Madrid Online,Online,Europe
+91,Zenith Chicago Flagship,Flagship,North America
+92,Zenith Santiago Outlet,Outlet,Latin America
+93,Zenith Tokyo Outlet,Outlet,Asia-Pacific
+94,Zenith Sao Paulo Online,Online,Latin America
+95,Zenith London Online,Online,Europe
+96,Zenith London Outlet,Outlet,Europe
+97,Zenith Rome Retail,Retail,Europe
+98,Zenith Toronto Flagship,Flagship,North America
+99,Zenith Tokyo Flagship,Flagship,Asia-Pacific
+100,Zenith Mumbai Flagship,Flagship,Asia-Pacific

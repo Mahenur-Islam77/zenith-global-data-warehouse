@@ -1,0 +1,5001 @@
+product_id,subcategory,maintenance_required,product_line
+500,Tires,No,Touring
+501,Helmets,Yes,Road
+502,Tires,No,Standard
+503,Road Bikes,No,Touring
+504,Helmets,No,Road
+505,Tires,Yes,Mountain
+506,Road Bikes,Yes,Road
+507,Road Bikes,No,Touring
+508,Helmets,No,Road
+509,Jerseys,Yes,Touring
+510,Helmets,No,Touring
+511,Road Bikes,No,Standard
+512,Mountain Bikes,No,Mountain
+513,Helmets,No,Road
+514,Mountain Bikes,Yes,Road
+515,Tires,No,Mountain
+516,Jerseys,Yes,Touring
+517,Tires,Yes,Mountain
+518,Mountain Bikes,No,Touring
+519,Tires,Yes,Standard
+520,Road Bikes,Yes,Touring
+521,Jerseys,No,Road
+522,Road Bikes,Yes,Road
+523,Jerseys,No,Road
+524,Mountain Bikes,Yes,Touring
+525,Road Bikes,Yes,Standard
+526,Mountain Bikes,No,Standard
+527,Road Bikes,Yes,Standard
+528,Mountain Bikes,Yes,Standard
+529,Tires,No,Mountain
+530,Helmets,Yes,Mountain
+531,Helmets,Yes,Mountain
+532,Helmets,No,Touring
+533,Jerseys,No,Road
+534,Helmets,Yes,Standard
+535,Road Bikes,Yes,Standard
+536,Helmets,No,Standard
+537,Jerseys,Yes,Mountain
+538,Helmets,Yes,Mountain
+539,Jerseys,No,Standard
+540,Jerseys,Yes,Touring
+541,Tires,No,Standard
+542,Mountain Bikes,No,Road
+543,Road Bikes,No,Standard
+544,Tires,No,Mountain
+545,Mountain Bikes,Yes,Road
+546,Road Bikes,Yes,Touring
+547,Mountain Bikes,Yes,Standard
+548,Tires,No,Touring
+549,Jerseys,Yes,Road
+550,Mountain Bikes,Yes,Road
+551,Mountain Bikes,Yes,Mountain
+552,Mountain Bikes,No,Mountain
+553,Road Bikes,No,Mountain
+554,Tires,No,Road
+555,Road Bikes,No,Standard
+556,Tires,Yes,Mountain
+557,Tires,Yes,Road
+558,Helmets,No,Road
+559,Tires,No,Road
+560,Mountain Bikes,Yes,Touring
+561,Jerseys,Yes,Standard
+562,Helmets,Yes,Mountain
+563,Tires,No,Touring
+564,Helmets,Yes,Standard
+565,Road Bikes,No,Road
+566,Helmets,No,Touring
+567,Mountain Bikes,Yes,Road
+568,Jerseys,Yes,Touring
+569,Mountain Bikes,No,Standard
+570,Road Bikes,No,Standard
+571,Helmets,Yes,Touring
+572,Road Bikes,No,Mountain
+573,Mountain Bikes,No,Road
+574,Tires,No,Road
+575,Tires,Yes,Standard
+576,Road Bikes,Yes,Standard
+577,Jerseys,Yes,Standard
+578,Tires,Yes,Touring
+579,Jerseys,Yes,Road
+580,Mountain Bikes,No,Road
+581,Jerseys,Yes,Touring
+582,Jerseys,No,Standard
+583,Mountain Bikes,Yes,Touring
+584,Jerseys,No,Road
+585,Jerseys,Yes,Standard
+586,Jerseys,No,Standard
+587,Tires,No,Mountain
+588,Jerseys,Yes,Road
+589,Mountain Bikes,No,Standard
+590,Helmets,Yes,Mountain
+591,Helmets,Yes,Touring
+592,Tires,No,Touring
+593,Helmets,No,Touring
+594,Tires,No,Mountain
+595,Mountain Bikes,No,Road
+596,Jerseys,No,Standard
+597,Jerseys,No,Touring
+598,Road Bikes,Yes,Standard
+599,Jerseys,No,Mountain
+600,Mountain Bikes,Yes,Mountain
+601,Road Bikes,Yes,Standard
+602,Road Bikes,No,Standard
+603,Road Bikes,No,Road
+604,Helmets,Yes,Road
+605,Road Bikes,Yes,Touring
+606,Mountain Bikes,No,Standard
+607,Jerseys,Yes,Touring
+608,Mountain Bikes,No,Standard
+609,Mountain Bikes,Yes,Standard
+610,Jerseys,No,Road
+611,Road Bikes,No,Touring
+612,Road Bikes,No,Mountain
+613,Tires,No,Touring
+614,Mountain Bikes,No,Road
+615,Mountain Bikes,Yes,Mountain
+616,Tires,Yes,Road
+617,Mountain Bikes,Yes,Mountain
+618,Tires,No,Mountain
+619,Jerseys,No,Touring
+620,Road Bikes,Yes,Mountain
+621,Mountain Bikes,No,Touring
+622,Tires,Yes,Road
+623,Mountain Bikes,No,Mountain
+624,Jerseys,No,Standard
+625,Tires,Yes,Road
+626,Helmets,No,Touring
+627,Helmets,No,Standard
+628,Jerseys,Yes,Touring
+629,Jerseys,Yes,Touring
+630,Jerseys,Yes,Mountain
+631,Jerseys,Yes,Road
+632,Tires,Yes,Standard
+633,Mountain Bikes,Yes,Road
+634,Helmets,Yes,Touring
+635,Tires,No,Standard
+636,Mountain Bikes,No,Standard
+637,Mountain Bikes,No,Mountain
+638,Helmets,No,Mountain
+639,Road Bikes,No,Road
+640,Tires,No,Touring
+641,Helmets,Yes,Touring
+642,Road Bikes,No,Standard
+643,Mountain Bikes,No,Road
+644,Road Bikes,No,Standard
+645,Road Bikes,Yes,Touring
+646,Road Bikes,Yes,Standard
+647,Helmets,No,Road
+648,Helmets,No,Touring
+649,Road Bikes,No,Touring
+650,Mountain Bikes,Yes,Mountain
+651,Mountain Bikes,Yes,Road
+652,Tires,No,Mountain
+653,Helmets,Yes,Mountain
+654,Road Bikes,No,Touring
+655,Jerseys,No,Mountain
+656,Road Bikes,Yes,Standard
+657,Tires,No,Touring
+658,Jerseys,Yes,Standard
+659,Helmets,Yes,Mountain
+660,Helmets,No,Touring
+661,Jerseys,No,Mountain
+662,Helmets,Yes,Road
+663,Tires,Yes,Mountain
+664,Mountain Bikes,No,Road
+665,Tires,Yes,Touring
+666,Jerseys,No,Standard
+667,Jerseys,No,Standard
+668,Road Bikes,Yes,Standard
+669,Helmets,No,Mountain
+670,Road Bikes,Yes,Mountain
+671,Mountain Bikes,Yes,Mountain
+672,Road Bikes,Yes,Road
+673,Tires,Yes,Touring
+674,Road Bikes,No,Road
+675,Road Bikes,No,Touring
+676,Helmets,Yes,Touring
+677,Helmets,No,Touring
+678,Jerseys,Yes,Mountain
+679,Helmets,Yes,Standard
+680,Jerseys,No,Road
+681,Helmets,No,Mountain
+682,Jerseys,No,Standard
+683,Road Bikes,Yes,Standard
+684,Mountain Bikes,No,Mountain
+685,Mountain Bikes,Yes,Touring
+686,Helmets,No,Mountain
+687,Tires,No,Road
+688,Tires,Yes,Touring
+689,Road Bikes,Yes,Mountain
+690,Road Bikes,Yes,Touring
+691,Jerseys,No,Standard
+692,Tires,No,Road
+693,Road Bikes,No,Road
+694,Tires,No,Road
+695,Helmets,No,Touring
+696,Helmets,Yes,Road
+697,Tires,Yes,Standard
+698,Jerseys,Yes,Touring
+699,Tires,Yes,Touring
+700,Jerseys,No,Mountain
+701,Jerseys,Yes,Road
+702,Mountain Bikes,No,Road
+703,Helmets,Yes,Mountain
+704,Tires,No,Touring
+705,Mountain Bikes,Yes,Standard
+706,Tires,No,Touring
+707,Helmets,Yes,Mountain
+708,Road Bikes,No,Touring
+709,Road Bikes,Yes,Standard
+710,Jerseys,Yes,Touring
+711,Helmets,Yes,Touring
+712,Jerseys,Yes,Mountain
+713,Helmets,No,Standard
+714,Tires,Yes,Mountain
+715,Road Bikes,No,Mountain
+716,Helmets,Yes,Road
+717,Jerseys,No,Road
+718,Mountain Bikes,Yes,Road
+719,Tires,Yes,Standard
+720,Road Bikes,Yes,Road
+721,Road Bikes,No,Touring
+722,Jerseys,No,Standard
+723,Road Bikes,Yes,Touring
+724,Road Bikes,Yes,Mountain
+725,Jerseys,Yes,Standard
+726,Jerseys,No,Road
+727,Jerseys,Yes,Mountain
+728,Road Bikes,No,Touring
+729,Jerseys,No,Standard
+730,Helmets,Yes,Road
+731,Helmets,Yes,Mountain
+732,Mountain Bikes,Yes,Touring
+733,Tires,Yes,Mountain
+734,Mountain Bikes,No,Mountain
+735,Mountain Bikes,Yes,Mountain
+736,Tires,No,Road
+737,Jerseys,No,Touring
+738,Mountain Bikes,No,Mountain
+739,Road Bikes,No,Standard
+740,Mountain Bikes,Yes,Standard
+741,Mountain Bikes,No,Touring
+742,Jerseys,No,Standard
+743,Jerseys,No,Mountain
+744,Jerseys,No,Mountain
+745,Road Bikes,Yes,Road
+746,Tires,No,Touring
+747,Road Bikes,No,Standard
+748,Helmets,No,Mountain
+749,Mountain Bikes,No,Touring
+750,Road Bikes,Yes,Touring
+751,Mountain Bikes,No,Standard
+752,Helmets,Yes,Road
+753,Road Bikes,No,Touring
+754,Mountain Bikes,No,Standard
+755,Mountain Bikes,No,Road
+756,Tires,No,Standard
+757,Tires,Yes,Touring
+758,Mountain Bikes,Yes,Mountain
+759,Helmets,No,Mountain
+760,Helmets,No,Standard
+761,Road Bikes,No,Road
+762,Jerseys,Yes,Standard
+763,Helmets,No,Road
+764,Jerseys,Yes,Mountain
+765,Helmets,Yes,Mountain
+766,Jerseys,No,Standard
+767,Helmets,No,Touring
+768,Helmets,Yes,Mountain
+769,Jerseys,Yes,Road
+770,Helmets,No,Road
+771,Tires,Yes,Standard
+772,Mountain Bikes,No,Road
+773,Road Bikes,No,Road
+774,Mountain Bikes,Yes,Road
+775,Mountain Bikes,No,Touring
+776,Tires,No,Mountain
+777,Jerseys,No,Standard
+778,Mountain Bikes,Yes,Standard
+779,Helmets,Yes,Road
+780,Helmets,Yes,Touring
+781,Tires,Yes,Road
+782,Mountain Bikes,No,Standard
+783,Road Bikes,No,Mountain
+784,Road Bikes,Yes,Mountain
+785,Mountain Bikes,No,Standard
+786,Jerseys,Yes,Standard
+787,Tires,Yes,Road
+788,Road Bikes,Yes,Mountain
+789,Jerseys,No,Touring
+790,Jerseys,Yes,Touring
+791,Jerseys,Yes,Touring
+792,Mountain Bikes,No,Road
+793,Road Bikes,Yes,Touring
+794,Road Bikes,No,Road
+795,Helmets,Yes,Standard
+796,Mountain Bikes,Yes,Touring
+797,Road Bikes,No,Road
+798,Road Bikes,Yes,Mountain
+799,Road Bikes,No,Mountain
+800,Road Bikes,Yes,Road
+801,Tires,No,Standard
+802,Road Bikes,No,Road
+803,Jerseys,Yes,Standard
+804,Helmets,Yes,Touring
+805,Tires,Yes,Standard
+806,Helmets,No,Touring
+807,Jerseys,No,Road
+808,Road Bikes,No,Standard
+809,Helmets,Yes,Standard
+810,Road Bikes,Yes,Touring
+811,Tires,Yes,Standard
+812,Road Bikes,Yes,Road
+813,Tires,Yes,Road
+814,Mountain Bikes,Yes,Standard
+815,Jerseys,Yes,Mountain
+816,Jerseys,Yes,Road
+817,Tires,No,Road
+818,Jerseys,Yes,Road
+819,Jerseys,Yes,Road
+820,Mountain Bikes,Yes,Standard
+821,Helmets,Yes,Standard
+822,Mountain Bikes,Yes,Touring
+823,Tires,Yes,Standard
+824,Mountain Bikes,No,Road
+825,Jerseys,Yes,Touring
+826,Helmets,Yes,Mountain
+827,Helmets,No,Standard
+828,Mountain Bikes,Yes,Standard
+829,Tires,No,Road
+830,Helmets,Yes,Mountain
+831,Mountain Bikes,No,Touring
+832,Road Bikes,No,Road
+833,Helmets,No,Road
+834,Helmets,No,Mountain
+835,Tires,Yes,Standard
+836,Helmets,Yes,Mountain
+837,Road Bikes,No,Touring
+838,Tires,No,Mountain
+839,Tires,No,Mountain
+840,Mountain Bikes,No,Touring
+841,Jerseys,No,Mountain
+842,Tires,No,Standard
+843,Helmets,No,Touring
+844,Tires,Yes,Standard
+845,Tires,No,Road
+846,Jerseys,Yes,Mountain
+847,Road Bikes,No,Road
+848,Helmets,Yes,Standard
+849,Helmets,No,Standard
+850,Road Bikes,No,Road
+851,Road Bikes,Yes,Mountain
+852,Road Bikes,Yes,Touring
+853,Tires,No,Touring
+854,Jerseys,Yes,Road
+855,Jerseys,Yes,Standard
+856,Jerseys,Yes,Mountain
+857,Tires,Yes,Mountain
+858,Tires,Yes,Touring
+859,Helmets,Yes,Mountain
+860,Mountain Bikes,Yes,Standard
+861,Jerseys,No,Standard
+862,Mountain Bikes,No,Mountain
+863,Helmets,Yes,Touring
+864,Jerseys,No,Touring
+865,Jerseys,Yes,Road
+866,Mountain Bikes,No,Touring
+867,Jerseys,Yes,Standard
+868,Jerseys,Yes,Road
+869,Helmets,No,Standard
+870,Tires,Yes,Road
+871,Tires,Yes,Standard
+872,Helmets,No,Standard
+873,Road Bikes,Yes,Road
+874,Mountain Bikes,No,Mountain
+875,Road Bikes,Yes,Road
+876,Helmets,Yes,Road
+877,Mountain Bikes,Yes,Mountain
+878,Mountain Bikes,Yes,Touring
+879,Tires,No,Road
+880,Road Bikes,No,Road
+881,Mountain Bikes,Yes,Standard
+882,Road Bikes,No,Mountain
+883,Mountain Bikes,Yes,Mountain
+884,Jerseys,No,Standard
+885,Mountain Bikes,No,Mountain
+886,Jerseys,Yes,Standard
+887,Mountain Bikes,No,Mountain
+888,Jerseys,Yes,Touring
+889,Helmets,Yes,Touring
+890,Helmets,Yes,Road
+891,Road Bikes,No,Mountain
+892,Road Bikes,Yes,Standard
+893,Jerseys,No,Standard
+894,Road Bikes,Yes,Standard
+895,Road Bikes,No,Mountain
+896,Jerseys,No,Standard
+897,Tires,No,Touring
+898,Mountain Bikes,Yes,Mountain
+899,Mountain Bikes,No,Road
+900,Helmets,Yes,Mountain
+901,Road Bikes,Yes,Standard
+902,Road Bikes,No,Standard
+903,Jerseys,No,Road
+904,Mountain Bikes,Yes,Standard
+905,Road Bikes,Yes,Standard
+906,Road Bikes,No,Mountain
+907,Jerseys,Yes,Standard
+908,Road Bikes,No,Touring
+909,Road Bikes,No,Road
+910,Mountain Bikes,No,Mountain
+911,Road Bikes,No,Mountain
+912,Road Bikes,No,Mountain
+913,Tires,No,Standard
+914,Road Bikes,No,Touring
+915,Helmets,Yes,Touring
+916,Jerseys,No,Road
+917,Helmets,Yes,Standard
+918,Tires,No,Mountain
+919,Helmets,Yes,Standard
+920,Road Bikes,No,Standard
+921,Mountain Bikes,No,Road
+922,Jerseys,No,Mountain
+923,Tires,Yes,Standard
+924,Road Bikes,Yes,Mountain
+925,Mountain Bikes,Yes,Touring
+926,Mountain Bikes,No,Road
+927,Tires,No,Touring
+928,Road Bikes,No,Mountain
+929,Road Bikes,No,Mountain
+930,Helmets,No,Standard
+931,Tires,Yes,Standard
+932,Mountain Bikes,No,Standard
+933,Jerseys,Yes,Road
+934,Road Bikes,Yes,Touring
+935,Helmets,No,Standard
+936,Road Bikes,No,Standard
+937,Jerseys,Yes,Standard
+938,Jerseys,Yes,Mountain
+939,Helmets,Yes,Touring
+940,Mountain Bikes,No,Mountain
+941,Jerseys,Yes,Mountain
+942,Tires,Yes,Mountain
+943,Helmets,No,Mountain
+944,Jerseys,Yes,Mountain
+945,Helmets,No,Standard
+946,Jerseys,No,Standard
+947,Jerseys,Yes,Mountain
+948,Helmets,Yes,Road
+949,Helmets,No,Touring
+950,Road Bikes,Yes,Standard
+951,Jerseys,Yes,Mountain
+952,Road Bikes,No,Road
+953,Helmets,No,Road
+954,Jerseys,Yes,Touring
+955,Helmets,Yes,Road
+956,Road Bikes,Yes,Touring
+957,Helmets,No,Mountain
+958,Helmets,Yes,Touring
+959,Tires,No,Road
+960,Helmets,No,Standard
+961,Jerseys,Yes,Mountain
+962,Mountain Bikes,No,Touring
+963,Mountain Bikes,Yes,Mountain
+964,Road Bikes,No,Mountain
+965,Jerseys,No,Standard
+966,Mountain Bikes,No,Standard
+967,Tires,Yes,Touring
+968,Road Bikes,Yes,Standard
+969,Helmets,No,Touring
+970,Road Bikes,Yes,Standard
+971,Helmets,Yes,Standard
+972,Jerseys,Yes,Road
+973,Jerseys,No,Mountain
+974,Road Bikes,No,Standard
+975,Helmets,No,Road
+976,Jerseys,Yes,Touring
+977,Tires,No,Touring
+978,Jerseys,No,Standard
+979,Tires,No,Road
+980,Mountain Bikes,No,Standard
+981,Mountain Bikes,No,Mountain
+982,Mountain Bikes,Yes,Touring
+983,Road Bikes,Yes,Standard
+984,Helmets,No,Standard
+985,Tires,Yes,Road
+986,Jerseys,No,Mountain
+987,Tires,Yes,Standard
+988,Mountain Bikes,No,Mountain
+989,Jerseys,No,Touring
+990,Mountain Bikes,No,Touring
+991,Jerseys,Yes,Road
+992,Mountain Bikes,Yes,Standard
+993,Helmets,No,Mountain
+994,Helmets,No,Mountain
+995,Tires,No,Mountain
+996,Jerseys,No,Mountain
+997,Helmets,No,Mountain
+998,Road Bikes,Yes,Road
+999,Helmets,No,Mountain
+1000,Mountain Bikes,Yes,Road
+1001,Road Bikes,Yes,Road
+1002,Jerseys,No,Standard
+1003,Road Bikes,Yes,Road
+1004,Helmets,No,Road
+1005,Mountain Bikes,Yes,Touring
+1006,Mountain Bikes,No,Standard
+1007,Mountain Bikes,Yes,Mountain
+1008,Jerseys,Yes,Mountain
+1009,Jerseys,Yes,Mountain
+1010,Jerseys,Yes,Mountain
+1011,Jerseys,Yes,Touring
+1012,Tires,Yes,Standard
+1013,Mountain Bikes,Yes,Road
+1014,Jerseys,No,Standard
+1015,Tires,Yes,Touring
+1016,Mountain Bikes,Yes,Touring
+1017,Tires,Yes,Standard
+1018,Mountain Bikes,No,Standard
+1019,Road Bikes,No,Road
+1020,Helmets,Yes,Touring
+1021,Mountain Bikes,Yes,Standard
+1022,Road Bikes,Yes,Touring
+1023,Road Bikes,No,Road
+1024,Tires,No,Road
+1025,Jerseys,No,Mountain
+1026,Road Bikes,Yes,Touring
+1027,Road Bikes,Yes,Standard
+1028,Jerseys,No,Mountain
+1029,Tires,Yes,Mountain
+1030,Jerseys,Yes,Road
+1031,Helmets,No,Standard
+1032,Tires,Yes,Standard
+1033,Helmets,No,Road
+1034,Road Bikes,Yes,Mountain
+1035,Mountain Bikes,Yes,Mountain
+1036,Road Bikes,Yes,Road
+1037,Tires,Yes,Road
+1038,Road Bikes,No,Standard
+1039,Helmets,Yes,Road
+1040,Jerseys,Yes,Mountain
+1041,Road Bikes,No,Road
+1042,Jerseys,No,Standard
+1043,Helmets,Yes,Standard
+1044,Mountain Bikes,Yes,Standard
+1045,Road Bikes,No,Road
+1046,Tires,Yes,Road
+1047,Jerseys,No,Road
+1048,Tires,Yes,Touring
+1049,Road Bikes,Yes,Touring
+1050,Helmets,Yes,Standard
+1051,Mountain Bikes,No,Touring
+1052,Road Bikes,Yes,Mountain
+1053,Helmets,No,Road
+1054,Helmets,Yes,Mountain
+1055,Helmets,No,Mountain
+1056,Jerseys,Yes,Mountain
+1057,Road Bikes,No,Standard
+1058,Road Bikes,Yes,Standard
+1059,Helmets,Yes,Touring
+1060,Tires,Yes,Road
+1061,Tires,Yes,Touring
+1062,Jerseys,No,Mountain
+1063,Helmets,No,Touring
+1064,Tires,Yes,Mountain
+1065,Helmets,Yes,Mountain
+1066,Jerseys,Yes,Touring
+1067,Helmets,Yes,Mountain
+1068,Helmets,Yes,Standard
+1069,Road Bikes,Yes,Road
+1070,Helmets,No,Touring
+1071,Road Bikes,Yes,Standard
+1072,Mountain Bikes,No,Road
+1073,Tires,Yes,Mountain
+1074,Tires,Yes,Mountain
+1075,Road Bikes,Yes,Road
+1076,Road Bikes,No,Standard
+1077,Tires,Yes,Road
+1078,Helmets,No,Mountain
+1079,Mountain Bikes,No,Road
+1080,Road Bikes,Yes,Standard
+1081,Jerseys,Yes,Mountain
+1082,Mountain Bikes,Yes,Road
+1083,Mountain Bikes,No,Touring
+1084,Jerseys,Yes,Road
+1085,Jerseys,No,Touring
+1086,Helmets,No,Standard
+1087,Jerseys,No,Road
+1088,Road Bikes,Yes,Standard
+1089,Mountain Bikes,Yes,Standard
+1090,Tires,No,Mountain
+1091,Helmets,No,Mountain
+1092,Road Bikes,No,Mountain
+1093,Mountain Bikes,No,Standard
+1094,Jerseys,Yes,Standard
+1095,Mountain Bikes,Yes,Road
+1096,Jerseys,Yes,Road
+1097,Jerseys,No,Standard
+1098,Helmets,No,Mountain
+1099,Helmets,Yes,Road
+1100,Mountain Bikes,Yes,Mountain
+1101,Jerseys,Yes,Road
+1102,Tires,Yes,Touring
+1103,Jerseys,No,Touring
+1104,Mountain Bikes,No,Road
+1105,Jerseys,Yes,Touring
+1106,Jerseys,No,Road
+1107,Tires,Yes,Road
+1108,Jerseys,Yes,Mountain
+1109,Helmets,Yes,Road
+1110,Helmets,No,Mountain
+1111,Jerseys,No,Standard
+1112,Helmets,Yes,Road
+1113,Tires,Yes,Mountain
+1114,Tires,Yes,Mountain
+1115,Tires,Yes,Touring
+1116,Tires,Yes,Standard
+1117,Jerseys,Yes,Mountain
+1118,Tires,Yes,Mountain
+1119,Helmets,Yes,Standard
+1120,Tires,Yes,Standard
+1121,Road Bikes,No,Standard
+1122,Mountain Bikes,No,Road
+1123,Helmets,Yes,Touring
+1124,Road Bikes,Yes,Mountain
+1125,Tires,Yes,Standard
+1126,Helmets,Yes,Standard
+1127,Helmets,No,Mountain
+1128,Jerseys,Yes,Road
+1129,Jerseys,No,Mountain
+1130,Helmets,Yes,Standard
+1131,Road Bikes,No,Touring
+1132,Tires,Yes,Road
+1133,Road Bikes,Yes,Mountain
+1134,Tires,No,Touring
+1135,Jerseys,Yes,Touring
+1136,Tires,No,Standard
+1137,Tires,No,Mountain
+1138,Mountain Bikes,No,Mountain
+1139,Tires,No,Road
+1140,Helmets,No,Touring
+1141,Jerseys,No,Mountain
+1142,Helmets,No,Standard
+1143,Jerseys,Yes,Standard
+1144,Helmets,Yes,Standard
+1145,Road Bikes,Yes,Standard
+1146,Jerseys,Yes,Standard
+1147,Tires,Yes,Road
+1148,Mountain Bikes,No,Standard
+1149,Helmets,Yes,Road
+1150,Tires,Yes,Standard
+1151,Jerseys,Yes,Standard
+1152,Road Bikes,No,Mountain
+1153,Jerseys,Yes,Mountain
+1154,Tires,Yes,Road
+1155,Road Bikes,Yes,Standard
+1156,Road Bikes,No,Road
+1157,Road Bikes,No,Standard
+1158,Helmets,No,Road
+1159,Helmets,Yes,Standard
+1160,Road Bikes,No,Touring
+1161,Mountain Bikes,Yes,Road
+1162,Jerseys,No,Touring
+1163,Mountain Bikes,No,Road
+1164,Road Bikes,No,Mountain
+1165,Tires,Yes,Standard
+1166,Tires,Yes,Touring
+1167,Mountain Bikes,Yes,Touring
+1168,Jerseys,Yes,Standard
+1169,Road Bikes,No,Touring
+1170,Jerseys,Yes,Touring
+1171,Helmets,Yes,Road
+1172,Road Bikes,No,Standard
+1173,Mountain Bikes,Yes,Road
+1174,Jerseys,No,Standard
+1175,Road Bikes,No,Touring
+1176,Road Bikes,Yes,Mountain
+1177,Road Bikes,Yes,Road
+1178,Helmets,Yes,Standard
+1179,Tires,Yes,Touring
+1180,Tires,No,Mountain
+1181,Jerseys,Yes,Touring
+1182,Mountain Bikes,Yes,Mountain
+1183,Mountain Bikes,Yes,Touring
+1184,Helmets,No,Road
+1185,Road Bikes,Yes,Standard
+1186,Tires,No,Touring
+1187,Helmets,Yes,Standard
+1188,Jerseys,Yes,Mountain
+1189,Mountain Bikes,No,Road
+1190,Jerseys,Yes,Touring
+1191,Jerseys,Yes,Mountain
+1192,Jerseys,Yes,Touring
+1193,Helmets,Yes,Standard
+1194,Tires,No,Road
+1195,Road Bikes,Yes,Road
+1196,Jerseys,No,Road
+1197,Tires,Yes,Touring
+1198,Road Bikes,Yes,Standard
+1199,Helmets,Yes,Touring
+1200,Mountain Bikes,Yes,Mountain
+1201,Mountain Bikes,Yes,Touring
+1202,Tires,No,Standard
+1203,Helmets,No,Touring
+1204,Jerseys,No,Mountain
+1205,Jerseys,Yes,Mountain
+1206,Road Bikes,No,Touring
+1207,Jerseys,No,Standard
+1208,Road Bikes,Yes,Touring
+1209,Jerseys,Yes,Road
+1210,Jerseys,Yes,Road
+1211,Helmets,Yes,Road
+1212,Tires,No,Mountain
+1213,Road Bikes,No,Road
+1214,Helmets,Yes,Mountain
+1215,Tires,Yes,Standard
+1216,Helmets,Yes,Road
+1217,Tires,Yes,Mountain
+1218,Road Bikes,No,Touring
+1219,Mountain Bikes,Yes,Touring
+1220,Helmets,Yes,Standard
+1221,Helmets,Yes,Standard
+1222,Mountain Bikes,Yes,Mountain
+1223,Helmets,No,Road
+1224,Helmets,Yes,Road
+1225,Tires,No,Touring
+1226,Helmets,No,Road
+1227,Tires,Yes,Standard
+1228,Road Bikes,Yes,Touring
+1229,Road Bikes,Yes,Standard
+1230,Tires,Yes,Touring
+1231,Road Bikes,No,Road
+1232,Road Bikes,Yes,Mountain
+1233,Jerseys,No,Mountain
+1234,Helmets,No,Standard
+1235,Jerseys,Yes,Mountain
+1236,Mountain Bikes,Yes,Road
+1237,Helmets,No,Standard
+1238,Jerseys,Yes,Mountain
+1239,Road Bikes,Yes,Mountain
+1240,Mountain Bikes,Yes,Mountain
+1241,Road Bikes,Yes,Touring
+1242,Road Bikes,No,Mountain
+1243,Road Bikes,No,Road
+1244,Road Bikes,No,Touring
+1245,Helmets,Yes,Standard
+1246,Tires,Yes,Mountain
+1247,Helmets,No,Mountain
+1248,Helmets,No,Touring
+1249,Jerseys,Yes,Touring
+1250,Mountain Bikes,No,Road
+1251,Mountain Bikes,No,Touring
+1252,Road Bikes,No,Mountain
+1253,Mountain Bikes,No,Mountain
+1254,Mountain Bikes,No,Standard
+1255,Jerseys,Yes,Touring
+1256,Helmets,Yes,Touring
+1257,Tires,No,Standard
+1258,Mountain Bikes,Yes,Mountain
+1259,Helmets,No,Standard
+1260,Helmets,No,Mountain
+1261,Helmets,No,Touring
+1262,Road Bikes,Yes,Standard
+1263,Tires,Yes,Touring
+1264,Road Bikes,Yes,Road
+1265,Road Bikes,No,Road
+1266,Tires,Yes,Touring
+1267,Helmets,No,Touring
+1268,Jerseys,No,Mountain
+1269,Mountain Bikes,No,Touring
+1270,Jerseys,No,Road
+1271,Mountain Bikes,No,Mountain
+1272,Helmets,Yes,Road
+1273,Mountain Bikes,Yes,Mountain
+1274,Road Bikes,Yes,Road
+1275,Road Bikes,Yes,Standard
+1276,Jerseys,No,Standard
+1277,Jerseys,Yes,Road
+1278,Helmets,Yes,Road
+1279,Mountain Bikes,No,Mountain
+1280,Tires,Yes,Road
+1281,Road Bikes,Yes,Mountain
+1282,Tires,Yes,Touring
+1283,Mountain Bikes,No,Standard
+1284,Jerseys,Yes,Road
+1285,Mountain Bikes,No,Mountain
+1286,Road Bikes,Yes,Touring
+1287,Mountain Bikes,Yes,Road
+1288,Road Bikes,No,Standard
+1289,Mountain Bikes,Yes,Road
+1290,Road Bikes,Yes,Road
+1291,Mountain Bikes,No,Touring
+1292,Road Bikes,Yes,Standard
+1293,Tires,No,Road
+1294,Helmets,Yes,Road
+1295,Mountain Bikes,No,Road
+1296,Jerseys,Yes,Mountain
+1297,Tires,Yes,Touring
+1298,Tires,No,Road
+1299,Tires,No,Standard
+1300,Mountain Bikes,No,Road
+1301,Mountain Bikes,Yes,Road
+1302,Jerseys,No,Standard
+1303,Tires,No,Standard
+1304,Helmets,No,Mountain
+1305,Jerseys,No,Standard
+1306,Road Bikes,Yes,Mountain
+1307,Helmets,Yes,Mountain
+1308,Tires,Yes,Touring
+1309,Tires,Yes,Mountain
+1310,Tires,Yes,Mountain
+1311,Jerseys,No,Road
+1312,Tires,Yes,Touring
+1313,Road Bikes,No,Mountain
+1314,Tires,No,Touring
+1315,Tires,No,Mountain
+1316,Tires,No,Mountain
+1317,Jerseys,No,Standard
+1318,Helmets,No,Touring
+1319,Mountain Bikes,Yes,Road
+1320,Mountain Bikes,No,Road
+1321,Road Bikes,No,Standard
+1322,Tires,No,Standard
+1323,Jerseys,Yes,Touring
+1324,Road Bikes,No,Mountain
+1325,Mountain Bikes,No,Mountain
+1326,Mountain Bikes,Yes,Mountain
+1327,Jerseys,No,Road
+1328,Jerseys,No,Touring
+1329,Tires,No,Mountain
+1330,Road Bikes,Yes,Touring
+1331,Mountain Bikes,No,Mountain
+1332,Tires,Yes,Mountain
+1333,Jerseys,Yes,Standard
+1334,Road Bikes,Yes,Standard
+1335,Tires,No,Road
+1336,Helmets,Yes,Mountain
+1337,Mountain Bikes,No,Road
+1338,Tires,Yes,Standard
+1339,Tires,No,Standard
+1340,Jerseys,Yes,Standard
+1341,Jerseys,No,Standard
+1342,Mountain Bikes,Yes,Touring
+1343,Road Bikes,Yes,Mountain
+1344,Tires,No,Road
+1345,Tires,No,Road
+1346,Tires,No,Standard
+1347,Mountain Bikes,Yes,Road
+1348,Jerseys,No,Mountain
+1349,Road Bikes,No,Road
+1350,Jerseys,No,Road
+1351,Mountain Bikes,Yes,Touring
+1352,Road Bikes,Yes,Touring
+1353,Road Bikes,Yes,Standard
+1354,Road Bikes,No,Standard
+1355,Mountain Bikes,No,Touring
+1356,Jerseys,Yes,Road
+1357,Helmets,Yes,Road
+1358,Road Bikes,No,Touring
+1359,Tires,No,Mountain
+1360,Mountain Bikes,Yes,Mountain
+1361,Road Bikes,No,Standard
+1362,Helmets,Yes,Mountain
+1363,Jerseys,No,Touring
+1364,Jerseys,Yes,Road
+1365,Helmets,No,Mountain
+1366,Helmets,Yes,Touring
+1367,Tires,Yes,Touring
+1368,Road Bikes,Yes,Standard
+1369,Jerseys,No,Road
+1370,Tires,Yes,Road
+1371,Jerseys,No,Road
+1372,Helmets,No,Touring
+1373,Road Bikes,No,Mountain
+1374,Jerseys,No,Mountain
+1375,Tires,Yes,Road
+1376,Jerseys,No,Touring
+1377,Helmets,Yes,Road
+1378,Tires,No,Mountain
+1379,Jerseys,Yes,Mountain
+1380,Mountain Bikes,No,Road
+1381,Road Bikes,No,Standard
+1382,Tires,No,Standard
+1383,Helmets,No,Road
+1384,Road Bikes,Yes,Standard
+1385,Helmets,No,Mountain
+1386,Jerseys,No,Mountain
+1387,Mountain Bikes,Yes,Mountain
+1388,Tires,No,Touring
+1389,Tires,No,Mountain
+1390,Helmets,No,Road
+1391,Tires,Yes,Mountain
+1392,Helmets,No,Standard
+1393,Jerseys,No,Touring
+1394,Road Bikes,No,Standard
+1395,Mountain Bikes,No,Touring
+1396,Jerseys,No,Touring
+1397,Mountain Bikes,No,Standard
+1398,Helmets,Yes,Standard
+1399,Tires,Yes,Road
+1400,Tires,No,Standard
+1401,Jerseys,No,Touring
+1402,Road Bikes,No,Road
+1403,Mountain Bikes,Yes,Road
+1404,Helmets,Yes,Touring
+1405,Road Bikes,No,Road
+1406,Mountain Bikes,No,Mountain
+1407,Mountain Bikes,Yes,Mountain
+1408,Tires,No,Touring
+1409,Road Bikes,No,Mountain
+1410,Jerseys,No,Road
+1411,Mountain Bikes,No,Touring
+1412,Helmets,No,Standard
+1413,Mountain Bikes,Yes,Road
+1414,Mountain Bikes,No,Standard
+1415,Jerseys,Yes,Standard
+1416,Jerseys,No,Touring
+1417,Tires,Yes,Touring
+1418,Helmets,No,Road
+1419,Tires,Yes,Road
+1420,Helmets,Yes,Mountain
+1421,Road Bikes,No,Touring
+1422,Tires,No,Road
+1423,Helmets,No,Road
+1424,Jerseys,No,Standard
+1425,Mountain Bikes,Yes,Standard
+1426,Road Bikes,Yes,Mountain
+1427,Road Bikes,No,Road
+1428,Road Bikes,No,Mountain
+1429,Helmets,No,Touring
+1430,Jerseys,Yes,Mountain
+1431,Jerseys,No,Mountain
+1432,Road Bikes,No,Road
+1433,Helmets,No,Road
+1434,Mountain Bikes,No,Road
+1435,Mountain Bikes,No,Touring
+1436,Road Bikes,Yes,Mountain
+1437,Helmets,No,Touring
+1438,Jerseys,No,Touring
+1439,Tires,Yes,Road
+1440,Jerseys,No,Road
+1441,Mountain Bikes,Yes,Mountain
+1442,Jerseys,No,Road
+1443,Helmets,No,Mountain
+1444,Mountain Bikes,No,Road
+1445,Road Bikes,No,Road
+1446,Road Bikes,Yes,Mountain
+1447,Helmets,No,Mountain
+1448,Mountain Bikes,Yes,Standard
+1449,Tires,No,Touring
+1450,Helmets,Yes,Touring
+1451,Tires,Yes,Mountain
+1452,Road Bikes,No,Mountain
+1453,Tires,Yes,Mountain
+1454,Tires,No,Standard
+1455,Road Bikes,No,Standard
+1456,Road Bikes,Yes,Touring
+1457,Helmets,Yes,Mountain
+1458,Tires,Yes,Touring
+1459,Helmets,No,Standard
+1460,Road Bikes,No,Mountain
+1461,Jerseys,No,Mountain
+1462,Tires,No,Mountain
+1463,Tires,Yes,Mountain
+1464,Mountain Bikes,Yes,Touring
+1465,Helmets,Yes,Road
+1466,Jerseys,Yes,Road
+1467,Tires,No,Standard
+1468,Jerseys,No,Touring
+1469,Road Bikes,Yes,Mountain
+1470,Tires,Yes,Mountain
+1471,Road Bikes,Yes,Touring
+1472,Road Bikes,No,Standard
+1473,Helmets,No,Mountain
+1474,Helmets,No,Touring
+1475,Tires,No,Road
+1476,Helmets,Yes,Touring
+1477,Road Bikes,No,Standard
+1478,Mountain Bikes,Yes,Road
+1479,Mountain Bikes,Yes,Standard
+1480,Tires,Yes,Standard
+1481,Mountain Bikes,Yes,Mountain
+1482,Tires,No,Mountain
+1483,Mountain Bikes,Yes,Mountain
+1484,Mountain Bikes,No,Mountain
+1485,Mountain Bikes,Yes,Mountain
+1486,Road Bikes,No,Road
+1487,Jerseys,Yes,Road
+1488,Helmets,Yes,Road
+1489,Helmets,No,Road
+1490,Mountain Bikes,No,Mountain
+1491,Jerseys,No,Touring
+1492,Helmets,No,Standard
+1493,Road Bikes,No,Road
+1494,Tires,Yes,Touring
+1495,Tires,No,Touring
+1496,Mountain Bikes,No,Mountain
+1497,Tires,Yes,Touring
+1498,Helmets,No,Touring
+1499,Mountain Bikes,Yes,Mountain
+1500,Mountain Bikes,Yes,Touring
+1501,Jerseys,Yes,Touring
+1502,Road Bikes,No,Mountain
+1503,Road Bikes,No,Touring
+1504,Mountain Bikes,No,Road
+1505,Jerseys,Yes,Standard
+1506,Jerseys,Yes,Touring
+1507,Tires,Yes,Standard
+1508,Tires,Yes,Mountain
+1509,Jerseys,No,Touring
+1510,Road Bikes,No,Standard
+1511,Mountain Bikes,No,Road
+1512,Tires,No,Touring
+1513,Jerseys,Yes,Standard
+1514,Mountain Bikes,No,Road
+1515,Jerseys,Yes,Road
+1516,Mountain Bikes,Yes,Mountain
+1517,Road Bikes,No,Road
+1518,Tires,Yes,Mountain
+1519,Mountain Bikes,No,Touring
+1520,Road Bikes,No,Touring
+1521,Helmets,No,Touring
+1522,Jerseys,No,Road
+1523,Road Bikes,Yes,Standard
+1524,Tires,No,Road
+1525,Jerseys,Yes,Road
+1526,Tires,No,Road
+1527,Helmets,No,Mountain
+1528,Helmets,No,Standard
+1529,Jerseys,Yes,Mountain
+1530,Helmets,Yes,Standard
+1531,Road Bikes,No,Standard
+1532,Helmets,No,Mountain
+1533,Mountain Bikes,Yes,Standard
+1534,Jerseys,Yes,Touring
+1535,Road Bikes,No,Standard
+1536,Tires,No,Mountain
+1537,Tires,No,Standard
+1538,Road Bikes,No,Touring
+1539,Helmets,Yes,Mountain
+1540,Tires,No,Standard
+1541,Helmets,Yes,Road
+1542,Helmets,Yes,Road
+1543,Jerseys,Yes,Standard
+1544,Helmets,Yes,Road
+1545,Helmets,No,Standard
+1546,Mountain Bikes,No,Touring
+1547,Helmets,No,Touring
+1548,Helmets,Yes,Standard
+1549,Helmets,Yes,Standard
+1550,Helmets,Yes,Standard
+1551,Mountain Bikes,Yes,Road
+1552,Jerseys,No,Standard
+1553,Road Bikes,No,Road
+1554,Mountain Bikes,No,Standard
+1555,Tires,No,Touring
+1556,Road Bikes,No,Road
+1557,Helmets,No,Touring
+1558,Tires,No,Mountain
+1559,Jerseys,Yes,Standard
+1560,Tires,Yes,Standard
+1561,Helmets,No,Mountain
+1562,Mountain Bikes,No,Standard
+1563,Jerseys,Yes,Mountain
+1564,Mountain Bikes,Yes,Mountain
+1565,Road Bikes,No,Standard
+1566,Road Bikes,Yes,Mountain
+1567,Mountain Bikes,Yes,Mountain
+1568,Jerseys,Yes,Touring
+1569,Mountain Bikes,No,Standard
+1570,Road Bikes,No,Standard
+1571,Road Bikes,Yes,Road
+1572,Mountain Bikes,Yes,Standard
+1573,Helmets,No,Standard
+1574,Tires,Yes,Standard
+1575,Mountain Bikes,No,Mountain
+1576,Helmets,No,Standard
+1577,Helmets,No,Standard
+1578,Mountain Bikes,Yes,Touring
+1579,Helmets,Yes,Mountain
+1580,Helmets,No,Mountain
+1581,Helmets,Yes,Road
+1582,Road Bikes,Yes,Touring
+1583,Mountain Bikes,Yes,Standard
+1584,Road Bikes,No,Mountain
+1585,Tires,No,Standard
+1586,Mountain Bikes,Yes,Standard
+1587,Jerseys,No,Mountain
+1588,Road Bikes,Yes,Standard
+1589,Road Bikes,Yes,Touring
+1590,Road Bikes,Yes,Road
+1591,Tires,Yes,Standard
+1592,Jerseys,Yes,Standard
+1593,Jerseys,No,Road
+1594,Jerseys,Yes,Road
+1595,Road Bikes,No,Road
+1596,Mountain Bikes,Yes,Touring
+1597,Road Bikes,No,Standard
+1598,Mountain Bikes,No,Touring
+1599,Tires,No,Standard
+1600,Mountain Bikes,No,Touring
+1601,Jerseys,Yes,Road
+1602,Jerseys,No,Road
+1603,Mountain Bikes,No,Standard
+1604,Tires,No,Mountain
+1605,Road Bikes,No,Mountain
+1606,Tires,Yes,Mountain
+1607,Jerseys,No,Mountain
+1608,Mountain Bikes,No,Touring
+1609,Mountain Bikes,Yes,Road
+1610,Road Bikes,Yes,Road
+1611,Jerseys,Yes,Touring
+1612,Tires,Yes,Touring
+1613,Helmets,Yes,Road
+1614,Tires,No,Mountain
+1615,Helmets,Yes,Mountain
+1616,Helmets,Yes,Standard
+1617,Mountain Bikes,Yes,Road
+1618,Road Bikes,Yes,Mountain
+1619,Jerseys,Yes,Mountain
+1620,Road Bikes,Yes,Touring
+1621,Mountain Bikes,No,Standard
+1622,Road Bikes,No,Touring
+1623,Road Bikes,No,Road
+1624,Jerseys,Yes,Mountain
+1625,Helmets,Yes,Standard
+1626,Road Bikes,Yes,Touring
+1627,Helmets,Yes,Touring
+1628,Road Bikes,No,Road
+1629,Mountain Bikes,Yes,Road
+1630,Road Bikes,Yes,Touring
+1631,Tires,No,Standard
+1632,Road Bikes,No,Mountain
+1633,Helmets,Yes,Road
+1634,Jerseys,Yes,Mountain
+1635,Tires,Yes,Standard
+1636,Road Bikes,Yes,Standard
+1637,Mountain Bikes,No,Mountain
+1638,Tires,Yes,Road
+1639,Jerseys,Yes,Road
+1640,Helmets,Yes,Road
+1641,Road Bikes,No,Touring
+1642,Road Bikes,Yes,Touring
+1643,Helmets,Yes,Touring
+1644,Jerseys,No,Road
+1645,Mountain Bikes,Yes,Mountain
+1646,Jerseys,Yes,Standard
+1647,Road Bikes,Yes,Standard
+1648,Tires,No,Mountain
+1649,Road Bikes,Yes,Road
+1650,Helmets,Yes,Road
+1651,Mountain Bikes,No,Touring
+1652,Helmets,No,Touring
+1653,Mountain Bikes,No,Road
+1654,Tires,No,Mountain
+1655,Mountain Bikes,Yes,Mountain
+1656,Jerseys,Yes,Mountain
+1657,Mountain Bikes,No,Standard
+1658,Tires,No,Road
+1659,Mountain Bikes,No,Touring
+1660,Tires,No,Mountain
+1661,Road Bikes,No,Touring
+1662,Jerseys,Yes,Road
+1663,Road Bikes,Yes,Mountain
+1664,Helmets,No,Touring
+1665,Helmets,Yes,Standard
+1666,Mountain Bikes,No,Mountain
+1667,Tires,Yes,Road
+1668,Jerseys,No,Standard
+1669,Tires,No,Touring
+1670,Helmets,Yes,Road
+1671,Jerseys,Yes,Touring
+1672,Tires,Yes,Standard
+1673,Helmets,No,Standard
+1674,Tires,Yes,Road
+1675,Jerseys,Yes,Touring
+1676,Tires,Yes,Touring
+1677,Mountain Bikes,No,Road
+1678,Mountain Bikes,No,Standard
+1679,Helmets,Yes,Road
+1680,Helmets,Yes,Mountain
+1681,Mountain Bikes,No,Mountain
+1682,Helmets,Yes,Road
+1683,Tires,No,Road
+1684,Mountain Bikes,Yes,Touring
+1685,Helmets,Yes,Mountain
+1686,Mountain Bikes,No,Road
+1687,Road Bikes,Yes,Standard
+1688,Tires,Yes,Touring
+1689,Road Bikes,No,Mountain
+1690,Mountain Bikes,Yes,Touring
+1691,Mountain Bikes,No,Touring
+1692,Jerseys,Yes,Road
+1693,Jerseys,No,Touring
+1694,Helmets,Yes,Standard
+1695,Road Bikes,No,Touring
+1696,Helmets,No,Road
+1697,Mountain Bikes,No,Touring
+1698,Jerseys,No,Road
+1699,Helmets,Yes,Standard
+1700,Jerseys,No,Mountain
+1701,Road Bikes,No,Touring
+1702,Tires,No,Road
+1703,Helmets,No,Standard
+1704,Tires,Yes,Touring
+1705,Tires,Yes,Touring
+1706,Jerseys,Yes,Touring
+1707,Helmets,No,Touring
+1708,Tires,Yes,Road
+1709,Jerseys,No,Standard
+1710,Road Bikes,No,Touring
+1711,Tires,No,Standard
+1712,Helmets,Yes,Mountain
+1713,Jerseys,Yes,Touring
+1714,Helmets,No,Standard
+1715,Mountain Bikes,No,Road
+1716,Tires,No,Standard
+1717,Jerseys,No,Road
+1718,Road Bikes,No,Mountain
+1719,Road Bikes,Yes,Road
+1720,Jerseys,No,Standard
+1721,Jerseys,No,Standard
+1722,Helmets,No,Touring
+1723,Mountain Bikes,No,Road
+1724,Jerseys,Yes,Road
+1725,Mountain Bikes,Yes,Standard
+1726,Road Bikes,No,Mountain
+1727,Road Bikes,Yes,Standard
+1728,Mountain Bikes,No,Mountain
+1729,Mountain Bikes,Yes,Mountain
+1730,Helmets,Yes,Standard
+1731,Mountain Bikes,No,Road
+1732,Mountain Bikes,No,Mountain
+1733,Tires,Yes,Road
+1734,Mountain Bikes,No,Road
+1735,Mountain Bikes,Yes,Mountain
+1736,Mountain Bikes,No,Touring
+1737,Mountain Bikes,Yes,Standard
+1738,Jerseys,Yes,Road
+1739,Helmets,Yes,Road
+1740,Road Bikes,No,Standard
+1741,Road Bikes,Yes,Touring
+1742,Helmets,Yes,Touring
+1743,Mountain Bikes,Yes,Road
+1744,Road Bikes,Yes,Standard
+1745,Jerseys,No,Mountain
+1746,Mountain Bikes,No,Mountain
+1747,Mountain Bikes,Yes,Touring
+1748,Mountain Bikes,Yes,Standard
+1749,Mountain Bikes,No,Mountain
+1750,Jerseys,No,Touring
+1751,Mountain Bikes,No,Standard
+1752,Jerseys,Yes,Standard
+1753,Tires,Yes,Mountain
+1754,Tires,No,Standard
+1755,Road Bikes,No,Road
+1756,Jerseys,Yes,Road
+1757,Mountain Bikes,Yes,Road
+1758,Helmets,No,Touring
+1759,Tires,No,Standard
+1760,Tires,No,Mountain
+1761,Helmets,No,Standard
+1762,Road Bikes,Yes,Touring
+1763,Tires,Yes,Road
+1764,Road Bikes,No,Mountain
+1765,Mountain Bikes,Yes,Standard
+1766,Mountain Bikes,Yes,Road
+1767,Mountain Bikes,Yes,Mountain
+1768,Tires,No,Mountain
+1769,Jerseys,Yes,Standard
+1770,Road Bikes,Yes,Road
+1771,Jerseys,Yes,Road
+1772,Mountain Bikes,No,Road
+1773,Helmets,No,Touring
+1774,Mountain Bikes,No,Touring
+1775,Mountain Bikes,Yes,Road
+1776,Road Bikes,Yes,Touring
+1777,Jerseys,Yes,Mountain
+1778,Mountain Bikes,Yes,Mountain
+1779,Jerseys,No,Touring
+1780,Road Bikes,No,Road
+1781,Road Bikes,No,Mountain
+1782,Jerseys,Yes,Standard
+1783,Tires,Yes,Touring
+1784,Tires,No,Road
+1785,Helmets,Yes,Road
+1786,Mountain Bikes,Yes,Road
+1787,Road Bikes,Yes,Road
+1788,Helmets,No,Road
+1789,Tires,No,Road
+1790,Tires,No,Touring
+1791,Mountain Bikes,No,Touring
+1792,Mountain Bikes,Yes,Touring
+1793,Mountain Bikes,No,Mountain
+1794,Road Bikes,Yes,Road
+1795,Tires,Yes,Road
+1796,Mountain Bikes,No,Road
+1797,Tires,Yes,Touring
+1798,Road Bikes,No,Road
+1799,Road Bikes,No,Touring
+1800,Mountain Bikes,No,Touring
+1801,Tires,No,Standard
+1802,Jerseys,Yes,Road
+1803,Mountain Bikes,No,Standard
+1804,Mountain Bikes,No,Mountain
+1805,Tires,Yes,Road
+1806,Helmets,Yes,Standard
+1807,Jerseys,No,Road
+1808,Road Bikes,Yes,Road
+1809,Mountain Bikes,Yes,Touring
+1810,Tires,Yes,Touring
+1811,Jerseys,No,Mountain
+1812,Jerseys,No,Standard
+1813,Jerseys,Yes,Standard
+1814,Tires,Yes,Touring
+1815,Road Bikes,No,Mountain
+1816,Road Bikes,Yes,Mountain
+1817,Helmets,Yes,Touring
+1818,Helmets,Yes,Standard
+1819,Jerseys,Yes,Mountain
+1820,Mountain Bikes,Yes,Road
+1821,Tires,Yes,Standard
+1822,Mountain Bikes,Yes,Mountain
+1823,Jerseys,Yes,Mountain
+1824,Mountain Bikes,Yes,Standard
+1825,Road Bikes,No,Road
+1826,Jerseys,No,Road
+1827,Helmets,Yes,Road
+1828,Jerseys,Yes,Mountain
+1829,Road Bikes,No,Standard
+1830,Tires,Yes,Standard
+1831,Road Bikes,No,Standard
+1832,Mountain Bikes,Yes,Road
+1833,Road Bikes,Yes,Touring
+1834,Jerseys,No,Standard
+1835,Road Bikes,No,Standard
+1836,Mountain Bikes,No,Mountain
+1837,Road Bikes,Yes,Road
+1838,Jerseys,No,Mountain
+1839,Tires,Yes,Road
+1840,Helmets,Yes,Mountain
+1841,Mountain Bikes,Yes,Standard
+1842,Road Bikes,No,Standard
+1843,Helmets,No,Mountain
+1844,Jerseys,Yes,Road
+1845,Tires,Yes,Standard
+1846,Mountain Bikes,Yes,Road
+1847,Road Bikes,No,Road
+1848,Jerseys,Yes,Touring
+1849,Mountain Bikes,Yes,Touring
+1850,Mountain Bikes,No,Road
+1851,Tires,Yes,Touring
+1852,Road Bikes,No,Road
+1853,Mountain Bikes,Yes,Touring
+1854,Road Bikes,No,Touring
+1855,Helmets,Yes,Mountain
+1856,Mountain Bikes,No,Mountain
+1857,Helmets,Yes,Standard
+1858,Tires,Yes,Road
+1859,Helmets,No,Touring
+1860,Mountain Bikes,No,Road
+1861,Mountain Bikes,Yes,Road
+1862,Mountain Bikes,No,Mountain
+1863,Helmets,Yes,Mountain
+1864,Helmets,No,Standard
+1865,Jerseys,No,Mountain
+1866,Road Bikes,No,Road
+1867,Mountain Bikes,No,Road
+1868,Road Bikes,No,Touring
+1869,Mountain Bikes,Yes,Mountain
+1870,Helmets,No,Standard
+1871,Tires,Yes,Mountain
+1872,Road Bikes,No,Standard
+1873,Tires,No,Road
+1874,Jerseys,No,Road
+1875,Jerseys,Yes,Touring
+1876,Mountain Bikes,No,Mountain
+1877,Helmets,Yes,Road
+1878,Mountain Bikes,Yes,Road
+1879,Tires,Yes,Road
+1880,Jerseys,No,Standard
+1881,Helmets,No,Touring
+1882,Jerseys,No,Standard
+1883,Helmets,No,Mountain
+1884,Road Bikes,Yes,Standard
+1885,Tires,Yes,Road
+1886,Road Bikes,No,Road
+1887,Tires,Yes,Touring
+1888,Tires,Yes,Touring
+1889,Helmets,No,Mountain
+1890,Tires,Yes,Touring
+1891,Helmets,No,Road
+1892,Road Bikes,Yes,Standard
+1893,Road Bikes,No,Touring
+1894,Jerseys,Yes,Mountain
+1895,Mountain Bikes,Yes,Mountain
+1896,Road Bikes,Yes,Mountain
+1897,Jerseys,Yes,Road
+1898,Road Bikes,No,Road
+1899,Road Bikes,No,Road
+1900,Helmets,Yes,Standard
+1901,Helmets,No,Standard
+1902,Mountain Bikes,Yes,Standard
+1903,Jerseys,Yes,Standard
+1904,Mountain Bikes,No,Touring
+1905,Jerseys,No,Touring
+1906,Tires,No,Road
+1907,Jerseys,No,Road
+1908,Mountain Bikes,Yes,Road
+1909,Helmets,No,Standard
+1910,Mountain Bikes,No,Mountain
+1911,Jerseys,Yes,Standard
+1912,Helmets,No,Touring
+1913,Tires,No,Touring
+1914,Tires,No,Road
+1915,Mountain Bikes,Yes,Road
+1916,Tires,No,Touring
+1917,Tires,No,Mountain
+1918,Jerseys,No,Mountain
+1919,Road Bikes,Yes,Mountain
+1920,Helmets,Yes,Touring
+1921,Road Bikes,Yes,Touring
+1922,Helmets,No,Standard
+1923,Tires,No,Standard
+1924,Tires,No,Touring
+1925,Mountain Bikes,Yes,Mountain
+1926,Tires,Yes,Standard
+1927,Mountain Bikes,No,Touring
+1928,Helmets,Yes,Road
+1929,Road Bikes,Yes,Touring
+1930,Tires,No,Touring
+1931,Mountain Bikes,Yes,Mountain
+1932,Road Bikes,Yes,Standard
+1933,Mountain Bikes,No,Mountain
+1934,Tires,No,Standard
+1935,Tires,No,Road
+1936,Mountain Bikes,Yes,Standard
+1937,Jerseys,Yes,Standard
+1938,Tires,No,Mountain
+1939,Road Bikes,No,Touring
+1940,Jerseys,No,Mountain
+1941,Tires,No,Road
+1942,Mountain Bikes,Yes,Touring
+1943,Tires,Yes,Road
+1944,Jerseys,Yes,Mountain
+1945,Jerseys,No,Standard
+1946,Jerseys,Yes,Mountain
+1947,Helmets,No,Road
+1948,Helmets,No,Standard
+1949,Tires,Yes,Mountain
+1950,Road Bikes,No,Mountain
+1951,Mountain Bikes,No,Mountain
+1952,Helmets,Yes,Road
+1953,Mountain Bikes,Yes,Touring
+1954,Helmets,Yes,Touring
+1955,Tires,No,Standard
+1956,Tires,Yes,Road
+1957,Mountain Bikes,Yes,Standard
+1958,Road Bikes,No,Standard
+1959,Helmets,No,Touring
+1960,Road Bikes,Yes,Road
+1961,Road Bikes,No,Mountain
+1962,Jerseys,No,Road
+1963,Jerseys,No,Mountain
+1964,Helmets,Yes,Mountain
+1965,Mountain Bikes,Yes,Mountain
+1966,Jerseys,Yes,Touring
+1967,Mountain Bikes,Yes,Mountain
+1968,Mountain Bikes,No,Standard
+1969,Jerseys,No,Road
+1970,Jerseys,Yes,Standard
+1971,Mountain Bikes,Yes,Standard
+1972,Helmets,No,Touring
+1973,Helmets,Yes,Road
+1974,Jerseys,Yes,Touring
+1975,Tires,Yes,Mountain
+1976,Helmets,Yes,Touring
+1977,Tires,No,Mountain
+1978,Helmets,Yes,Standard
+1979,Helmets,Yes,Standard
+1980,Jerseys,No,Road
+1981,Road Bikes,Yes,Touring
+1982,Tires,No,Mountain
+1983,Helmets,Yes,Standard
+1984,Helmets,Yes,Road
+1985,Tires,No,Standard
+1986,Tires,Yes,Road
+1987,Tires,Yes,Standard
+1988,Mountain Bikes,No,Standard
+1989,Tires,No,Road
+1990,Mountain Bikes,No,Mountain
+1991,Jerseys,No,Touring
+1992,Jerseys,No,Mountain
+1993,Jerseys,No,Mountain
+1994,Helmets,No,Road
+1995,Mountain Bikes,No,Mountain
+1996,Jerseys,Yes,Standard
+1997,Mountain Bikes,No,Road
+1998,Tires,Yes,Touring
+1999,Road Bikes,Yes,Touring
+2000,Jerseys,No,Mountain
+2001,Mountain Bikes,No,Mountain
+2002,Mountain Bikes,Yes,Road
+2003,Jerseys,No,Road
+2004,Jerseys,Yes,Touring
+2005,Tires,Yes,Mountain
+2006,Mountain Bikes,Yes,Touring
+2007,Tires,No,Standard
+2008,Tires,No,Road
+2009,Tires,No,Touring
+2010,Road Bikes,Yes,Standard
+2011,Jerseys,Yes,Touring
+2012,Helmets,Yes,Road
+2013,Tires,No,Standard
+2014,Tires,No,Road
+2015,Road Bikes,No,Touring
+2016,Helmets,Yes,Standard
+2017,Mountain Bikes,No,Road
+2018,Mountain Bikes,Yes,Road
+2019,Jerseys,No,Mountain
+2020,Mountain Bikes,No,Mountain
+2021,Helmets,Yes,Mountain
+2022,Road Bikes,Yes,Road
+2023,Mountain Bikes,Yes,Road
+2024,Road Bikes,No,Mountain
+2025,Tires,Yes,Mountain
+2026,Tires,Yes,Road
+2027,Road Bikes,Yes,Mountain
+2028,Road Bikes,No,Road
+2029,Helmets,No,Touring
+2030,Jerseys,No,Road
+2031,Tires,No,Touring
+2032,Tires,Yes,Standard
+2033,Road Bikes,Yes,Road
+2034,Tires,No,Touring
+2035,Mountain Bikes,Yes,Mountain
+2036,Helmets,Yes,Standard
+2037,Mountain Bikes,Yes,Standard
+2038,Mountain Bikes,Yes,Road
+2039,Helmets,Yes,Mountain
+2040,Mountain Bikes,Yes,Mountain
+2041,Helmets,No,Standard
+2042,Road Bikes,Yes,Road
+2043,Road Bikes,Yes,Standard
+2044,Mountain Bikes,No,Standard
+2045,Mountain Bikes,Yes,Mountain
+2046,Jerseys,No,Standard
+2047,Road Bikes,Yes,Standard
+2048,Helmets,Yes,Touring
+2049,Tires,Yes,Touring
+2050,Jerseys,Yes,Road
+2051,Mountain Bikes,No,Mountain
+2052,Tires,Yes,Mountain
+2053,Helmets,No,Mountain
+2054,Jerseys,No,Road
+2055,Mountain Bikes,Yes,Standard
+2056,Tires,No,Mountain
+2057,Helmets,Yes,Mountain
+2058,Road Bikes,Yes,Road
+2059,Jerseys,Yes,Standard
+2060,Helmets,No,Touring
+2061,Road Bikes,No,Mountain
+2062,Helmets,Yes,Mountain
+2063,Helmets,No,Standard
+2064,Helmets,Yes,Touring
+2065,Jerseys,Yes,Touring
+2066,Tires,Yes,Standard
+2067,Mountain Bikes,No,Mountain
+2068,Road Bikes,No,Touring
+2069,Helmets,No,Mountain
+2070,Tires,Yes,Mountain
+2071,Helmets,No,Road
+2072,Jerseys,Yes,Standard
+2073,Tires,No,Standard
+2074,Tires,Yes,Standard
+2075,Tires,Yes,Mountain
+2076,Helmets,No,Mountain
+2077,Mountain Bikes,No,Mountain
+2078,Road Bikes,No,Touring
+2079,Mountain Bikes,No,Touring
+2080,Helmets,No,Mountain
+2081,Helmets,Yes,Touring
+2082,Road Bikes,Yes,Standard
+2083,Jerseys,No,Standard
+2084,Mountain Bikes,No,Mountain
+2085,Road Bikes,No,Standard
+2086,Helmets,No,Standard
+2087,Helmets,Yes,Standard
+2088,Helmets,Yes,Standard
+2089,Jerseys,Yes,Standard
+2090,Helmets,No,Standard
+2091,Tires,Yes,Mountain
+2092,Road Bikes,No,Touring
+2093,Tires,Yes,Mountain
+2094,Tires,No,Standard
+2095,Road Bikes,No,Touring
+2096,Road Bikes,Yes,Standard
+2097,Road Bikes,No,Road
+2098,Jerseys,Yes,Road
+2099,Helmets,No,Standard
+2100,Helmets,No,Mountain
+2101,Road Bikes,Yes,Mountain
+2102,Tires,Yes,Touring
+2103,Tires,Yes,Mountain
+2104,Jerseys,Yes,Standard
+2105,Tires,No,Road
+2106,Helmets,Yes,Road
+2107,Tires,No,Road
+2108,Road Bikes,No,Mountain
+2109,Road Bikes,No,Touring
+2110,Helmets,No,Road
+2111,Helmets,Yes,Touring
+2112,Mountain Bikes,No,Standard
+2113,Tires,Yes,Standard
+2114,Jerseys,No,Mountain
+2115,Helmets,No,Road
+2116,Tires,Yes,Road
+2117,Road Bikes,No,Touring
+2118,Tires,Yes,Mountain
+2119,Helmets,No,Road
+2120,Mountain Bikes,No,Touring
+2121,Helmets,Yes,Road
+2122,Road Bikes,No,Touring
+2123,Tires,Yes,Touring
+2124,Jerseys,No,Road
+2125,Tires,Yes,Touring
+2126,Road Bikes,No,Road
+2127,Mountain Bikes,Yes,Mountain
+2128,Mountain Bikes,No,Road
+2129,Helmets,Yes,Touring
+2130,Helmets,Yes,Standard
+2131,Road Bikes,Yes,Standard
+2132,Helmets,No,Mountain
+2133,Road Bikes,Yes,Road
+2134,Road Bikes,Yes,Road
+2135,Jerseys,Yes,Road
+2136,Mountain Bikes,Yes,Mountain
+2137,Jerseys,Yes,Standard
+2138,Tires,Yes,Road
+2139,Mountain Bikes,Yes,Standard
+2140,Mountain Bikes,Yes,Mountain
+2141,Mountain Bikes,No,Mountain
+2142,Tires,Yes,Touring
+2143,Mountain Bikes,No,Touring
+2144,Jerseys,No,Mountain
+2145,Jerseys,Yes,Road
+2146,Tires,No,Road
+2147,Tires,Yes,Road
+2148,Road Bikes,Yes,Standard
+2149,Mountain Bikes,Yes,Mountain
+2150,Road Bikes,Yes,Standard
+2151,Jerseys,No,Standard
+2152,Tires,Yes,Touring
+2153,Jerseys,No,Standard
+2154,Tires,No,Road
+2155,Jerseys,No,Standard
+2156,Tires,Yes,Touring
+2157,Helmets,Yes,Road
+2158,Mountain Bikes,No,Touring
+2159,Mountain Bikes,No,Touring
+2160,Mountain Bikes,Yes,Standard
+2161,Tires,No,Road
+2162,Jerseys,Yes,Mountain
+2163,Mountain Bikes,No,Mountain
+2164,Jerseys,Yes,Touring
+2165,Helmets,No,Mountain
+2166,Tires,Yes,Standard
+2167,Road Bikes,Yes,Mountain
+2168,Road Bikes,Yes,Mountain
+2169,Mountain Bikes,Yes,Mountain
+2170,Tires,Yes,Road
+2171,Helmets,Yes,Mountain
+2172,Mountain Bikes,Yes,Touring
+2173,Road Bikes,No,Road
+2174,Mountain Bikes,Yes,Road
+2175,Tires,No,Road
+2176,Helmets,Yes,Touring
+2177,Jerseys,No,Mountain
+2178,Tires,Yes,Standard
+2179,Jerseys,Yes,Standard
+2180,Tires,No,Mountain
+2181,Tires,Yes,Standard
+2182,Jerseys,Yes,Touring
+2183,Road Bikes,No,Mountain
+2184,Road Bikes,Yes,Mountain
+2185,Jerseys,No,Touring
+2186,Tires,Yes,Road
+2187,Helmets,Yes,Standard
+2188,Jerseys,Yes,Road
+2189,Mountain Bikes,Yes,Road
+2190,Tires,Yes,Mountain
+2191,Road Bikes,Yes,Mountain
+2192,Helmets,Yes,Touring
+2193,Jerseys,No,Road
+2194,Jerseys,Yes,Road
+2195,Tires,No,Mountain
+2196,Road Bikes,Yes,Touring
+2197,Road Bikes,Yes,Mountain
+2198,Helmets,Yes,Mountain
+2199,Jerseys,No,Mountain
+2200,Road Bikes,Yes,Touring
+2201,Mountain Bikes,No,Standard
+2202,Helmets,Yes,Standard
+2203,Helmets,No,Standard
+2204,Road Bikes,Yes,Standard
+2205,Road Bikes,No,Touring
+2206,Mountain Bikes,No,Touring
+2207,Jerseys,Yes,Mountain
+2208,Jerseys,No,Mountain
+2209,Tires,Yes,Touring
+2210,Tires,No,Road
+2211,Helmets,No,Mountain
+2212,Tires,No,Touring
+2213,Tires,No,Mountain
+2214,Road Bikes,No,Road
+2215,Tires,Yes,Standard
+2216,Helmets,Yes,Road
+2217,Helmets,No,Road
+2218,Tires,No,Touring
+2219,Road Bikes,No,Road
+2220,Jerseys,Yes,Touring
+2221,Tires,Yes,Mountain
+2222,Mountain Bikes,Yes,Standard
+2223,Mountain Bikes,Yes,Mountain
+2224,Helmets,No,Touring
+2225,Jerseys,Yes,Mountain
+2226,Helmets,Yes,Touring
+2227,Road Bikes,No,Touring
+2228,Road Bikes,No,Mountain
+2229,Tires,No,Mountain
+2230,Road Bikes,Yes,Standard
+2231,Jerseys,No,Standard
+2232,Mountain Bikes,Yes,Standard
+2233,Jerseys,No,Standard
+2234,Helmets,Yes,Road
+2235,Helmets,Yes,Road
+2236,Road Bikes,No,Mountain
+2237,Tires,Yes,Standard
+2238,Tires,No,Road
+2239,Helmets,Yes,Standard
+2240,Mountain Bikes,Yes,Standard
+2241,Jerseys,No,Mountain
+2242,Helmets,No,Mountain
+2243,Road Bikes,Yes,Road
+2244,Helmets,No,Road
+2245,Jerseys,No,Mountain
+2246,Road Bikes,Yes,Mountain
+2247,Tires,No,Standard
+2248,Jerseys,Yes,Road
+2249,Helmets,No,Standard
+2250,Road Bikes,Yes,Road
+2251,Road Bikes,Yes,Touring
+2252,Mountain Bikes,No,Touring
+2253,Jerseys,Yes,Touring
+2254,Helmets,No,Touring
+2255,Tires,No,Standard
+2256,Tires,No,Mountain
+2257,Road Bikes,Yes,Standard
+2258,Tires,Yes,Mountain
+2259,Tires,Yes,Touring
+2260,Helmets,No,Touring
+2261,Tires,Yes,Touring
+2262,Jerseys,Yes,Road
+2263,Tires,No,Touring
+2264,Road Bikes,Yes,Mountain
+2265,Helmets,Yes,Road
+2266,Mountain Bikes,Yes,Road
+2267,Tires,No,Road
+2268,Road Bikes,No,Standard
+2269,Jerseys,Yes,Road
+2270,Road Bikes,No,Road
+2271,Mountain Bikes,Yes,Touring
+2272,Tires,Yes,Standard
+2273,Jerseys,Yes,Road
+2274,Road Bikes,Yes,Touring
+2275,Road Bikes,Yes,Road
+2276,Helmets,Yes,Mountain
+2277,Jerseys,No,Standard
+2278,Tires,No,Mountain
+2279,Road Bikes,Yes,Touring
+2280,Jerseys,No,Road
+2281,Tires,Yes,Touring
+2282,Mountain Bikes,No,Touring
+2283,Jerseys,No,Mountain
+2284,Jerseys,Yes,Road
+2285,Tires,No,Road
+2286,Road Bikes,Yes,Standard
+2287,Helmets,Yes,Touring
+2288,Mountain Bikes,Yes,Standard
+2289,Mountain Bikes,No,Road
+2290,Road Bikes,Yes,Standard
+2291,Mountain Bikes,No,Mountain
+2292,Jerseys,Yes,Road
+2293,Road Bikes,Yes,Road
+2294,Tires,Yes,Road
+2295,Road Bikes,No,Road
+2296,Helmets,Yes,Mountain
+2297,Road Bikes,Yes,Touring
+2298,Road Bikes,Yes,Road
+2299,Tires,No,Road
+2300,Tires,Yes,Touring
+2301,Mountain Bikes,Yes,Touring
+2302,Tires,No,Road
+2303,Mountain Bikes,No,Standard
+2304,Road Bikes,No,Mountain
+2305,Tires,Yes,Mountain
+2306,Road Bikes,No,Touring
+2307,Road Bikes,Yes,Road
+2308,Tires,No,Mountain
+2309,Tires,No,Standard
+2310,Jerseys,No,Mountain
+2311,Helmets,No,Standard
+2312,Mountain Bikes,No,Mountain
+2313,Mountain Bikes,Yes,Road
+2314,Jerseys,No,Mountain
+2315,Road Bikes,Yes,Road
+2316,Tires,No,Road
+2317,Road Bikes,Yes,Touring
+2318,Helmets,Yes,Touring
+2319,Mountain Bikes,No,Mountain
+2320,Tires,No,Road
+2321,Road Bikes,Yes,Mountain
+2322,Tires,Yes,Standard
+2323,Road Bikes,Yes,Touring
+2324,Tires,No,Road
+2325,Mountain Bikes,Yes,Road
+2326,Helmets,No,Mountain
+2327,Jerseys,No,Road
+2328,Road Bikes,Yes,Road
+2329,Mountain Bikes,Yes,Touring
+2330,Mountain Bikes,No,Standard
+2331,Tires,Yes,Standard
+2332,Tires,Yes,Standard
+2333,Tires,No,Road
+2334,Helmets,Yes,Touring
+2335,Jerseys,No,Touring
+2336,Mountain Bikes,No,Road
+2337,Road Bikes,Yes,Road
+2338,Tires,No,Road
+2339,Road Bikes,Yes,Mountain
+2340,Mountain Bikes,Yes,Touring
+2341,Jerseys,Yes,Road
+2342,Road Bikes,Yes,Mountain
+2343,Helmets,Yes,Road
+2344,Road Bikes,Yes,Road
+2345,Road Bikes,Yes,Road
+2346,Helmets,No,Standard
+2347,Mountain Bikes,Yes,Touring
+2348,Helmets,No,Mountain
+2349,Mountain Bikes,Yes,Touring
+2350,Road Bikes,No,Road
+2351,Mountain Bikes,No,Standard
+2352,Helmets,No,Road
+2353,Helmets,Yes,Standard
+2354,Mountain Bikes,Yes,Touring
+2355,Mountain Bikes,No,Touring
+2356,Jerseys,No,Touring
+2357,Mountain Bikes,No,Standard
+2358,Helmets,Yes,Touring
+2359,Jerseys,Yes,Touring
+2360,Mountain Bikes,No,Touring
+2361,Helmets,No,Touring
+2362,Road Bikes,Yes,Road
+2363,Mountain Bikes,Yes,Standard
+2364,Road Bikes,No,Standard
+2365,Road Bikes,Yes,Road
+2366,Helmets,Yes,Standard
+2367,Road Bikes,No,Road
+2368,Road Bikes,No,Standard
+2369,Mountain Bikes,Yes,Standard
+2370,Road Bikes,No,Mountain
+2371,Road Bikes,No,Road
+2372,Helmets,Yes,Standard
+2373,Helmets,No,Standard
+2374,Road Bikes,Yes,Road
+2375,Jerseys,No,Road
+2376,Helmets,No,Touring
+2377,Mountain Bikes,Yes,Road
+2378,Road Bikes,No,Standard
+2379,Road Bikes,No,Road
+2380,Mountain Bikes,Yes,Touring
+2381,Mountain Bikes,Yes,Standard
+2382,Mountain Bikes,No,Mountain
+2383,Tires,No,Standard
+2384,Mountain Bikes,No,Road
+2385,Road Bikes,Yes,Touring
+2386,Helmets,Yes,Touring
+2387,Tires,No,Touring
+2388,Tires,Yes,Mountain
+2389,Road Bikes,No,Road
+2390,Road Bikes,No,Road
+2391,Mountain Bikes,No,Road
+2392,Tires,Yes,Road
+2393,Road Bikes,No,Touring
+2394,Tires,No,Touring
+2395,Mountain Bikes,No,Standard
+2396,Helmets,No,Touring
+2397,Jerseys,Yes,Touring
+2398,Tires,No,Standard
+2399,Mountain Bikes,Yes,Mountain
+2400,Jerseys,Yes,Mountain
+2401,Helmets,Yes,Standard
+2402,Mountain Bikes,No,Mountain
+2403,Helmets,Yes,Touring
+2404,Tires,Yes,Mountain
+2405,Tires,Yes,Standard
+2406,Mountain Bikes,No,Standard
+2407,Road Bikes,Yes,Standard
+2408,Tires,No,Standard
+2409,Road Bikes,No,Standard
+2410,Jerseys,No,Mountain
+2411,Tires,Yes,Mountain
+2412,Road Bikes,Yes,Road
+2413,Mountain Bikes,Yes,Road
+2414,Tires,Yes,Road
+2415,Mountain Bikes,No,Mountain
+2416,Mountain Bikes,No,Touring
+2417,Tires,Yes,Standard
+2418,Helmets,No,Road
+2419,Tires,No,Mountain
+2420,Helmets,Yes,Standard
+2421,Road Bikes,No,Touring
+2422,Jerseys,Yes,Mountain
+2423,Road Bikes,Yes,Road
+2424,Jerseys,Yes,Touring
+2425,Helmets,Yes,Mountain
+2426,Tires,No,Touring
+2427,Helmets,Yes,Road
+2428,Helmets,Yes,Standard
+2429,Jerseys,Yes,Road
+2430,Helmets,No,Touring
+2431,Road Bikes,No,Touring
+2432,Helmets,No,Road
+2433,Road Bikes,Yes,Touring
+2434,Mountain Bikes,No,Road
+2435,Helmets,No,Road
+2436,Mountain Bikes,No,Touring
+2437,Mountain Bikes,No,Road
+2438,Jerseys,Yes,Road
+2439,Tires,Yes,Mountain
+2440,Jerseys,Yes,Road
+2441,Tires,No,Touring
+2442,Helmets,No,Mountain
+2443,Helmets,Yes,Mountain
+2444,Mountain Bikes,Yes,Standard
+2445,Jerseys,No,Standard
+2446,Mountain Bikes,No,Mountain
+2447,Road Bikes,No,Road
+2448,Mountain Bikes,Yes,Touring
+2449,Helmets,Yes,Mountain
+2450,Road Bikes,No,Touring
+2451,Jerseys,Yes,Road
+2452,Mountain Bikes,No,Standard
+2453,Helmets,No,Mountain
+2454,Mountain Bikes,No,Standard
+2455,Mountain Bikes,Yes,Touring
+2456,Road Bikes,Yes,Road
+2457,Helmets,No,Road
+2458,Helmets,Yes,Mountain
+2459,Mountain Bikes,No,Touring
+2460,Helmets,Yes,Mountain
+2461,Jerseys,Yes,Touring
+2462,Jerseys,No,Touring
+2463,Road Bikes,No,Road
+2464,Tires,Yes,Standard
+2465,Tires,No,Mountain
+2466,Road Bikes,No,Touring
+2467,Tires,No,Mountain
+2468,Mountain Bikes,Yes,Touring
+2469,Road Bikes,No,Standard
+2470,Mountain Bikes,Yes,Mountain
+2471,Mountain Bikes,No,Road
+2472,Jerseys,No,Road
+2473,Road Bikes,No,Road
+2474,Road Bikes,Yes,Touring
+2475,Road Bikes,No,Standard
+2476,Mountain Bikes,No,Mountain
+2477,Road Bikes,Yes,Mountain
+2478,Mountain Bikes,No,Touring
+2479,Road Bikes,No,Touring
+2480,Tires,No,Mountain
+2481,Helmets,No,Mountain
+2482,Tires,No,Standard
+2483,Helmets,No,Standard
+2484,Mountain Bikes,No,Mountain
+2485,Tires,No,Mountain
+2486,Mountain Bikes,No,Standard
+2487,Helmets,Yes,Mountain
+2488,Jerseys,No,Road
+2489,Helmets,Yes,Standard
+2490,Road Bikes,Yes,Standard
+2491,Helmets,No,Mountain
+2492,Road Bikes,Yes,Road
+2493,Jerseys,No,Road
+2494,Helmets,Yes,Road
+2495,Road Bikes,No,Mountain
+2496,Helmets,Yes,Mountain
+2497,Mountain Bikes,No,Standard
+2498,Mountain Bikes,Yes,Mountain
+2499,Road Bikes,No,Road
+2500,Helmets,Yes,Mountain
+2501,Mountain Bikes,Yes,Road
+2502,Tires,Yes,Standard
+2503,Road Bikes,Yes,Mountain
+2504,Helmets,No,Touring
+2505,Mountain Bikes,Yes,Mountain
+2506,Mountain Bikes,No,Standard
+2507,Mountain Bikes,Yes,Standard
+2508,Helmets,No,Mountain
+2509,Tires,No,Mountain
+2510,Mountain Bikes,Yes,Standard
+2511,Helmets,Yes,Standard
+2512,Helmets,Yes,Road
+2513,Road Bikes,Yes,Road
+2514,Road Bikes,No,Mountain
+2515,Jerseys,No,Mountain
+2516,Road Bikes,Yes,Mountain
+2517,Helmets,Yes,Mountain
+2518,Tires,Yes,Touring
+2519,Helmets,Yes,Touring
+2520,Jerseys,No,Standard
+2521,Jerseys,Yes,Mountain
+2522,Road Bikes,Yes,Standard
+2523,Mountain Bikes,Yes,Standard
+2524,Road Bikes,Yes,Standard
+2525,Mountain Bikes,Yes,Touring
+2526,Helmets,Yes,Mountain
+2527,Mountain Bikes,No,Road
+2528,Mountain Bikes,No,Touring
+2529,Tires,No,Road
+2530,Tires,No,Road
+2531,Tires,Yes,Mountain
+2532,Road Bikes,No,Touring
+2533,Mountain Bikes,Yes,Standard
+2534,Tires,Yes,Mountain
+2535,Jerseys,Yes,Touring
+2536,Mountain Bikes,No,Standard
+2537,Tires,No,Standard
+2538,Mountain Bikes,No,Standard
+2539,Tires,No,Road
+2540,Tires,No,Mountain
+2541,Road Bikes,Yes,Road
+2542,Jerseys,No,Standard
+2543,Road Bikes,No,Mountain
+2544,Tires,Yes,Road
+2545,Tires,Yes,Road
+2546,Helmets,Yes,Mountain
+2547,Helmets,No,Touring
+2548,Mountain Bikes,Yes,Standard
+2549,Mountain Bikes,No,Road
+2550,Tires,Yes,Mountain
+2551,Road Bikes,Yes,Mountain
+2552,Jerseys,No,Mountain
+2553,Tires,Yes,Mountain
+2554,Tires,No,Touring
+2555,Jerseys,No,Touring
+2556,Tires,Yes,Standard
+2557,Mountain Bikes,No,Touring
+2558,Tires,No,Standard
+2559,Jerseys,No,Touring
+2560,Jerseys,Yes,Mountain
+2561,Jerseys,No,Road
+2562,Helmets,No,Touring
+2563,Mountain Bikes,No,Standard
+2564,Road Bikes,No,Touring
+2565,Road Bikes,No,Mountain
+2566,Tires,Yes,Road
+2567,Helmets,No,Road
+2568,Jerseys,No,Mountain
+2569,Road Bikes,Yes,Mountain
+2570,Road Bikes,Yes,Standard
+2571,Tires,Yes,Standard
+2572,Tires,Yes,Touring
+2573,Helmets,Yes,Mountain
+2574,Jerseys,Yes,Standard
+2575,Jerseys,No,Touring
+2576,Jerseys,No,Touring
+2577,Mountain Bikes,Yes,Standard
+2578,Helmets,No,Road
+2579,Helmets,Yes,Touring
+2580,Jerseys,No,Road
+2581,Jerseys,No,Road
+2582,Helmets,Yes,Touring
+2583,Mountain Bikes,Yes,Mountain
+2584,Tires,Yes,Touring
+2585,Tires,Yes,Standard
+2586,Mountain Bikes,No,Mountain
+2587,Road Bikes,Yes,Mountain
+2588,Jerseys,Yes,Standard
+2589,Jerseys,Yes,Mountain
+2590,Mountain Bikes,Yes,Standard
+2591,Jerseys,No,Touring
+2592,Road Bikes,No,Mountain
+2593,Tires,No,Standard
+2594,Road Bikes,No,Mountain
+2595,Road Bikes,Yes,Road
+2596,Helmets,No,Touring
+2597,Jerseys,No,Touring
+2598,Helmets,Yes,Standard
+2599,Jerseys,Yes,Road
+2600,Helmets,Yes,Mountain
+2601,Road Bikes,No,Touring
+2602,Tires,Yes,Touring
+2603,Tires,Yes,Road
+2604,Tires,No,Mountain
+2605,Mountain Bikes,Yes,Touring
+2606,Tires,Yes,Road
+2607,Jerseys,Yes,Mountain
+2608,Tires,Yes,Mountain
+2609,Jerseys,No,Standard
+2610,Helmets,Yes,Mountain
+2611,Road Bikes,No,Road
+2612,Tires,No,Mountain
+2613,Helmets,Yes,Road
+2614,Jerseys,No,Touring
+2615,Helmets,No,Road
+2616,Helmets,No,Standard
+2617,Helmets,Yes,Standard
+2618,Mountain Bikes,No,Standard
+2619,Helmets,No,Road
+2620,Jerseys,No,Standard
+2621,Helmets,No,Road
+2622,Jerseys,Yes,Mountain
+2623,Jerseys,Yes,Standard
+2624,Jerseys,No,Standard
+2625,Mountain Bikes,No,Road
+2626,Tires,No,Road
+2627,Road Bikes,Yes,Touring
+2628,Road Bikes,Yes,Road
+2629,Mountain Bikes,Yes,Mountain
+2630,Mountain Bikes,Yes,Road
+2631,Mountain Bikes,Yes,Road
+2632,Tires,No,Road
+2633,Tires,Yes,Touring
+2634,Road Bikes,No,Touring
+2635,Helmets,No,Touring
+2636,Road Bikes,No,Touring
+2637,Road Bikes,Yes,Standard
+2638,Jerseys,No,Touring
+2639,Mountain Bikes,Yes,Road
+2640,Jerseys,Yes,Touring
+2641,Helmets,No,Standard
+2642,Jerseys,Yes,Touring
+2643,Jerseys,No,Standard
+2644,Mountain Bikes,No,Standard
+2645,Tires,Yes,Road
+2646,Road Bikes,No,Road
+2647,Road Bikes,Yes,Mountain
+2648,Tires,Yes,Standard
+2649,Helmets,No,Touring
+2650,Helmets,Yes,Standard
+2651,Mountain Bikes,No,Standard
+2652,Jerseys,No,Mountain
+2653,Helmets,No,Road
+2654,Tires,No,Touring
+2655,Road Bikes,Yes,Road
+2656,Jerseys,No,Mountain
+2657,Helmets,Yes,Standard
+2658,Jerseys,Yes,Touring
+2659,Tires,Yes,Standard
+2660,Tires,No,Road
+2661,Road Bikes,No,Road
+2662,Tires,No,Standard
+2663,Jerseys,No,Road
+2664,Jerseys,Yes,Road
+2665,Road Bikes,Yes,Mountain
+2666,Road Bikes,No,Touring
+2667,Tires,No,Mountain
+2668,Tires,No,Road
+2669,Tires,No,Mountain
+2670,Jerseys,No,Road
+2671,Jerseys,No,Mountain
+2672,Tires,Yes,Standard
+2673,Jerseys,No,Touring
+2674,Helmets,Yes,Touring
+2675,Helmets,Yes,Mountain
+2676,Mountain Bikes,Yes,Touring
+2677,Mountain Bikes,No,Standard
+2678,Jerseys,No,Road
+2679,Tires,No,Touring
+2680,Jerseys,No,Road
+2681,Jerseys,Yes,Standard
+2682,Road Bikes,Yes,Standard
+2683,Road Bikes,No,Touring
+2684,Helmets,Yes,Standard
+2685,Jerseys,Yes,Standard
+2686,Road Bikes,No,Touring
+2687,Tires,No,Mountain
+2688,Mountain Bikes,No,Mountain
+2689,Mountain Bikes,Yes,Mountain
+2690,Helmets,Yes,Standard
+2691,Jerseys,No,Mountain
+2692,Jerseys,No,Touring
+2693,Road Bikes,No,Road
+2694,Jerseys,Yes,Mountain
+2695,Road Bikes,No,Road
+2696,Tires,Yes,Standard
+2697,Road Bikes,No,Road
+2698,Jerseys,Yes,Touring
+2699,Road Bikes,No,Touring
+2700,Jerseys,No,Road
+2701,Road Bikes,No,Touring
+2702,Jerseys,Yes,Standard
+2703,Jerseys,Yes,Touring
+2704,Tires,No,Mountain
+2705,Road Bikes,No,Mountain
+2706,Helmets,No,Touring
+2707,Tires,No,Road
+2708,Road Bikes,Yes,Mountain
+2709,Mountain Bikes,Yes,Standard
+2710,Jerseys,No,Road
+2711,Mountain Bikes,Yes,Road
+2712,Tires,No,Mountain
+2713,Jerseys,Yes,Road
+2714,Mountain Bikes,No,Standard
+2715,Mountain Bikes,Yes,Mountain
+2716,Mountain Bikes,Yes,Touring
+2717,Helmets,Yes,Touring
+2718,Tires,No,Mountain
+2719,Tires,No,Standard
+2720,Road Bikes,No,Standard
+2721,Mountain Bikes,No,Touring
+2722,Jerseys,Yes,Mountain
+2723,Helmets,Yes,Mountain
+2724,Tires,Yes,Standard
+2725,Road Bikes,Yes,Road
+2726,Tires,Yes,Road
+2727,Tires,No,Mountain
+2728,Road Bikes,Yes,Road
+2729,Helmets,No,Standard
+2730,Tires,Yes,Touring
+2731,Road Bikes,No,Touring
+2732,Road Bikes,No,Road
+2733,Jerseys,No,Road
+2734,Road Bikes,Yes,Mountain
+2735,Jerseys,Yes,Standard
+2736,Helmets,Yes,Standard
+2737,Helmets,Yes,Road
+2738,Road Bikes,Yes,Touring
+2739,Helmets,No,Mountain
+2740,Mountain Bikes,Yes,Road
+2741,Tires,Yes,Standard
+2742,Tires,No,Mountain
+2743,Mountain Bikes,No,Touring
+2744,Mountain Bikes,No,Touring
+2745,Tires,Yes,Mountain
+2746,Tires,No,Mountain
+2747,Jerseys,Yes,Standard
+2748,Road Bikes,No,Touring
+2749,Road Bikes,No,Standard
+2750,Helmets,No,Mountain
+2751,Jerseys,Yes,Mountain
+2752,Road Bikes,No,Road
+2753,Tires,No,Touring
+2754,Tires,Yes,Road
+2755,Road Bikes,Yes,Touring
+2756,Helmets,No,Standard
+2757,Road Bikes,No,Mountain
+2758,Tires,Yes,Road
+2759,Helmets,Yes,Mountain
+2760,Helmets,No,Touring
+2761,Jerseys,No,Road
+2762,Helmets,Yes,Mountain
+2763,Tires,No,Road
+2764,Road Bikes,No,Standard
+2765,Tires,Yes,Standard
+2766,Helmets,Yes,Standard
+2767,Mountain Bikes,Yes,Touring
+2768,Jerseys,No,Standard
+2769,Helmets,No,Touring
+2770,Helmets,No,Mountain
+2771,Jerseys,No,Touring
+2772,Mountain Bikes,No,Road
+2773,Tires,Yes,Standard
+2774,Jerseys,No,Mountain
+2775,Road Bikes,Yes,Touring
+2776,Mountain Bikes,No,Road
+2777,Road Bikes,No,Mountain
+2778,Helmets,No,Standard
+2779,Tires,Yes,Mountain
+2780,Jerseys,Yes,Touring
+2781,Tires,No,Mountain
+2782,Mountain Bikes,Yes,Mountain
+2783,Road Bikes,Yes,Mountain
+2784,Road Bikes,No,Mountain
+2785,Jerseys,Yes,Touring
+2786,Mountain Bikes,Yes,Touring
+2787,Jerseys,Yes,Mountain
+2788,Mountain Bikes,Yes,Standard
+2789,Helmets,No,Road
+2790,Tires,No,Mountain
+2791,Mountain Bikes,No,Touring
+2792,Tires,No,Mountain
+2793,Jerseys,Yes,Standard
+2794,Tires,No,Touring
+2795,Jerseys,No,Road
+2796,Helmets,No,Standard
+2797,Mountain Bikes,Yes,Standard
+2798,Mountain Bikes,Yes,Mountain
+2799,Jerseys,No,Standard
+2800,Jerseys,Yes,Touring
+2801,Helmets,Yes,Road
+2802,Jerseys,Yes,Road
+2803,Tires,Yes,Touring
+2804,Helmets,No,Touring
+2805,Helmets,No,Standard
+2806,Helmets,Yes,Standard
+2807,Tires,No,Standard
+2808,Helmets,No,Mountain
+2809,Jerseys,Yes,Touring
+2810,Road Bikes,Yes,Mountain
+2811,Jerseys,Yes,Road
+2812,Helmets,Yes,Standard
+2813,Road Bikes,Yes,Road
+2814,Jerseys,No,Standard
+2815,Tires,No,Mountain
+2816,Mountain Bikes,Yes,Road
+2817,Tires,No,Touring
+2818,Jerseys,Yes,Road
+2819,Road Bikes,No,Road
+2820,Helmets,No,Road
+2821,Helmets,No,Road
+2822,Jerseys,Yes,Mountain
+2823,Helmets,No,Standard
+2824,Jerseys,Yes,Mountain
+2825,Helmets,No,Mountain
+2826,Helmets,Yes,Mountain
+2827,Tires,No,Road
+2828,Jerseys,Yes,Touring
+2829,Mountain Bikes,Yes,Standard
+2830,Jerseys,Yes,Road
+2831,Mountain Bikes,Yes,Standard
+2832,Tires,Yes,Standard
+2833,Tires,Yes,Standard
+2834,Mountain Bikes,Yes,Road
+2835,Mountain Bikes,No,Mountain
+2836,Tires,No,Touring
+2837,Jerseys,Yes,Standard
+2838,Jerseys,Yes,Touring
+2839,Helmets,No,Mountain
+2840,Jerseys,No,Standard
+2841,Mountain Bikes,Yes,Touring
+2842,Tires,No,Standard
+2843,Helmets,Yes,Standard
+2844,Jerseys,No,Touring
+2845,Jerseys,Yes,Road
+2846,Mountain Bikes,Yes,Mountain
+2847,Tires,No,Touring
+2848,Tires,Yes,Road
+2849,Mountain Bikes,Yes,Touring
+2850,Helmets,Yes,Standard
+2851,Road Bikes,No,Mountain
+2852,Tires,Yes,Road
+2853,Mountain Bikes,No,Mountain
+2854,Helmets,No,Touring
+2855,Jerseys,Yes,Road
+2856,Mountain Bikes,No,Mountain
+2857,Road Bikes,No,Touring
+2858,Jerseys,No,Touring
+2859,Tires,No,Mountain
+2860,Jerseys,Yes,Touring
+2861,Tires,Yes,Standard
+2862,Jerseys,No,Touring
+2863,Helmets,No,Road
+2864,Helmets,No,Mountain
+2865,Tires,Yes,Standard
+2866,Mountain Bikes,No,Road
+2867,Helmets,No,Mountain
+2868,Jerseys,Yes,Road
+2869,Jerseys,No,Mountain
+2870,Mountain Bikes,Yes,Standard
+2871,Mountain Bikes,No,Mountain
+2872,Jerseys,No,Touring
+2873,Road Bikes,No,Touring
+2874,Road Bikes,No,Touring
+2875,Road Bikes,No,Touring
+2876,Jerseys,Yes,Standard
+2877,Helmets,Yes,Road
+2878,Tires,No,Touring
+2879,Tires,Yes,Touring
+2880,Mountain Bikes,Yes,Standard
+2881,Helmets,Yes,Mountain
+2882,Jerseys,No,Mountain
+2883,Helmets,Yes,Road
+2884,Road Bikes,Yes,Mountain
+2885,Mountain Bikes,Yes,Standard
+2886,Helmets,No,Standard
+2887,Tires,Yes,Standard
+2888,Road Bikes,No,Touring
+2889,Tires,No,Road
+2890,Mountain Bikes,Yes,Mountain
+2891,Mountain Bikes,No,Road
+2892,Tires,Yes,Mountain
+2893,Jerseys,Yes,Touring
+2894,Jerseys,No,Touring
+2895,Helmets,No,Standard
+2896,Tires,Yes,Standard
+2897,Mountain Bikes,Yes,Road
+2898,Road Bikes,Yes,Road
+2899,Tires,No,Standard
+2900,Jerseys,Yes,Touring
+2901,Mountain Bikes,Yes,Standard
+2902,Jerseys,Yes,Road
+2903,Helmets,No,Road
+2904,Helmets,Yes,Standard
+2905,Jerseys,No,Touring
+2906,Helmets,No,Road
+2907,Jerseys,Yes,Road
+2908,Tires,No,Mountain
+2909,Tires,Yes,Standard
+2910,Jerseys,No,Touring
+2911,Helmets,Yes,Mountain
+2912,Road Bikes,No,Touring
+2913,Helmets,Yes,Road
+2914,Helmets,No,Road
+2915,Helmets,No,Road
+2916,Helmets,Yes,Mountain
+2917,Helmets,Yes,Mountain
+2918,Helmets,No,Touring
+2919,Mountain Bikes,No,Road
+2920,Road Bikes,No,Mountain
+2921,Tires,Yes,Touring
+2922,Tires,No,Road
+2923,Mountain Bikes,Yes,Road
+2924,Mountain Bikes,Yes,Road
+2925,Helmets,Yes,Mountain
+2926,Mountain Bikes,Yes,Mountain
+2927,Road Bikes,No,Standard
+2928,Mountain Bikes,No,Road
+2929,Helmets,Yes,Touring
+2930,Road Bikes,No,Mountain
+2931,Jerseys,No,Touring
+2932,Jerseys,No,Mountain
+2933,Road Bikes,No,Standard
+2934,Jerseys,No,Mountain
+2935,Helmets,Yes,Mountain
+2936,Mountain Bikes,Yes,Mountain
+2937,Mountain Bikes,Yes,Road
+2938,Helmets,Yes,Mountain
+2939,Jerseys,Yes,Standard
+2940,Mountain Bikes,Yes,Touring
+2941,Mountain Bikes,No,Mountain
+2942,Jerseys,No,Touring
+2943,Helmets,Yes,Road
+2944,Helmets,Yes,Road
+2945,Mountain Bikes,No,Touring
+2946,Helmets,Yes,Road
+2947,Helmets,Yes,Touring
+2948,Tires,No,Touring
+2949,Mountain Bikes,Yes,Standard
+2950,Helmets,No,Mountain
+2951,Mountain Bikes,Yes,Touring
+2952,Helmets,Yes,Touring
+2953,Jerseys,No,Road
+2954,Road Bikes,No,Touring
+2955,Jerseys,Yes,Road
+2956,Road Bikes,Yes,Standard
+2957,Road Bikes,No,Touring
+2958,Road Bikes,Yes,Touring
+2959,Jerseys,No,Touring
+2960,Helmets,No,Standard
+2961,Mountain Bikes,Yes,Touring
+2962,Jerseys,No,Standard
+2963,Helmets,Yes,Touring
+2964,Mountain Bikes,No,Touring
+2965,Mountain Bikes,No,Mountain
+2966,Road Bikes,No,Road
+2967,Road Bikes,No,Standard
+2968,Mountain Bikes,No,Road
+2969,Tires,Yes,Mountain
+2970,Jerseys,No,Road
+2971,Jerseys,Yes,Touring
+2972,Helmets,Yes,Touring
+2973,Mountain Bikes,No,Road
+2974,Mountain Bikes,Yes,Touring
+2975,Jerseys,Yes,Touring
+2976,Mountain Bikes,Yes,Touring
+2977,Helmets,No,Mountain
+2978,Helmets,No,Touring
+2979,Jerseys,No,Touring
+2980,Tires,No,Standard
+2981,Helmets,No,Standard
+2982,Mountain Bikes,No,Touring
+2983,Jerseys,No,Mountain
+2984,Tires,No,Mountain
+2985,Mountain Bikes,No,Touring
+2986,Mountain Bikes,No,Touring
+2987,Tires,No,Standard
+2988,Jerseys,Yes,Touring
+2989,Jerseys,No,Touring
+2990,Road Bikes,Yes,Road
+2991,Jerseys,No,Mountain
+2992,Mountain Bikes,No,Touring
+2993,Tires,Yes,Mountain
+2994,Jerseys,Yes,Standard
+2995,Jerseys,Yes,Standard
+2996,Road Bikes,Yes,Mountain
+2997,Jerseys,Yes,Mountain
+2998,Tires,No,Touring
+2999,Mountain Bikes,No,Standard
+3000,Mountain Bikes,No,Mountain
+3001,Road Bikes,Yes,Touring
+3002,Mountain Bikes,Yes,Standard
+3003,Tires,Yes,Road
+3004,Tires,No,Mountain
+3005,Helmets,Yes,Mountain
+3006,Tires,Yes,Mountain
+3007,Jerseys,No,Touring
+3008,Mountain Bikes,Yes,Mountain
+3009,Jerseys,No,Touring
+3010,Road Bikes,No,Touring
+3011,Road Bikes,No,Touring
+3012,Road Bikes,Yes,Standard
+3013,Helmets,No,Standard
+3014,Road Bikes,Yes,Standard
+3015,Jerseys,Yes,Mountain
+3016,Tires,No,Standard
+3017,Mountain Bikes,No,Standard
+3018,Road Bikes,Yes,Road
+3019,Helmets,Yes,Standard
+3020,Road Bikes,Yes,Mountain
+3021,Helmets,Yes,Standard
+3022,Mountain Bikes,No,Road
+3023,Tires,Yes,Mountain
+3024,Helmets,Yes,Touring
+3025,Helmets,Yes,Road
+3026,Helmets,No,Mountain
+3027,Road Bikes,Yes,Road
+3028,Jerseys,Yes,Mountain
+3029,Mountain Bikes,No,Road
+3030,Tires,No,Road
+3031,Jerseys,No,Standard
+3032,Helmets,No,Touring
+3033,Jerseys,Yes,Touring
+3034,Road Bikes,No,Road
+3035,Tires,Yes,Road
+3036,Tires,Yes,Touring
+3037,Mountain Bikes,Yes,Road
+3038,Helmets,No,Standard
+3039,Tires,No,Mountain
+3040,Helmets,No,Touring
+3041,Jerseys,No,Touring
+3042,Mountain Bikes,No,Standard
+3043,Jerseys,Yes,Touring
+3044,Helmets,Yes,Road
+3045,Road Bikes,No,Mountain
+3046,Helmets,No,Road
+3047,Helmets,No,Road
+3048,Helmets,No,Mountain
+3049,Tires,No,Road
+3050,Road Bikes,Yes,Road
+3051,Helmets,Yes,Touring
+3052,Tires,No,Touring
+3053,Road Bikes,Yes,Mountain
+3054,Tires,No,Mountain
+3055,Helmets,No,Mountain
+3056,Helmets,No,Touring
+3057,Road Bikes,No,Standard
+3058,Mountain Bikes,Yes,Mountain
+3059,Tires,Yes,Mountain
+3060,Road Bikes,Yes,Mountain
+3061,Tires,Yes,Touring
+3062,Jerseys,Yes,Touring
+3063,Helmets,Yes,Standard
+3064,Mountain Bikes,Yes,Road
+3065,Jerseys,Yes,Touring
+3066,Road Bikes,Yes,Touring
+3067,Tires,Yes,Road
+3068,Helmets,Yes,Mountain
+3069,Helmets,No,Road
+3070,Mountain Bikes,Yes,Mountain
+3071,Helmets,No,Touring
+3072,Road Bikes,Yes,Road
+3073,Helmets,Yes,Touring
+3074,Road Bikes,Yes,Road
+3075,Mountain Bikes,No,Standard
+3076,Road Bikes,No,Touring
+3077,Road Bikes,Yes,Road
+3078,Road Bikes,Yes,Mountain
+3079,Tires,No,Standard
+3080,Jerseys,No,Standard
+3081,Helmets,Yes,Road
+3082,Road Bikes,No,Road
+3083,Jerseys,No,Road
+3084,Mountain Bikes,No,Mountain
+3085,Tires,Yes,Road
+3086,Road Bikes,Yes,Standard
+3087,Tires,No,Standard
+3088,Tires,Yes,Road
+3089,Helmets,Yes,Mountain
+3090,Helmets,No,Road
+3091,Helmets,No,Mountain
+3092,Helmets,No,Road
+3093,Helmets,No,Touring
+3094,Mountain Bikes,No,Mountain
+3095,Helmets,Yes,Standard
+3096,Jerseys,No,Road
+3097,Tires,Yes,Road
+3098,Helmets,No,Touring
+3099,Mountain Bikes,Yes,Standard
+3100,Mountain Bikes,No,Mountain
+3101,Mountain Bikes,Yes,Standard
+3102,Jerseys,No,Standard
+3103,Tires,Yes,Standard
+3104,Road Bikes,No,Standard
+3105,Road Bikes,Yes,Road
+3106,Road Bikes,No,Touring
+3107,Tires,Yes,Touring
+3108,Road Bikes,No,Mountain
+3109,Helmets,No,Touring
+3110,Helmets,No,Road
+3111,Helmets,No,Road
+3112,Tires,Yes,Standard
+3113,Mountain Bikes,No,Mountain
+3114,Road Bikes,Yes,Mountain
+3115,Jerseys,No,Mountain
+3116,Helmets,No,Mountain
+3117,Tires,No,Mountain
+3118,Helmets,Yes,Road
+3119,Helmets,No,Mountain
+3120,Tires,Yes,Mountain
+3121,Road Bikes,Yes,Standard
+3122,Tires,Yes,Touring
+3123,Jerseys,No,Touring
+3124,Tires,No,Road
+3125,Jerseys,Yes,Mountain
+3126,Jerseys,No,Road
+3127,Helmets,Yes,Mountain
+3128,Mountain Bikes,No,Mountain
+3129,Jerseys,Yes,Road
+3130,Tires,No,Touring
+3131,Tires,Yes,Touring
+3132,Road Bikes,Yes,Standard
+3133,Helmets,Yes,Road
+3134,Tires,No,Touring
+3135,Mountain Bikes,Yes,Standard
+3136,Mountain Bikes,No,Touring
+3137,Helmets,Yes,Touring
+3138,Helmets,No,Road
+3139,Road Bikes,No,Standard
+3140,Jerseys,No,Standard
+3141,Jerseys,No,Mountain
+3142,Tires,Yes,Touring
+3143,Helmets,No,Mountain
+3144,Road Bikes,Yes,Mountain
+3145,Tires,Yes,Mountain
+3146,Mountain Bikes,Yes,Mountain
+3147,Mountain Bikes,No,Touring
+3148,Mountain Bikes,No,Road
+3149,Helmets,No,Standard
+3150,Tires,Yes,Road
+3151,Helmets,No,Mountain
+3152,Jerseys,Yes,Touring
+3153,Mountain Bikes,No,Road
+3154,Mountain Bikes,Yes,Touring
+3155,Tires,No,Touring
+3156,Mountain Bikes,No,Standard
+3157,Mountain Bikes,Yes,Touring
+3158,Road Bikes,Yes,Mountain
+3159,Jerseys,No,Road
+3160,Road Bikes,Yes,Standard
+3161,Tires,No,Touring
+3162,Mountain Bikes,No,Road
+3163,Road Bikes,Yes,Touring
+3164,Tires,Yes,Mountain
+3165,Helmets,No,Standard
+3166,Jerseys,No,Touring
+3167,Road Bikes,No,Road
+3168,Road Bikes,No,Standard
+3169,Jerseys,No,Road
+3170,Tires,No,Touring
+3171,Road Bikes,Yes,Mountain
+3172,Helmets,Yes,Touring
+3173,Road Bikes,No,Standard
+3174,Tires,Yes,Road
+3175,Tires,No,Road
+3176,Mountain Bikes,Yes,Road
+3177,Jerseys,No,Road
+3178,Mountain Bikes,Yes,Road
+3179,Tires,Yes,Touring
+3180,Jerseys,No,Mountain
+3181,Tires,Yes,Standard
+3182,Helmets,No,Road
+3183,Helmets,Yes,Standard
+3184,Helmets,Yes,Touring
+3185,Helmets,No,Touring
+3186,Jerseys,Yes,Mountain
+3187,Helmets,No,Mountain
+3188,Helmets,Yes,Standard
+3189,Jerseys,No,Road
+3190,Helmets,No,Road
+3191,Helmets,Yes,Standard
+3192,Helmets,No,Standard
+3193,Mountain Bikes,No,Road
+3194,Tires,No,Mountain
+3195,Jerseys,No,Touring
+3196,Helmets,Yes,Mountain
+3197,Road Bikes,No,Road
+3198,Tires,Yes,Mountain
+3199,Tires,No,Road
+3200,Helmets,Yes,Standard
+3201,Tires,No,Road
+3202,Jerseys,Yes,Mountain
+3203,Road Bikes,No,Mountain
+3204,Helmets,No,Standard
+3205,Road Bikes,Yes,Standard
+3206,Road Bikes,No,Mountain
+3207,Tires,Yes,Touring
+3208,Road Bikes,Yes,Road
+3209,Mountain Bikes,No,Mountain
+3210,Helmets,No,Road
+3211,Mountain Bikes,Yes,Touring
+3212,Road Bikes,No,Mountain
+3213,Jerseys,No,Road
+3214,Helmets,Yes,Mountain
+3215,Mountain Bikes,Yes,Standard
+3216,Jerseys,No,Mountain
+3217,Jerseys,No,Touring
+3218,Jerseys,Yes,Road
+3219,Tires,Yes,Standard
+3220,Mountain Bikes,No,Touring
+3221,Jerseys,No,Mountain
+3222,Jerseys,No,Mountain
+3223,Jerseys,Yes,Mountain
+3224,Tires,No,Road
+3225,Tires,Yes,Road
+3226,Tires,No,Touring
+3227,Road Bikes,Yes,Road
+3228,Helmets,Yes,Standard
+3229,Road Bikes,Yes,Touring
+3230,Mountain Bikes,No,Touring
+3231,Road Bikes,No,Standard
+3232,Mountain Bikes,Yes,Mountain
+3233,Tires,Yes,Standard
+3234,Road Bikes,No,Standard
+3235,Mountain Bikes,Yes,Standard
+3236,Helmets,No,Road
+3237,Jerseys,No,Touring
+3238,Tires,Yes,Road
+3239,Jerseys,Yes,Mountain
+3240,Mountain Bikes,No,Mountain
+3241,Mountain Bikes,Yes,Mountain
+3242,Tires,Yes,Mountain
+3243,Mountain Bikes,Yes,Road
+3244,Helmets,No,Mountain
+3245,Tires,No,Standard
+3246,Helmets,Yes,Touring
+3247,Jerseys,Yes,Standard
+3248,Road Bikes,Yes,Standard
+3249,Jerseys,Yes,Standard
+3250,Road Bikes,No,Touring
+3251,Mountain Bikes,No,Standard
+3252,Road Bikes,No,Touring
+3253,Mountain Bikes,Yes,Touring
+3254,Mountain Bikes,No,Standard
+3255,Jerseys,Yes,Touring
+3256,Mountain Bikes,Yes,Mountain
+3257,Road Bikes,Yes,Mountain
+3258,Jerseys,No,Road
+3259,Tires,No,Standard
+3260,Road Bikes,No,Standard
+3261,Helmets,No,Road
+3262,Jerseys,No,Touring
+3263,Helmets,Yes,Mountain
+3264,Mountain Bikes,No,Road
+3265,Jerseys,No,Road
+3266,Mountain Bikes,No,Touring
+3267,Helmets,No,Road
+3268,Mountain Bikes,Yes,Touring
+3269,Road Bikes,Yes,Mountain
+3270,Jerseys,Yes,Standard
+3271,Jerseys,No,Touring
+3272,Tires,Yes,Road
+3273,Helmets,No,Road
+3274,Tires,Yes,Road
+3275,Tires,Yes,Road
+3276,Tires,No,Road
+3277,Mountain Bikes,No,Standard
+3278,Road Bikes,Yes,Standard
+3279,Tires,Yes,Standard
+3280,Helmets,No,Mountain
+3281,Road Bikes,No,Road
+3282,Mountain Bikes,No,Standard
+3283,Jerseys,Yes,Road
+3284,Road Bikes,Yes,Touring
+3285,Tires,No,Road
+3286,Tires,No,Mountain
+3287,Tires,Yes,Touring
+3288,Tires,Yes,Mountain
+3289,Mountain Bikes,No,Mountain
+3290,Jerseys,Yes,Standard
+3291,Mountain Bikes,Yes,Mountain
+3292,Jerseys,Yes,Standard
+3293,Jerseys,Yes,Touring
+3294,Helmets,No,Road
+3295,Tires,No,Standard
+3296,Road Bikes,Yes,Mountain
+3297,Helmets,Yes,Touring
+3298,Mountain Bikes,Yes,Touring
+3299,Mountain Bikes,Yes,Road
+3300,Mountain Bikes,No,Touring
+3301,Road Bikes,Yes,Touring
+3302,Road Bikes,No,Touring
+3303,Road Bikes,Yes,Touring
+3304,Mountain Bikes,No,Road
+3305,Jerseys,No,Road
+3306,Helmets,No,Mountain
+3307,Jerseys,No,Touring
+3308,Helmets,Yes,Mountain
+3309,Mountain Bikes,Yes,Road
+3310,Jerseys,Yes,Mountain
+3311,Road Bikes,No,Standard
+3312,Road Bikes,Yes,Road
+3313,Helmets,Yes,Touring
+3314,Mountain Bikes,Yes,Mountain
+3315,Mountain Bikes,No,Mountain
+3316,Mountain Bikes,Yes,Road
+3317,Mountain Bikes,Yes,Touring
+3318,Mountain Bikes,Yes,Road
+3319,Tires,No,Touring
+3320,Jerseys,Yes,Road
+3321,Helmets,Yes,Road
+3322,Road Bikes,Yes,Mountain
+3323,Road Bikes,Yes,Mountain
+3324,Tires,Yes,Mountain
+3325,Helmets,Yes,Touring
+3326,Jerseys,No,Road
+3327,Jerseys,No,Standard
+3328,Jerseys,Yes,Standard
+3329,Road Bikes,Yes,Mountain
+3330,Helmets,No,Touring
+3331,Tires,No,Road
+3332,Helmets,Yes,Road
+3333,Jerseys,Yes,Standard
+3334,Helmets,Yes,Road
+3335,Road Bikes,No,Mountain
+3336,Road Bikes,No,Standard
+3337,Mountain Bikes,No,Touring
+3338,Helmets,Yes,Touring
+3339,Road Bikes,No,Standard
+3340,Tires,No,Mountain
+3341,Road Bikes,No,Standard
+3342,Helmets,Yes,Standard
+3343,Mountain Bikes,Yes,Mountain
+3344,Tires,Yes,Road
+3345,Helmets,No,Standard
+3346,Mountain Bikes,No,Touring
+3347,Jerseys,No,Road
+3348,Helmets,Yes,Standard
+3349,Jerseys,No,Road
+3350,Jerseys,No,Standard
+3351,Road Bikes,Yes,Road
+3352,Jerseys,Yes,Mountain
+3353,Tires,Yes,Touring
+3354,Jerseys,Yes,Road
+3355,Jerseys,Yes,Standard
+3356,Mountain Bikes,Yes,Road
+3357,Mountain Bikes,No,Road
+3358,Tires,Yes,Road
+3359,Jerseys,No,Standard
+3360,Helmets,No,Road
+3361,Mountain Bikes,No,Mountain
+3362,Helmets,Yes,Standard
+3363,Tires,Yes,Mountain
+3364,Helmets,Yes,Standard
+3365,Tires,No,Mountain
+3366,Helmets,No,Touring
+3367,Tires,Yes,Touring
+3368,Mountain Bikes,No,Touring
+3369,Road Bikes,No,Touring
+3370,Road Bikes,Yes,Standard
+3371,Road Bikes,No,Mountain
+3372,Road Bikes,No,Standard
+3373,Tires,Yes,Touring
+3374,Helmets,Yes,Mountain
+3375,Tires,Yes,Mountain
+3376,Tires,Yes,Road
+3377,Jerseys,No,Standard
+3378,Jerseys,No,Road
+3379,Helmets,No,Mountain
+3380,Tires,No,Road
+3381,Helmets,Yes,Standard
+3382,Tires,Yes,Touring
+3383,Tires,No,Mountain
+3384,Road Bikes,No,Mountain
+3385,Road Bikes,Yes,Standard
+3386,Mountain Bikes,Yes,Standard
+3387,Jerseys,No,Mountain
+3388,Mountain Bikes,No,Touring
+3389,Jerseys,Yes,Standard
+3390,Helmets,Yes,Mountain
+3391,Jerseys,No,Touring
+3392,Tires,Yes,Mountain
+3393,Tires,Yes,Standard
+3394,Tires,No,Road
+3395,Road Bikes,No,Standard
+3396,Road Bikes,No,Touring
+3397,Jerseys,No,Mountain
+3398,Jerseys,No,Standard
+3399,Tires,Yes,Standard
+3400,Mountain Bikes,Yes,Mountain
+3401,Road Bikes,Yes,Touring
+3402,Jerseys,No,Standard
+3403,Mountain Bikes,No,Touring
+3404,Tires,No,Mountain
+3405,Road Bikes,Yes,Road
+3406,Helmets,No,Road
+3407,Helmets,Yes,Road
+3408,Tires,No,Standard
+3409,Mountain Bikes,No,Touring
+3410,Helmets,Yes,Mountain
+3411,Tires,No,Road
+3412,Mountain Bikes,No,Road
+3413,Helmets,No,Mountain
+3414,Mountain Bikes,No,Standard
+3415,Helmets,Yes,Standard
+3416,Tires,Yes,Standard
+3417,Mountain Bikes,No,Touring
+3418,Helmets,No,Mountain
+3419,Helmets,No,Mountain
+3420,Jerseys,No,Road
+3421,Jerseys,No,Touring
+3422,Jerseys,No,Mountain
+3423,Helmets,No,Standard
+3424,Jerseys,Yes,Mountain
+3425,Jerseys,Yes,Touring
+3426,Mountain Bikes,Yes,Road
+3427,Mountain Bikes,No,Mountain
+3428,Tires,Yes,Mountain
+3429,Road Bikes,No,Mountain
+3430,Jerseys,No,Mountain
+3431,Helmets,No,Road
+3432,Mountain Bikes,No,Standard
+3433,Mountain Bikes,No,Touring
+3434,Jerseys,No,Touring
+3435,Road Bikes,Yes,Standard
+3436,Mountain Bikes,No,Touring
+3437,Jerseys,No,Mountain
+3438,Tires,No,Standard
+3439,Jerseys,Yes,Standard
+3440,Jerseys,No,Road
+3441,Jerseys,No,Mountain
+3442,Helmets,Yes,Road
+3443,Road Bikes,Yes,Touring
+3444,Helmets,No,Road
+3445,Helmets,No,Mountain
+3446,Helmets,Yes,Touring
+3447,Mountain Bikes,Yes,Touring
+3448,Road Bikes,Yes,Road
+3449,Jerseys,No,Mountain
+3450,Mountain Bikes,No,Touring
+3451,Tires,No,Standard
+3452,Helmets,No,Standard
+3453,Jerseys,No,Road
+3454,Jerseys,Yes,Mountain
+3455,Tires,No,Touring
+3456,Jerseys,Yes,Road
+3457,Jerseys,No,Standard
+3458,Helmets,Yes,Touring
+3459,Road Bikes,No,Touring
+3460,Road Bikes,No,Mountain
+3461,Road Bikes,No,Touring
+3462,Road Bikes,Yes,Touring
+3463,Jerseys,Yes,Standard
+3464,Mountain Bikes,No,Touring
+3465,Helmets,No,Mountain
+3466,Helmets,No,Road
+3467,Helmets,Yes,Touring
+3468,Mountain Bikes,Yes,Touring
+3469,Jerseys,No,Standard
+3470,Mountain Bikes,Yes,Touring
+3471,Helmets,Yes,Road
+3472,Tires,No,Mountain
+3473,Road Bikes,Yes,Standard
+3474,Mountain Bikes,No,Road
+3475,Tires,No,Mountain
+3476,Road Bikes,No,Standard
+3477,Mountain Bikes,No,Touring
+3478,Jerseys,No,Touring
+3479,Jerseys,Yes,Mountain
+3480,Road Bikes,Yes,Touring
+3481,Tires,No,Standard
+3482,Jerseys,No,Standard
+3483,Mountain Bikes,No,Mountain
+3484,Jerseys,Yes,Mountain
+3485,Road Bikes,Yes,Road
+3486,Helmets,No,Road
+3487,Tires,No,Mountain
+3488,Road Bikes,Yes,Mountain
+3489,Road Bikes,Yes,Standard
+3490,Tires,Yes,Touring
+3491,Mountain Bikes,Yes,Road
+3492,Tires,No,Touring
+3493,Jerseys,Yes,Mountain
+3494,Jerseys,No,Road
+3495,Mountain Bikes,No,Touring
+3496,Jerseys,No,Standard
+3497,Road Bikes,Yes,Standard
+3498,Road Bikes,No,Standard
+3499,Road Bikes,Yes,Standard
+3500,Helmets,No,Standard
+3501,Jerseys,No,Road
+3502,Road Bikes,Yes,Touring
+3503,Helmets,Yes,Mountain
+3504,Jerseys,Yes,Touring
+3505,Jerseys,Yes,Touring
+3506,Helmets,Yes,Mountain
+3507,Tires,Yes,Road
+3508,Helmets,Yes,Touring
+3509,Jerseys,Yes,Standard
+3510,Tires,Yes,Road
+3511,Tires,Yes,Standard
+3512,Tires,No,Standard
+3513,Road Bikes,No,Touring
+3514,Tires,No,Standard
+3515,Road Bikes,Yes,Touring
+3516,Jerseys,No,Touring
+3517,Mountain Bikes,Yes,Mountain
+3518,Mountain Bikes,No,Standard
+3519,Jerseys,No,Standard
+3520,Road Bikes,No,Touring
+3521,Tires,Yes,Mountain
+3522,Jerseys,No,Standard
+3523,Mountain Bikes,Yes,Mountain
+3524,Helmets,No,Mountain
+3525,Jerseys,No,Touring
+3526,Jerseys,Yes,Road
+3527,Jerseys,Yes,Standard
+3528,Jerseys,Yes,Standard
+3529,Tires,No,Mountain
+3530,Jerseys,Yes,Standard
+3531,Mountain Bikes,No,Standard
+3532,Jerseys,Yes,Mountain
+3533,Tires,Yes,Road
+3534,Helmets,Yes,Touring
+3535,Road Bikes,Yes,Standard
+3536,Road Bikes,Yes,Road
+3537,Mountain Bikes,Yes,Mountain
+3538,Mountain Bikes,Yes,Touring
+3539,Tires,No,Road
+3540,Jerseys,No,Road
+3541,Road Bikes,No,Road
+3542,Jerseys,Yes,Touring
+3543,Helmets,No,Mountain
+3544,Jerseys,Yes,Mountain
+3545,Tires,No,Mountain
+3546,Helmets,Yes,Road
+3547,Road Bikes,Yes,Mountain
+3548,Tires,No,Mountain
+3549,Tires,Yes,Road
+3550,Mountain Bikes,Yes,Mountain
+3551,Helmets,No,Standard
+3552,Road Bikes,Yes,Mountain
+3553,Road Bikes,No,Mountain
+3554,Jerseys,No,Road
+3555,Mountain Bikes,Yes,Mountain
+3556,Jerseys,No,Mountain
+3557,Tires,No,Touring
+3558,Mountain Bikes,Yes,Standard
+3559,Mountain Bikes,No,Road
+3560,Tires,No,Standard
+3561,Helmets,Yes,Mountain
+3562,Road Bikes,No,Standard
+3563,Mountain Bikes,Yes,Mountain
+3564,Mountain Bikes,No,Mountain
+3565,Mountain Bikes,Yes,Mountain
+3566,Road Bikes,Yes,Touring
+3567,Helmets,Yes,Standard
+3568,Helmets,Yes,Mountain
+3569,Road Bikes,No,Road
+3570,Road Bikes,Yes,Standard
+3571,Road Bikes,Yes,Road
+3572,Helmets,Yes,Touring
+3573,Tires,No,Standard
+3574,Road Bikes,No,Touring
+3575,Road Bikes,Yes,Standard
+3576,Tires,No,Mountain
+3577,Mountain Bikes,Yes,Mountain
+3578,Road Bikes,Yes,Road
+3579,Helmets,Yes,Road
+3580,Tires,Yes,Mountain
+3581,Tires,Yes,Standard
+3582,Mountain Bikes,No,Standard
+3583,Mountain Bikes,No,Road
+3584,Road Bikes,No,Standard
+3585,Mountain Bikes,No,Standard
+3586,Jerseys,No,Standard
+3587,Tires,No,Standard
+3588,Tires,Yes,Road
+3589,Helmets,No,Standard
+3590,Jerseys,Yes,Touring
+3591,Jerseys,No,Standard
+3592,Helmets,Yes,Touring
+3593,Helmets,Yes,Road
+3594,Helmets,No,Road
+3595,Helmets,No,Mountain
+3596,Road Bikes,Yes,Mountain
+3597,Jerseys,Yes,Standard
+3598,Mountain Bikes,Yes,Standard
+3599,Mountain Bikes,Yes,Mountain
+3600,Helmets,No,Road
+3601,Mountain Bikes,No,Road
+3602,Tires,Yes,Standard
+3603,Tires,Yes,Road
+3604,Mountain Bikes,No,Standard
+3605,Mountain Bikes,Yes,Standard
+3606,Tires,Yes,Road
+3607,Jerseys,No,Mountain
+3608,Tires,Yes,Standard
+3609,Mountain Bikes,Yes,Road
+3610,Jerseys,No,Road
+3611,Helmets,No,Road
+3612,Helmets,Yes,Mountain
+3613,Jerseys,Yes,Mountain
+3614,Mountain Bikes,No,Standard
+3615,Mountain Bikes,Yes,Road
+3616,Tires,Yes,Touring
+3617,Road Bikes,No,Road
+3618,Mountain Bikes,Yes,Standard
+3619,Helmets,No,Road
+3620,Mountain Bikes,Yes,Mountain
+3621,Mountain Bikes,Yes,Touring
+3622,Mountain Bikes,No,Mountain
+3623,Helmets,Yes,Road
+3624,Helmets,Yes,Standard
+3625,Jerseys,No,Road
+3626,Tires,Yes,Road
+3627,Helmets,No,Touring
+3628,Jerseys,No,Road
+3629,Road Bikes,No,Road
+3630,Helmets,No,Mountain
+3631,Jerseys,No,Road
+3632,Road Bikes,No,Mountain
+3633,Mountain Bikes,No,Road
+3634,Tires,Yes,Road
+3635,Road Bikes,Yes,Mountain
+3636,Tires,Yes,Mountain
+3637,Jerseys,No,Road
+3638,Tires,Yes,Mountain
+3639,Mountain Bikes,No,Standard
+3640,Helmets,No,Touring
+3641,Road Bikes,No,Standard
+3642,Helmets,No,Standard
+3643,Helmets,No,Mountain
+3644,Mountain Bikes,Yes,Road
+3645,Mountain Bikes,No,Touring
+3646,Tires,Yes,Road
+3647,Mountain Bikes,Yes,Standard
+3648,Tires,No,Mountain
+3649,Jerseys,No,Mountain
+3650,Tires,No,Road
+3651,Road Bikes,Yes,Standard
+3652,Jerseys,No,Road
+3653,Jerseys,Yes,Touring
+3654,Helmets,No,Mountain
+3655,Road Bikes,No,Road
+3656,Helmets,Yes,Touring
+3657,Tires,Yes,Touring
+3658,Tires,Yes,Touring
+3659,Helmets,No,Standard
+3660,Jerseys,Yes,Standard
+3661,Tires,No,Mountain
+3662,Jerseys,No,Road
+3663,Tires,Yes,Road
+3664,Helmets,No,Touring
+3665,Mountain Bikes,No,Road
+3666,Helmets,Yes,Road
+3667,Jerseys,Yes,Road
+3668,Mountain Bikes,Yes,Road
+3669,Road Bikes,Yes,Standard
+3670,Tires,No,Touring
+3671,Helmets,No,Standard
+3672,Road Bikes,Yes,Road
+3673,Tires,Yes,Mountain
+3674,Helmets,Yes,Touring
+3675,Tires,Yes,Standard
+3676,Road Bikes,No,Touring
+3677,Helmets,Yes,Standard
+3678,Jerseys,Yes,Road
+3679,Mountain Bikes,Yes,Standard
+3680,Road Bikes,Yes,Road
+3681,Jerseys,Yes,Standard
+3682,Helmets,Yes,Road
+3683,Helmets,Yes,Road
+3684,Mountain Bikes,No,Road
+3685,Road Bikes,Yes,Standard
+3686,Jerseys,Yes,Road
+3687,Tires,Yes,Touring
+3688,Helmets,Yes,Mountain
+3689,Mountain Bikes,Yes,Mountain
+3690,Road Bikes,No,Mountain
+3691,Tires,No,Standard
+3692,Road Bikes,No,Mountain
+3693,Mountain Bikes,Yes,Touring
+3694,Helmets,Yes,Mountain
+3695,Mountain Bikes,No,Touring
+3696,Road Bikes,No,Mountain
+3697,Mountain Bikes,Yes,Mountain
+3698,Road Bikes,No,Mountain
+3699,Jerseys,Yes,Road
+3700,Jerseys,Yes,Road
+3701,Tires,No,Standard
+3702,Tires,Yes,Standard
+3703,Helmets,Yes,Road
+3704,Tires,No,Touring
+3705,Helmets,No,Touring
+3706,Helmets,No,Road
+3707,Tires,No,Touring
+3708,Mountain Bikes,Yes,Road
+3709,Helmets,No,Touring
+3710,Road Bikes,Yes,Road
+3711,Tires,No,Road
+3712,Tires,No,Standard
+3713,Mountain Bikes,No,Touring
+3714,Road Bikes,Yes,Mountain
+3715,Jerseys,Yes,Standard
+3716,Road Bikes,No,Mountain
+3717,Helmets,No,Touring
+3718,Mountain Bikes,Yes,Mountain
+3719,Mountain Bikes,Yes,Road
+3720,Mountain Bikes,No,Standard
+3721,Mountain Bikes,Yes,Mountain
+3722,Tires,Yes,Touring
+3723,Mountain Bikes,Yes,Touring
+3724,Tires,No,Standard
+3725,Tires,No,Touring
+3726,Mountain Bikes,Yes,Standard
+3727,Road Bikes,Yes,Mountain
+3728,Road Bikes,Yes,Standard
+3729,Jerseys,No,Standard
+3730,Tires,No,Standard
+3731,Mountain Bikes,Yes,Mountain
+3732,Tires,No,Standard
+3733,Road Bikes,Yes,Touring
+3734,Jerseys,No,Road
+3735,Helmets,No,Touring
+3736,Tires,Yes,Touring
+3737,Tires,Yes,Mountain
+3738,Jerseys,No,Mountain
+3739,Helmets,Yes,Standard
+3740,Jerseys,Yes,Touring
+3741,Tires,Yes,Touring
+3742,Helmets,No,Mountain
+3743,Road Bikes,Yes,Touring
+3744,Jerseys,No,Mountain
+3745,Tires,No,Standard
+3746,Jerseys,No,Touring
+3747,Tires,No,Mountain
+3748,Helmets,No,Road
+3749,Helmets,No,Road
+3750,Jerseys,Yes,Road
+3751,Road Bikes,Yes,Road
+3752,Tires,No,Mountain
+3753,Road Bikes,Yes,Touring
+3754,Tires,Yes,Touring
+3755,Helmets,No,Standard
+3756,Mountain Bikes,No,Mountain
+3757,Jerseys,Yes,Touring
+3758,Jerseys,Yes,Mountain
+3759,Mountain Bikes,Yes,Road
+3760,Jerseys,No,Touring
+3761,Tires,Yes,Standard
+3762,Jerseys,No,Mountain
+3763,Road Bikes,Yes,Touring
+3764,Mountain Bikes,Yes,Mountain
+3765,Tires,No,Road
+3766,Road Bikes,No,Mountain
+3767,Mountain Bikes,Yes,Standard
+3768,Helmets,No,Touring
+3769,Mountain Bikes,No,Road
+3770,Mountain Bikes,No,Road
+3771,Tires,No,Road
+3772,Mountain Bikes,Yes,Mountain
+3773,Tires,Yes,Road
+3774,Tires,Yes,Touring
+3775,Helmets,Yes,Mountain
+3776,Helmets,Yes,Mountain
+3777,Helmets,Yes,Standard
+3778,Jerseys,Yes,Mountain
+3779,Jerseys,Yes,Mountain
+3780,Road Bikes,No,Touring
+3781,Tires,No,Standard
+3782,Helmets,Yes,Standard
+3783,Tires,Yes,Standard
+3784,Jerseys,No,Touring
+3785,Jerseys,No,Standard
+3786,Mountain Bikes,No,Road
+3787,Helmets,Yes,Road
+3788,Mountain Bikes,No,Touring
+3789,Road Bikes,No,Road
+3790,Tires,No,Touring
+3791,Jerseys,Yes,Road
+3792,Mountain Bikes,No,Mountain
+3793,Mountain Bikes,Yes,Standard
+3794,Jerseys,No,Touring
+3795,Jerseys,Yes,Standard
+3796,Jerseys,No,Touring
+3797,Jerseys,No,Mountain
+3798,Tires,Yes,Touring
+3799,Helmets,No,Standard
+3800,Mountain Bikes,No,Touring
+3801,Tires,Yes,Standard
+3802,Mountain Bikes,No,Road
+3803,Jerseys,No,Standard
+3804,Helmets,No,Standard
+3805,Road Bikes,Yes,Mountain
+3806,Jerseys,Yes,Road
+3807,Helmets,Yes,Standard
+3808,Mountain Bikes,Yes,Touring
+3809,Tires,No,Mountain
+3810,Helmets,No,Road
+3811,Road Bikes,No,Touring
+3812,Helmets,No,Road
+3813,Tires,Yes,Mountain
+3814,Mountain Bikes,Yes,Touring
+3815,Tires,No,Mountain
+3816,Helmets,Yes,Road
+3817,Mountain Bikes,No,Mountain
+3818,Jerseys,No,Mountain
+3819,Road Bikes,No,Road
+3820,Jerseys,No,Road
+3821,Mountain Bikes,No,Road
+3822,Mountain Bikes,Yes,Mountain
+3823,Road Bikes,No,Standard
+3824,Helmets,Yes,Standard
+3825,Tires,Yes,Road
+3826,Road Bikes,No,Standard
+3827,Helmets,Yes,Standard
+3828,Helmets,Yes,Standard
+3829,Road Bikes,Yes,Mountain
+3830,Tires,No,Mountain
+3831,Tires,No,Touring
+3832,Jerseys,No,Touring
+3833,Mountain Bikes,Yes,Touring
+3834,Tires,No,Touring
+3835,Mountain Bikes,Yes,Standard
+3836,Helmets,No,Mountain
+3837,Tires,No,Mountain
+3838,Road Bikes,Yes,Mountain
+3839,Road Bikes,No,Standard
+3840,Tires,No,Standard
+3841,Jerseys,Yes,Mountain
+3842,Mountain Bikes,Yes,Road
+3843,Road Bikes,Yes,Standard
+3844,Tires,Yes,Standard
+3845,Mountain Bikes,No,Mountain
+3846,Helmets,No,Mountain
+3847,Jerseys,Yes,Road
+3848,Helmets,No,Mountain
+3849,Helmets,No,Standard
+3850,Helmets,No,Road
+3851,Road Bikes,Yes,Road
+3852,Mountain Bikes,No,Touring
+3853,Tires,Yes,Touring
+3854,Helmets,Yes,Touring
+3855,Road Bikes,No,Mountain
+3856,Tires,No,Mountain
+3857,Tires,Yes,Mountain
+3858,Jerseys,No,Touring
+3859,Tires,Yes,Mountain
+3860,Helmets,Yes,Mountain
+3861,Helmets,Yes,Road
+3862,Tires,Yes,Standard
+3863,Helmets,No,Touring
+3864,Jerseys,Yes,Touring
+3865,Tires,Yes,Road
+3866,Road Bikes,No,Touring
+3867,Mountain Bikes,No,Touring
+3868,Helmets,Yes,Touring
+3869,Road Bikes,No,Standard
+3870,Tires,Yes,Touring
+3871,Mountain Bikes,No,Mountain
+3872,Jerseys,No,Standard
+3873,Jerseys,No,Standard
+3874,Helmets,Yes,Touring
+3875,Mountain Bikes,Yes,Standard
+3876,Road Bikes,No,Road
+3877,Tires,Yes,Mountain
+3878,Road Bikes,No,Mountain
+3879,Mountain Bikes,No,Mountain
+3880,Mountain Bikes,No,Road
+3881,Helmets,No,Road
+3882,Mountain Bikes,Yes,Standard
+3883,Jerseys,No,Standard
+3884,Road Bikes,Yes,Standard
+3885,Road Bikes,No,Standard
+3886,Road Bikes,No,Touring
+3887,Helmets,No,Mountain
+3888,Mountain Bikes,No,Standard
+3889,Tires,No,Touring
+3890,Jerseys,No,Touring
+3891,Mountain Bikes,No,Touring
+3892,Mountain Bikes,No,Mountain
+3893,Jerseys,No,Road
+3894,Tires,Yes,Mountain
+3895,Road Bikes,Yes,Road
+3896,Road Bikes,No,Standard
+3897,Mountain Bikes,No,Standard
+3898,Tires,Yes,Mountain
+3899,Jerseys,Yes,Road
+3900,Road Bikes,Yes,Standard
+3901,Tires,No,Touring
+3902,Helmets,Yes,Touring
+3903,Helmets,Yes,Mountain
+3904,Tires,Yes,Mountain
+3905,Tires,No,Road
+3906,Jerseys,Yes,Standard
+3907,Road Bikes,Yes,Mountain
+3908,Tires,No,Touring
+3909,Helmets,Yes,Mountain
+3910,Jerseys,Yes,Road
+3911,Helmets,No,Mountain
+3912,Mountain Bikes,Yes,Standard
+3913,Road Bikes,Yes,Touring
+3914,Mountain Bikes,No,Standard
+3915,Jerseys,Yes,Standard
+3916,Helmets,Yes,Touring
+3917,Road Bikes,No,Mountain
+3918,Jerseys,Yes,Mountain
+3919,Mountain Bikes,No,Road
+3920,Tires,No,Standard
+3921,Road Bikes,No,Mountain
+3922,Tires,Yes,Touring
+3923,Mountain Bikes,Yes,Mountain
+3924,Tires,No,Mountain
+3925,Tires,Yes,Mountain
+3926,Helmets,Yes,Mountain
+3927,Helmets,No,Touring
+3928,Tires,No,Road
+3929,Road Bikes,Yes,Standard
+3930,Jerseys,No,Mountain
+3931,Tires,Yes,Touring
+3932,Tires,Yes,Standard
+3933,Helmets,Yes,Road
+3934,Helmets,Yes,Mountain
+3935,Mountain Bikes,Yes,Road
+3936,Helmets,Yes,Standard
+3937,Tires,No,Touring
+3938,Mountain Bikes,Yes,Mountain
+3939,Helmets,Yes,Road
+3940,Road Bikes,No,Touring
+3941,Jerseys,Yes,Road
+3942,Helmets,No,Road
+3943,Mountain Bikes,Yes,Touring
+3944,Jerseys,No,Standard
+3945,Helmets,No,Road
+3946,Tires,Yes,Road
+3947,Jerseys,No,Road
+3948,Road Bikes,No,Road
+3949,Jerseys,No,Mountain
+3950,Tires,No,Standard
+3951,Road Bikes,No,Road
+3952,Jerseys,Yes,Standard
+3953,Road Bikes,No,Mountain
+3954,Helmets,No,Mountain
+3955,Tires,Yes,Mountain
+3956,Tires,Yes,Touring
+3957,Tires,No,Road
+3958,Mountain Bikes,Yes,Mountain
+3959,Jerseys,No,Mountain
+3960,Mountain Bikes,Yes,Standard
+3961,Jerseys,Yes,Standard
+3962,Jerseys,No,Standard
+3963,Road Bikes,Yes,Mountain
+3964,Tires,Yes,Mountain
+3965,Tires,No,Touring
+3966,Helmets,No,Touring
+3967,Tires,No,Standard
+3968,Helmets,Yes,Touring
+3969,Tires,No,Touring
+3970,Jerseys,No,Touring
+3971,Helmets,Yes,Standard
+3972,Helmets,Yes,Standard
+3973,Jerseys,Yes,Road
+3974,Mountain Bikes,No,Road
+3975,Mountain Bikes,No,Touring
+3976,Jerseys,No,Mountain
+3977,Road Bikes,No,Road
+3978,Helmets,No,Standard
+3979,Road Bikes,No,Road
+3980,Mountain Bikes,Yes,Touring
+3981,Tires,No,Standard
+3982,Mountain Bikes,Yes,Standard
+3983,Mountain Bikes,Yes,Standard
+3984,Tires,No,Mountain
+3985,Mountain Bikes,Yes,Touring
+3986,Road Bikes,Yes,Road
+3987,Road Bikes,No,Road
+3988,Tires,Yes,Standard
+3989,Tires,Yes,Road
+3990,Road Bikes,No,Touring
+3991,Helmets,Yes,Standard
+3992,Mountain Bikes,Yes,Mountain
+3993,Road Bikes,Yes,Mountain
+3994,Tires,Yes,Mountain
+3995,Mountain Bikes,Yes,Standard
+3996,Mountain Bikes,Yes,Road
+3997,Road Bikes,Yes,Mountain
+3998,Helmets,Yes,Road
+3999,Mountain Bikes,No,Mountain
+4000,Helmets,Yes,Mountain
+4001,Tires,Yes,Road
+4002,Mountain Bikes,No,Touring
+4003,Tires,Yes,Standard
+4004,Tires,No,Standard
+4005,Road Bikes,No,Standard
+4006,Road Bikes,Yes,Standard
+4007,Mountain Bikes,Yes,Standard
+4008,Tires,No,Standard
+4009,Helmets,No,Standard
+4010,Mountain Bikes,No,Standard
+4011,Road Bikes,Yes,Standard
+4012,Mountain Bikes,Yes,Standard
+4013,Mountain Bikes,Yes,Road
+4014,Mountain Bikes,Yes,Touring
+4015,Helmets,Yes,Touring
+4016,Helmets,No,Standard
+4017,Road Bikes,Yes,Road
+4018,Road Bikes,Yes,Mountain
+4019,Jerseys,No,Touring
+4020,Road Bikes,Yes,Mountain
+4021,Jerseys,No,Mountain
+4022,Tires,Yes,Touring
+4023,Helmets,Yes,Mountain
+4024,Tires,Yes,Road
+4025,Road Bikes,Yes,Road
+4026,Tires,Yes,Touring
+4027,Road Bikes,No,Road
+4028,Road Bikes,No,Mountain
+4029,Mountain Bikes,Yes,Touring
+4030,Helmets,No,Touring
+4031,Mountain Bikes,No,Standard
+4032,Jerseys,Yes,Mountain
+4033,Road Bikes,No,Touring
+4034,Mountain Bikes,No,Standard
+4035,Road Bikes,No,Mountain
+4036,Jerseys,Yes,Mountain
+4037,Tires,No,Touring
+4038,Jerseys,No,Road
+4039,Helmets,Yes,Touring
+4040,Tires,No,Standard
+4041,Helmets,Yes,Road
+4042,Tires,No,Mountain
+4043,Jerseys,No,Standard
+4044,Tires,Yes,Standard
+4045,Helmets,No,Mountain
+4046,Road Bikes,Yes,Road
+4047,Helmets,Yes,Mountain
+4048,Tires,Yes,Standard
+4049,Mountain Bikes,Yes,Road
+4050,Jerseys,No,Road
+4051,Jerseys,Yes,Standard
+4052,Jerseys,No,Touring
+4053,Road Bikes,No,Road
+4054,Mountain Bikes,Yes,Touring
+4055,Jerseys,No,Road
+4056,Tires,Yes,Road
+4057,Helmets,No,Road
+4058,Jerseys,Yes,Mountain
+4059,Mountain Bikes,No,Touring
+4060,Mountain Bikes,Yes,Standard
+4061,Helmets,No,Road
+4062,Road Bikes,Yes,Mountain
+4063,Tires,No,Standard
+4064,Road Bikes,No,Standard
+4065,Tires,Yes,Road
+4066,Helmets,No,Road
+4067,Helmets,No,Road
+4068,Mountain Bikes,Yes,Touring
+4069,Tires,Yes,Mountain
+4070,Mountain Bikes,Yes,Touring
+4071,Road Bikes,No,Touring
+4072,Helmets,Yes,Touring
+4073,Road Bikes,Yes,Standard
+4074,Jerseys,Yes,Touring
+4075,Jerseys,Yes,Mountain
+4076,Jerseys,Yes,Standard
+4077,Road Bikes,Yes,Road
+4078,Mountain Bikes,Yes,Touring
+4079,Road Bikes,No,Standard
+4080,Mountain Bikes,Yes,Mountain
+4081,Mountain Bikes,Yes,Standard
+4082,Tires,Yes,Standard
+4083,Tires,No,Standard
+4084,Helmets,Yes,Mountain
+4085,Road Bikes,No,Touring
+4086,Tires,No,Standard
+4087,Road Bikes,Yes,Touring
+4088,Road Bikes,Yes,Touring
+4089,Road Bikes,Yes,Touring
+4090,Road Bikes,Yes,Standard
+4091,Jerseys,No,Standard
+4092,Helmets,No,Standard
+4093,Jerseys,No,Standard
+4094,Mountain Bikes,No,Mountain
+4095,Jerseys,No,Mountain
+4096,Tires,No,Road
+4097,Tires,Yes,Touring
+4098,Road Bikes,Yes,Road
+4099,Jerseys,No,Road
+4100,Helmets,Yes,Mountain
+4101,Tires,Yes,Mountain
+4102,Helmets,Yes,Touring
+4103,Road Bikes,Yes,Mountain
+4104,Mountain Bikes,No,Standard
+4105,Mountain Bikes,Yes,Standard
+4106,Mountain Bikes,No,Mountain
+4107,Jerseys,No,Touring
+4108,Mountain Bikes,No,Mountain
+4109,Jerseys,Yes,Standard
+4110,Tires,Yes,Mountain
+4111,Road Bikes,No,Road
+4112,Tires,No,Touring
+4113,Jerseys,Yes,Standard
+4114,Tires,No,Touring
+4115,Helmets,No,Touring
+4116,Road Bikes,No,Touring
+4117,Mountain Bikes,Yes,Road
+4118,Tires,Yes,Standard
+4119,Road Bikes,No,Road
+4120,Helmets,No,Mountain
+4121,Tires,No,Touring
+4122,Mountain Bikes,Yes,Touring
+4123,Road Bikes,No,Mountain
+4124,Tires,No,Touring
+4125,Road Bikes,Yes,Mountain
+4126,Jerseys,Yes,Touring
+4127,Mountain Bikes,No,Touring
+4128,Jerseys,Yes,Standard
+4129,Jerseys,No,Mountain
+4130,Mountain Bikes,No,Road
+4131,Tires,No,Standard
+4132,Jerseys,Yes,Road
+4133,Jerseys,No,Standard
+4134,Tires,Yes,Mountain
+4135,Mountain Bikes,Yes,Road
+4136,Jerseys,Yes,Mountain
+4137,Helmets,Yes,Mountain
+4138,Road Bikes,Yes,Standard
+4139,Road Bikes,No,Standard
+4140,Road Bikes,Yes,Touring
+4141,Helmets,No,Standard
+4142,Helmets,Yes,Mountain
+4143,Jerseys,Yes,Road
+4144,Mountain Bikes,Yes,Mountain
+4145,Tires,No,Standard
+4146,Road Bikes,Yes,Mountain
+4147,Road Bikes,Yes,Mountain
+4148,Road Bikes,Yes,Standard
+4149,Road Bikes,No,Road
+4150,Jerseys,Yes,Road
+4151,Helmets,No,Touring
+4152,Road Bikes,Yes,Touring
+4153,Road Bikes,Yes,Mountain
+4154,Jerseys,No,Standard
+4155,Jerseys,No,Mountain
+4156,Road Bikes,Yes,Road
+4157,Road Bikes,No,Road
+4158,Tires,Yes,Road
+4159,Jerseys,Yes,Road
+4160,Tires,No,Road
+4161,Tires,Yes,Standard
+4162,Tires,Yes,Touring
+4163,Tires,No,Standard
+4164,Mountain Bikes,Yes,Standard
+4165,Jerseys,Yes,Mountain
+4166,Tires,No,Road
+4167,Road Bikes,Yes,Road
+4168,Helmets,No,Mountain
+4169,Mountain Bikes,Yes,Standard
+4170,Mountain Bikes,No,Standard
+4171,Jerseys,Yes,Standard
+4172,Jerseys,No,Road
+4173,Road Bikes,Yes,Road
+4174,Road Bikes,No,Mountain
+4175,Mountain Bikes,Yes,Road
+4176,Helmets,Yes,Mountain
+4177,Road Bikes,Yes,Touring
+4178,Road Bikes,No,Standard
+4179,Jerseys,Yes,Mountain
+4180,Helmets,No,Mountain
+4181,Jerseys,No,Touring
+4182,Road Bikes,Yes,Mountain
+4183,Jerseys,No,Touring
+4184,Tires,No,Mountain
+4185,Mountain Bikes,Yes,Road
+4186,Tires,No,Road
+4187,Mountain Bikes,Yes,Standard
+4188,Jerseys,No,Touring
+4189,Helmets,Yes,Standard
+4190,Road Bikes,Yes,Standard
+4191,Jerseys,No,Mountain
+4192,Jerseys,Yes,Road
+4193,Jerseys,No,Standard
+4194,Road Bikes,No,Touring
+4195,Jerseys,Yes,Standard
+4196,Road Bikes,Yes,Touring
+4197,Jerseys,No,Standard
+4198,Tires,Yes,Touring
+4199,Jerseys,No,Mountain
+4200,Mountain Bikes,Yes,Standard
+4201,Tires,No,Mountain
+4202,Road Bikes,No,Mountain
+4203,Mountain Bikes,No,Standard
+4204,Mountain Bikes,No,Standard
+4205,Mountain Bikes,Yes,Standard
+4206,Jerseys,No,Standard
+4207,Tires,No,Mountain
+4208,Mountain Bikes,No,Touring
+4209,Road Bikes,Yes,Mountain
+4210,Helmets,Yes,Touring
+4211,Road Bikes,Yes,Touring
+4212,Tires,Yes,Touring
+4213,Jerseys,No,Standard
+4214,Mountain Bikes,Yes,Touring
+4215,Jerseys,Yes,Touring
+4216,Tires,No,Touring
+4217,Tires,Yes,Road
+4218,Road Bikes,Yes,Standard
+4219,Helmets,Yes,Road
+4220,Tires,Yes,Touring
+4221,Mountain Bikes,Yes,Standard
+4222,Jerseys,No,Mountain
+4223,Helmets,Yes,Standard
+4224,Mountain Bikes,Yes,Touring
+4225,Tires,Yes,Mountain
+4226,Helmets,Yes,Mountain
+4227,Mountain Bikes,Yes,Mountain
+4228,Tires,Yes,Mountain
+4229,Jerseys,Yes,Mountain
+4230,Tires,No,Road
+4231,Helmets,No,Touring
+4232,Tires,Yes,Road
+4233,Helmets,Yes,Touring
+4234,Helmets,Yes,Touring
+4235,Helmets,Yes,Standard
+4236,Helmets,Yes,Road
+4237,Tires,Yes,Touring
+4238,Tires,No,Touring
+4239,Road Bikes,Yes,Touring
+4240,Jerseys,Yes,Mountain
+4241,Jerseys,No,Touring
+4242,Mountain Bikes,Yes,Touring
+4243,Helmets,No,Standard
+4244,Jerseys,No,Standard
+4245,Mountain Bikes,No,Road
+4246,Tires,No,Mountain
+4247,Mountain Bikes,Yes,Mountain
+4248,Road Bikes,Yes,Road
+4249,Jerseys,No,Touring
+4250,Road Bikes,Yes,Mountain
+4251,Road Bikes,Yes,Mountain
+4252,Tires,No,Standard
+4253,Road Bikes,Yes,Road
+4254,Mountain Bikes,Yes,Standard
+4255,Tires,No,Touring
+4256,Jerseys,No,Standard
+4257,Helmets,No,Road
+4258,Jerseys,No,Road
+4259,Road Bikes,Yes,Mountain
+4260,Road Bikes,No,Road
+4261,Helmets,Yes,Road
+4262,Helmets,No,Standard
+4263,Road Bikes,No,Standard
+4264,Mountain Bikes,Yes,Mountain
+4265,Helmets,No,Mountain
+4266,Road Bikes,Yes,Touring
+4267,Jerseys,No,Standard
+4268,Jerseys,No,Road
+4269,Jerseys,No,Standard
+4270,Tires,No,Road
+4271,Road Bikes,Yes,Road
+4272,Mountain Bikes,Yes,Road
+4273,Jerseys,No,Standard
+4274,Mountain Bikes,Yes,Touring
+4275,Road Bikes,No,Touring
+4276,Road Bikes,No,Mountain
+4277,Road Bikes,No,Touring
+4278,Road Bikes,Yes,Touring
+4279,Helmets,No,Road
+4280,Tires,Yes,Standard
+4281,Road Bikes,Yes,Mountain
+4282,Jerseys,No,Standard
+4283,Road Bikes,Yes,Standard
+4284,Mountain Bikes,Yes,Mountain
+4285,Tires,Yes,Touring
+4286,Helmets,Yes,Touring
+4287,Road Bikes,No,Mountain
+4288,Mountain Bikes,Yes,Road
+4289,Jerseys,Yes,Mountain
+4290,Mountain Bikes,Yes,Touring
+4291,Helmets,Yes,Standard
+4292,Road Bikes,Yes,Road
+4293,Tires,Yes,Road
+4294,Helmets,No,Standard
+4295,Helmets,Yes,Standard
+4296,Jerseys,No,Mountain
+4297,Mountain Bikes,No,Road
+4298,Road Bikes,No,Touring
+4299,Helmets,Yes,Touring
+4300,Tires,Yes,Mountain
+4301,Mountain Bikes,No,Mountain
+4302,Road Bikes,No,Road
+4303,Helmets,No,Touring
+4304,Helmets,Yes,Touring
+4305,Mountain Bikes,No,Standard
+4306,Mountain Bikes,No,Standard
+4307,Mountain Bikes,No,Mountain
+4308,Mountain Bikes,No,Mountain
+4309,Jerseys,No,Road
+4310,Helmets,Yes,Touring
+4311,Jerseys,Yes,Standard
+4312,Mountain Bikes,No,Standard
+4313,Jerseys,No,Mountain
+4314,Jerseys,Yes,Standard
+4315,Tires,No,Road
+4316,Tires,No,Road
+4317,Tires,Yes,Standard
+4318,Tires,Yes,Touring
+4319,Helmets,No,Standard
+4320,Mountain Bikes,No,Touring
+4321,Helmets,Yes,Mountain
+4322,Mountain Bikes,Yes,Touring
+4323,Tires,Yes,Mountain
+4324,Helmets,Yes,Road
+4325,Road Bikes,Yes,Touring
+4326,Helmets,No,Touring
+4327,Jerseys,Yes,Mountain
+4328,Helmets,Yes,Touring
+4329,Mountain Bikes,No,Standard
+4330,Mountain Bikes,Yes,Mountain
+4331,Road Bikes,Yes,Road
+4332,Road Bikes,Yes,Road
+4333,Mountain Bikes,No,Mountain
+4334,Road Bikes,No,Road
+4335,Jerseys,Yes,Mountain
+4336,Helmets,Yes,Mountain
+4337,Helmets,No,Road
+4338,Road Bikes,No,Mountain
+4339,Tires,No,Standard
+4340,Tires,No,Touring
+4341,Helmets,No,Road
+4342,Road Bikes,No,Mountain
+4343,Helmets,No,Touring
+4344,Tires,No,Touring
+4345,Road Bikes,Yes,Road
+4346,Helmets,Yes,Mountain
+4347,Jerseys,No,Road
+4348,Helmets,Yes,Road
+4349,Mountain Bikes,No,Standard
+4350,Road Bikes,Yes,Standard
+4351,Tires,Yes,Road
+4352,Tires,No,Road
+4353,Jerseys,No,Standard
+4354,Road Bikes,No,Touring
+4355,Jerseys,Yes,Standard
+4356,Road Bikes,No,Touring
+4357,Helmets,Yes,Mountain
+4358,Helmets,No,Road
+4359,Jerseys,Yes,Road
+4360,Mountain Bikes,Yes,Standard
+4361,Road Bikes,Yes,Mountain
+4362,Road Bikes,Yes,Road
+4363,Jerseys,No,Road
+4364,Helmets,Yes,Touring
+4365,Jerseys,No,Touring
+4366,Mountain Bikes,No,Touring
+4367,Helmets,No,Mountain
+4368,Helmets,No,Touring
+4369,Helmets,No,Road
+4370,Jerseys,No,Road
+4371,Mountain Bikes,No,Standard
+4372,Helmets,Yes,Standard
+4373,Helmets,No,Mountain
+4374,Tires,Yes,Touring
+4375,Jerseys,Yes,Touring
+4376,Tires,No,Mountain
+4377,Tires,Yes,Touring
+4378,Tires,Yes,Road
+4379,Tires,No,Mountain
+4380,Tires,Yes,Mountain
+4381,Mountain Bikes,No,Mountain
+4382,Jerseys,No,Mountain
+4383,Tires,No,Touring
+4384,Jerseys,No,Touring
+4385,Tires,No,Touring
+4386,Road Bikes,Yes,Mountain
+4387,Helmets,No,Touring
+4388,Road Bikes,Yes,Touring
+4389,Tires,Yes,Touring
+4390,Mountain Bikes,Yes,Mountain
+4391,Helmets,No,Touring
+4392,Mountain Bikes,No,Road
+4393,Road Bikes,No,Standard
+4394,Road Bikes,Yes,Road
+4395,Road Bikes,Yes,Road
+4396,Mountain Bikes,No,Road
+4397,Jerseys,No,Road
+4398,Mountain Bikes,No,Mountain
+4399,Tires,Yes,Touring
+4400,Road Bikes,No,Mountain
+4401,Helmets,No,Touring
+4402,Tires,Yes,Standard
+4403,Mountain Bikes,No,Touring
+4404,Road Bikes,Yes,Mountain
+4405,Road Bikes,No,Road
+4406,Mountain Bikes,No,Touring
+4407,Jerseys,Yes,Touring
+4408,Helmets,Yes,Touring
+4409,Jerseys,No,Standard
+4410,Helmets,No,Touring
+4411,Jerseys,No,Road
+4412,Tires,No,Road
+4413,Helmets,No,Touring
+4414,Tires,Yes,Road
+4415,Helmets,No,Mountain
+4416,Tires,No,Standard
+4417,Jerseys,Yes,Mountain
+4418,Helmets,Yes,Mountain
+4419,Mountain Bikes,Yes,Road
+4420,Road Bikes,No,Standard
+4421,Road Bikes,No,Mountain
+4422,Jerseys,Yes,Road
+4423,Road Bikes,Yes,Road
+4424,Helmets,No,Road
+4425,Road Bikes,No,Road
+4426,Helmets,Yes,Mountain
+4427,Mountain Bikes,Yes,Mountain
+4428,Tires,No,Road
+4429,Road Bikes,No,Touring
+4430,Road Bikes,No,Standard
+4431,Helmets,No,Mountain
+4432,Helmets,No,Road
+4433,Helmets,No,Road
+4434,Jerseys,No,Standard
+4435,Road Bikes,Yes,Mountain
+4436,Jerseys,Yes,Standard
+4437,Jerseys,Yes,Standard
+4438,Helmets,No,Standard
+4439,Mountain Bikes,No,Touring
+4440,Jerseys,Yes,Touring
+4441,Helmets,Yes,Standard
+4442,Tires,Yes,Standard
+4443,Mountain Bikes,No,Mountain
+4444,Tires,Yes,Mountain
+4445,Tires,Yes,Road
+4446,Mountain Bikes,Yes,Standard
+4447,Mountain Bikes,No,Touring
+4448,Mountain Bikes,Yes,Mountain
+4449,Tires,Yes,Mountain
+4450,Road Bikes,Yes,Standard
+4451,Mountain Bikes,No,Mountain
+4452,Mountain Bikes,No,Mountain
+4453,Jerseys,No,Road
+4454,Mountain Bikes,No,Touring
+4455,Road Bikes,Yes,Standard
+4456,Helmets,Yes,Standard
+4457,Tires,No,Road
+4458,Road Bikes,No,Standard
+4459,Helmets,Yes,Standard
+4460,Jerseys,No,Standard
+4461,Tires,No,Touring
+4462,Helmets,No,Road
+4463,Tires,Yes,Standard
+4464,Mountain Bikes,Yes,Standard
+4465,Mountain Bikes,Yes,Standard
+4466,Jerseys,Yes,Standard
+4467,Mountain Bikes,No,Touring
+4468,Helmets,Yes,Road
+4469,Road Bikes,No,Road
+4470,Road Bikes,No,Touring
+4471,Road Bikes,No,Mountain
+4472,Road Bikes,No,Road
+4473,Tires,No,Standard
+4474,Jerseys,No,Touring
+4475,Mountain Bikes,Yes,Touring
+4476,Jerseys,No,Standard
+4477,Tires,Yes,Touring
+4478,Tires,No,Touring
+4479,Helmets,No,Standard
+4480,Tires,Yes,Standard
+4481,Jerseys,Yes,Road
+4482,Mountain Bikes,Yes,Road
+4483,Mountain Bikes,Yes,Touring
+4484,Road Bikes,Yes,Touring
+4485,Jerseys,Yes,Road
+4486,Jerseys,No,Touring
+4487,Mountain Bikes,No,Standard
+4488,Mountain Bikes,No,Mountain
+4489,Jerseys,No,Mountain
+4490,Mountain Bikes,Yes,Mountain
+4491,Helmets,Yes,Mountain
+4492,Helmets,Yes,Road
+4493,Helmets,No,Mountain
+4494,Helmets,Yes,Standard
+4495,Road Bikes,Yes,Touring
+4496,Road Bikes,Yes,Road
+4497,Mountain Bikes,Yes,Touring
+4498,Road Bikes,Yes,Mountain
+4499,Jerseys,No,Touring
+4500,Mountain Bikes,Yes,Road
+4501,Tires,Yes,Mountain
+4502,Road Bikes,Yes,Touring
+4503,Road Bikes,No,Mountain
+4504,Mountain Bikes,Yes,Touring
+4505,Road Bikes,Yes,Touring
+4506,Mountain Bikes,No,Road
+4507,Mountain Bikes,Yes,Road
+4508,Mountain Bikes,No,Road
+4509,Helmets,No,Road
+4510,Jerseys,Yes,Touring
+4511,Mountain Bikes,No,Mountain
+4512,Jerseys,Yes,Touring
+4513,Tires,Yes,Road
+4514,Road Bikes,Yes,Road
+4515,Tires,No,Mountain
+4516,Jerseys,No,Mountain
+4517,Helmets,No,Standard
+4518,Mountain Bikes,No,Touring
+4519,Helmets,Yes,Mountain
+4520,Jerseys,Yes,Mountain
+4521,Tires,No,Road
+4522,Mountain Bikes,Yes,Touring
+4523,Road Bikes,No,Touring
+4524,Mountain Bikes,Yes,Road
+4525,Helmets,No,Touring
+4526,Jerseys,Yes,Touring
+4527,Tires,No,Touring
+4528,Jerseys,Yes,Touring
+4529,Road Bikes,Yes,Road
+4530,Mountain Bikes,No,Road
+4531,Helmets,No,Touring
+4532,Tires,No,Mountain
+4533,Tires,No,Road
+4534,Road Bikes,Yes,Road
+4535,Jerseys,Yes,Standard
+4536,Tires,Yes,Touring
+4537,Mountain Bikes,Yes,Mountain
+4538,Tires,Yes,Touring
+4539,Mountain Bikes,Yes,Mountain
+4540,Tires,Yes,Mountain
+4541,Tires,Yes,Road
+4542,Helmets,Yes,Standard
+4543,Tires,No,Standard
+4544,Road Bikes,Yes,Mountain
+4545,Mountain Bikes,Yes,Mountain
+4546,Jerseys,Yes,Standard
+4547,Tires,Yes,Touring
+4548,Tires,Yes,Touring
+4549,Tires,No,Mountain
+4550,Jerseys,No,Road
+4551,Jerseys,No,Mountain
+4552,Jerseys,No,Touring
+4553,Tires,No,Touring
+4554,Road Bikes,Yes,Road
+4555,Tires,No,Touring
+4556,Mountain Bikes,Yes,Mountain
+4557,Tires,No,Mountain
+4558,Mountain Bikes,Yes,Touring
+4559,Jerseys,Yes,Standard
+4560,Mountain Bikes,No,Touring
+4561,Road Bikes,No,Mountain
+4562,Helmets,No,Mountain
+4563,Tires,Yes,Road
+4564,Jerseys,Yes,Mountain
+4565,Tires,No,Touring
+4566,Jerseys,Yes,Standard
+4567,Tires,Yes,Road
+4568,Mountain Bikes,Yes,Touring
+4569,Helmets,Yes,Mountain
+4570,Road Bikes,Yes,Standard
+4571,Jerseys,Yes,Standard
+4572,Helmets,No,Touring
+4573,Mountain Bikes,No,Standard
+4574,Jerseys,No,Touring
+4575,Mountain Bikes,Yes,Standard
+4576,Helmets,Yes,Touring
+4577,Road Bikes,Yes,Mountain
+4578,Tires,Yes,Standard
+4579,Road Bikes,No,Mountain
+4580,Tires,Yes,Touring
+4581,Helmets,No,Road
+4582,Mountain Bikes,No,Touring
+4583,Mountain Bikes,No,Mountain
+4584,Mountain Bikes,Yes,Touring
+4585,Tires,No,Mountain
+4586,Tires,Yes,Mountain
+4587,Tires,No,Mountain
+4588,Tires,No,Touring
+4589,Helmets,No,Touring
+4590,Mountain Bikes,No,Touring
+4591,Road Bikes,No,Road
+4592,Helmets,Yes,Standard
+4593,Mountain Bikes,No,Mountain
+4594,Tires,No,Mountain
+4595,Road Bikes,No,Road
+4596,Tires,No,Touring
+4597,Jerseys,No,Mountain
+4598,Tires,Yes,Road
+4599,Road Bikes,No,Standard
+4600,Mountain Bikes,No,Mountain
+4601,Tires,No,Mountain
+4602,Road Bikes,Yes,Standard
+4603,Jerseys,Yes,Mountain
+4604,Mountain Bikes,No,Road
+4605,Road Bikes,Yes,Standard
+4606,Mountain Bikes,No,Road
+4607,Helmets,Yes,Touring
+4608,Mountain Bikes,No,Standard
+4609,Jerseys,Yes,Mountain
+4610,Tires,No,Touring
+4611,Tires,No,Touring
+4612,Helmets,No,Standard
+4613,Road Bikes,Yes,Road
+4614,Jerseys,Yes,Road
+4615,Jerseys,No,Mountain
+4616,Road Bikes,No,Road
+4617,Tires,No,Touring
+4618,Jerseys,No,Road
+4619,Helmets,Yes,Road
+4620,Mountain Bikes,No,Standard
+4621,Helmets,No,Road
+4622,Mountain Bikes,Yes,Road
+4623,Road Bikes,No,Mountain
+4624,Mountain Bikes,Yes,Mountain
+4625,Mountain Bikes,Yes,Road
+4626,Helmets,Yes,Touring
+4627,Mountain Bikes,No,Road
+4628,Road Bikes,No,Standard
+4629,Mountain Bikes,Yes,Mountain
+4630,Mountain Bikes,Yes,Standard
+4631,Helmets,Yes,Mountain
+4632,Jerseys,No,Standard
+4633,Helmets,No,Touring
+4634,Helmets,No,Touring
+4635,Tires,Yes,Standard
+4636,Mountain Bikes,No,Mountain
+4637,Helmets,Yes,Touring
+4638,Jerseys,No,Mountain
+4639,Tires,No,Touring
+4640,Jerseys,No,Mountain
+4641,Tires,Yes,Road
+4642,Mountain Bikes,Yes,Standard
+4643,Jerseys,No,Touring
+4644,Jerseys,Yes,Mountain
+4645,Tires,No,Standard
+4646,Road Bikes,No,Touring
+4647,Helmets,No,Standard
+4648,Mountain Bikes,No,Mountain
+4649,Tires,Yes,Standard
+4650,Mountain Bikes,Yes,Touring
+4651,Tires,No,Touring
+4652,Jerseys,No,Mountain
+4653,Helmets,No,Touring
+4654,Jerseys,No,Touring
+4655,Tires,Yes,Standard
+4656,Tires,No,Mountain
+4657,Helmets,Yes,Road
+4658,Mountain Bikes,Yes,Mountain
+4659,Tires,Yes,Mountain
+4660,Tires,Yes,Road
+4661,Road Bikes,No,Touring
+4662,Tires,Yes,Mountain
+4663,Jerseys,No,Standard
+4664,Jerseys,No,Standard
+4665,Helmets,Yes,Touring
+4666,Helmets,Yes,Road
+4667,Tires,Yes,Mountain
+4668,Mountain Bikes,No,Mountain
+4669,Jerseys,No,Standard
+4670,Helmets,Yes,Mountain
+4671,Mountain Bikes,No,Mountain
+4672,Road Bikes,No,Road
+4673,Mountain Bikes,Yes,Touring
+4674,Helmets,Yes,Standard
+4675,Road Bikes,Yes,Touring
+4676,Helmets,No,Standard
+4677,Jerseys,No,Standard
+4678,Road Bikes,No,Mountain
+4679,Helmets,No,Touring
+4680,Mountain Bikes,No,Standard
+4681,Road Bikes,No,Road
+4682,Helmets,No,Mountain
+4683,Tires,Yes,Road
+4684,Road Bikes,Yes,Standard
+4685,Helmets,Yes,Standard
+4686,Road Bikes,No,Mountain
+4687,Mountain Bikes,Yes,Mountain
+4688,Tires,Yes,Road
+4689,Tires,No,Standard
+4690,Jerseys,Yes,Standard
+4691,Tires,Yes,Touring
+4692,Jerseys,No,Mountain
+4693,Helmets,Yes,Touring
+4694,Road Bikes,Yes,Standard
+4695,Tires,Yes,Road
+4696,Helmets,No,Mountain
+4697,Tires,No,Mountain
+4698,Helmets,No,Mountain
+4699,Jerseys,No,Touring
+4700,Jerseys,No,Mountain
+4701,Road Bikes,Yes,Touring
+4702,Road Bikes,Yes,Touring
+4703,Helmets,Yes,Road
+4704,Tires,No,Standard
+4705,Road Bikes,Yes,Standard
+4706,Jerseys,Yes,Road
+4707,Tires,No,Road
+4708,Jerseys,Yes,Mountain
+4709,Jerseys,Yes,Standard
+4710,Jerseys,Yes,Mountain
+4711,Jerseys,Yes,Road
+4712,Helmets,Yes,Standard
+4713,Road Bikes,Yes,Touring
+4714,Mountain Bikes,No,Mountain
+4715,Helmets,No,Road
+4716,Tires,No,Mountain
+4717,Mountain Bikes,Yes,Mountain
+4718,Mountain Bikes,No,Touring
+4719,Tires,Yes,Mountain
+4720,Helmets,No,Mountain
+4721,Mountain Bikes,No,Mountain
+4722,Tires,No,Road
+4723,Road Bikes,Yes,Standard
+4724,Helmets,No,Touring
+4725,Road Bikes,No,Touring
+4726,Helmets,Yes,Standard
+4727,Mountain Bikes,No,Touring
+4728,Mountain Bikes,Yes,Touring
+4729,Tires,Yes,Road
+4730,Jerseys,Yes,Touring
+4731,Jerseys,Yes,Mountain
+4732,Tires,No,Mountain
+4733,Jerseys,No,Road
+4734,Tires,No,Road
+4735,Road Bikes,No,Touring
+4736,Jerseys,No,Road
+4737,Tires,Yes,Mountain
+4738,Road Bikes,Yes,Road
+4739,Jerseys,No,Road
+4740,Helmets,No,Road
+4741,Mountain Bikes,Yes,Standard
+4742,Tires,Yes,Mountain
+4743,Mountain Bikes,No,Standard
+4744,Helmets,Yes,Mountain
+4745,Road Bikes,No,Standard
+4746,Jerseys,No,Road
+4747,Mountain Bikes,Yes,Road
+4748,Tires,No,Road
+4749,Road Bikes,Yes,Mountain
+4750,Mountain Bikes,No,Standard
+4751,Road Bikes,No,Touring
+4752,Jerseys,No,Touring
+4753,Jerseys,No,Road
+4754,Tires,Yes,Mountain
+4755,Helmets,No,Touring
+4756,Mountain Bikes,No,Standard
+4757,Tires,No,Road
+4758,Tires,No,Mountain
+4759,Helmets,No,Mountain
+4760,Mountain Bikes,No,Touring
+4761,Mountain Bikes,Yes,Road
+4762,Tires,Yes,Road
+4763,Mountain Bikes,No,Touring
+4764,Road Bikes,Yes,Touring
+4765,Tires,No,Road
+4766,Helmets,No,Road
+4767,Tires,No,Touring
+4768,Mountain Bikes,Yes,Standard
+4769,Helmets,No,Mountain
+4770,Jerseys,No,Touring
+4771,Helmets,Yes,Touring
+4772,Jerseys,No,Mountain
+4773,Helmets,No,Mountain
+4774,Tires,No,Mountain
+4775,Road Bikes,No,Mountain
+4776,Jerseys,Yes,Standard
+4777,Jerseys,No,Road
+4778,Jerseys,No,Standard
+4779,Tires,No,Mountain
+4780,Road Bikes,Yes,Road
+4781,Road Bikes,Yes,Mountain
+4782,Helmets,No,Mountain
+4783,Jerseys,Yes,Touring
+4784,Helmets,No,Mountain
+4785,Tires,No,Road
+4786,Mountain Bikes,Yes,Mountain
+4787,Tires,No,Mountain
+4788,Road Bikes,No,Mountain
+4789,Tires,No,Road
+4790,Mountain Bikes,Yes,Touring
+4791,Tires,No,Road
+4792,Tires,No,Road
+4793,Tires,No,Touring
+4794,Mountain Bikes,No,Standard
+4795,Mountain Bikes,No,Road
+4796,Helmets,No,Standard
+4797,Tires,No,Standard
+4798,Road Bikes,Yes,Standard
+4799,Tires,Yes,Touring
+4800,Road Bikes,No,Touring
+4801,Helmets,No,Road
+4802,Helmets,No,Mountain
+4803,Mountain Bikes,No,Road
+4804,Road Bikes,No,Mountain
+4805,Road Bikes,No,Road
+4806,Jerseys,No,Standard
+4807,Helmets,No,Touring
+4808,Road Bikes,No,Road
+4809,Jerseys,Yes,Standard
+4810,Mountain Bikes,Yes,Touring
+4811,Mountain Bikes,Yes,Touring
+4812,Tires,Yes,Standard
+4813,Mountain Bikes,No,Mountain
+4814,Tires,Yes,Mountain
+4815,Helmets,No,Road
+4816,Jerseys,Yes,Road
+4817,Tires,Yes,Standard
+4818,Mountain Bikes,No,Touring
+4819,Helmets,Yes,Standard
+4820,Mountain Bikes,Yes,Mountain
+4821,Jerseys,No,Road
+4822,Road Bikes,Yes,Road
+4823,Mountain Bikes,Yes,Touring
+4824,Road Bikes,No,Mountain
+4825,Road Bikes,No,Standard
+4826,Jerseys,No,Touring
+4827,Helmets,Yes,Road
+4828,Jerseys,No,Road
+4829,Tires,No,Mountain
+4830,Jerseys,Yes,Road
+4831,Tires,No,Mountain
+4832,Tires,Yes,Touring
+4833,Helmets,Yes,Mountain
+4834,Jerseys,Yes,Mountain
+4835,Road Bikes,No,Mountain
+4836,Helmets,No,Mountain
+4837,Mountain Bikes,No,Touring
+4838,Tires,No,Standard
+4839,Helmets,No,Standard
+4840,Tires,No,Road
+4841,Road Bikes,Yes,Road
+4842,Tires,Yes,Touring
+4843,Road Bikes,No,Touring
+4844,Helmets,No,Road
+4845,Road Bikes,No,Standard
+4846,Mountain Bikes,Yes,Standard
+4847,Jerseys,No,Touring
+4848,Mountain Bikes,Yes,Standard
+4849,Tires,Yes,Touring
+4850,Jerseys,No,Mountain
+4851,Jerseys,No,Mountain
+4852,Tires,No,Touring
+4853,Road Bikes,Yes,Mountain
+4854,Mountain Bikes,No,Touring
+4855,Mountain Bikes,No,Mountain
+4856,Mountain Bikes,No,Touring
+4857,Mountain Bikes,No,Mountain
+4858,Jerseys,Yes,Standard
+4859,Mountain Bikes,No,Mountain
+4860,Tires,Yes,Road
+4861,Mountain Bikes,No,Road
+4862,Jerseys,Yes,Touring
+4863,Road Bikes,Yes,Road
+4864,Mountain Bikes,No,Road
+4865,Tires,Yes,Touring
+4866,Mountain Bikes,No,Standard
+4867,Helmets,No,Touring
+4868,Jerseys,No,Mountain
+4869,Road Bikes,Yes,Touring
+4870,Road Bikes,No,Standard
+4871,Helmets,Yes,Mountain
+4872,Helmets,Yes,Road
+4873,Mountain Bikes,Yes,Road
+4874,Tires,Yes,Touring
+4875,Tires,Yes,Mountain
+4876,Road Bikes,Yes,Standard
+4877,Road Bikes,Yes,Touring
+4878,Mountain Bikes,No,Standard
+4879,Road Bikes,No,Mountain
+4880,Jerseys,No,Touring
+4881,Helmets,Yes,Mountain
+4882,Road Bikes,Yes,Mountain
+4883,Helmets,No,Road
+4884,Jerseys,Yes,Standard
+4885,Mountain Bikes,Yes,Touring
+4886,Helmets,Yes,Touring
+4887,Road Bikes,Yes,Road
+4888,Tires,Yes,Mountain
+4889,Helmets,No,Touring
+4890,Road Bikes,No,Touring
+4891,Tires,Yes,Standard
+4892,Road Bikes,No,Touring
+4893,Helmets,No,Standard
+4894,Jerseys,No,Mountain
+4895,Helmets,Yes,Road
+4896,Tires,Yes,Road
+4897,Road Bikes,Yes,Road
+4898,Tires,No,Mountain
+4899,Jerseys,No,Road
+4900,Tires,Yes,Road
+4901,Mountain Bikes,Yes,Road
+4902,Road Bikes,No,Standard
+4903,Mountain Bikes,Yes,Standard
+4904,Mountain Bikes,No,Standard
+4905,Road Bikes,No,Road
+4906,Tires,No,Standard
+4907,Mountain Bikes,No,Standard
+4908,Road Bikes,No,Touring
+4909,Jerseys,Yes,Mountain
+4910,Tires,Yes,Mountain
+4911,Helmets,No,Touring
+4912,Helmets,Yes,Road
+4913,Mountain Bikes,No,Mountain
+4914,Jerseys,No,Road
+4915,Mountain Bikes,Yes,Mountain
+4916,Road Bikes,Yes,Road
+4917,Mountain Bikes,Yes,Standard
+4918,Mountain Bikes,Yes,Touring
+4919,Road Bikes,Yes,Standard
+4920,Road Bikes,Yes,Standard
+4921,Helmets,Yes,Road
+4922,Jerseys,No,Standard
+4923,Jerseys,Yes,Standard
+4924,Tires,No,Standard
+4925,Tires,No,Road
+4926,Road Bikes,Yes,Road
+4927,Mountain Bikes,Yes,Touring
+4928,Road Bikes,Yes,Standard
+4929,Tires,Yes,Touring
+4930,Helmets,No,Road
+4931,Helmets,No,Standard
+4932,Road Bikes,Yes,Touring
+4933,Road Bikes,Yes,Mountain
+4934,Tires,No,Mountain
+4935,Mountain Bikes,No,Mountain
+4936,Road Bikes,Yes,Touring
+4937,Mountain Bikes,No,Mountain
+4938,Tires,No,Mountain
+4939,Road Bikes,No,Mountain
+4940,Mountain Bikes,No,Road
+4941,Mountain Bikes,No,Standard
+4942,Jerseys,No,Road
+4943,Jerseys,Yes,Mountain
+4944,Jerseys,Yes,Standard
+4945,Tires,No,Mountain
+4946,Helmets,No,Mountain
+4947,Jerseys,No,Mountain
+4948,Mountain Bikes,No,Mountain
+4949,Helmets,Yes,Touring
+4950,Road Bikes,Yes,Standard
+4951,Jerseys,No,Road
+4952,Tires,Yes,Road
+4953,Jerseys,No,Standard
+4954,Helmets,No,Road
+4955,Mountain Bikes,Yes,Road
+4956,Helmets,No,Road
+4957,Mountain Bikes,No,Touring
+4958,Mountain Bikes,No,Standard
+4959,Helmets,Yes,Standard
+4960,Mountain Bikes,No,Touring
+4961,Jerseys,No,Touring
+4962,Jerseys,Yes,Mountain
+4963,Road Bikes,No,Touring
+4964,Helmets,No,Road
+4965,Mountain Bikes,No,Touring
+4966,Tires,No,Standard
+4967,Tires,No,Road
+4968,Helmets,No,Road
+4969,Helmets,No,Touring
+4970,Jerseys,No,Road
+4971,Jerseys,No,Mountain
+4972,Tires,Yes,Standard
+4973,Road Bikes,Yes,Road
+4974,Jerseys,No,Touring
+4975,Mountain Bikes,No,Mountain
+4976,Jerseys,No,Road
+4977,Mountain Bikes,Yes,Touring
+4978,Helmets,Yes,Standard
+4979,Tires,Yes,Mountain
+4980,Jerseys,No,Touring
+4981,Helmets,Yes,Standard
+4982,Jerseys,Yes,Mountain
+4983,Tires,Yes,Road
+4984,Jerseys,No,Road
+4985,Mountain Bikes,Yes,Mountain
+4986,Jerseys,Yes,Mountain
+4987,Jerseys,Yes,Standard
+4988,Road Bikes,Yes,Standard
+4989,Jerseys,No,Mountain
+4990,Road Bikes,No,Touring
+4991,Helmets,No,Standard
+4992,Tires,No,Touring
+4993,Mountain Bikes,Yes,Touring
+4994,Mountain Bikes,Yes,Touring
+4995,Tires,No,Road
+4996,Road Bikes,No,Touring
+4997,Jerseys,No,Mountain
+4998,Tires,No,Mountain
+4999,Mountain Bikes,Yes,Mountain
+5000,Road Bikes,No,Mountain
+5001,Tires,Yes,Mountain
+5002,Jerseys,No,Mountain
+5003,Helmets,Yes,Standard
+5004,Helmets,Yes,Touring
+5005,Tires,Yes,Road
+5006,Tires,Yes,Mountain
+5007,Tires,No,Mountain
+5008,Mountain Bikes,No,Touring
+5009,Helmets,Yes,Road
+5010,Helmets,Yes,Road
+5011,Road Bikes,Yes,Touring
+5012,Mountain Bikes,No,Standard
+5013,Mountain Bikes,No,Road
+5014,Helmets,No,Mountain
+5015,Jerseys,No,Touring
+5016,Helmets,No,Standard
+5017,Helmets,Yes,Touring
+5018,Jerseys,Yes,Standard
+5019,Mountain Bikes,Yes,Mountain
+5020,Mountain Bikes,No,Standard
+5021,Mountain Bikes,No,Touring
+5022,Jerseys,Yes,Touring
+5023,Jerseys,Yes,Road
+5024,Tires,Yes,Standard
+5025,Mountain Bikes,Yes,Road
+5026,Mountain Bikes,Yes,Touring
+5027,Jerseys,No,Standard
+5028,Helmets,No,Mountain
+5029,Helmets,Yes,Standard
+5030,Tires,Yes,Road
+5031,Road Bikes,Yes,Mountain
+5032,Road Bikes,No,Touring
+5033,Tires,No,Road
+5034,Road Bikes,Yes,Road
+5035,Jerseys,No,Touring
+5036,Tires,No,Standard
+5037,Jerseys,No,Standard
+5038,Jerseys,Yes,Mountain
+5039,Road Bikes,Yes,Standard
+5040,Jerseys,Yes,Road
+5041,Road Bikes,No,Touring
+5042,Mountain Bikes,No,Standard
+5043,Road Bikes,No,Touring
+5044,Road Bikes,No,Standard
+5045,Helmets,No,Touring
+5046,Road Bikes,No,Standard
+5047,Road Bikes,No,Touring
+5048,Helmets,Yes,Standard
+5049,Mountain Bikes,Yes,Road
+5050,Jerseys,Yes,Touring
+5051,Road Bikes,Yes,Road
+5052,Tires,No,Mountain
+5053,Road Bikes,No,Standard
+5054,Jerseys,Yes,Standard
+5055,Road Bikes,Yes,Standard
+5056,Helmets,Yes,Mountain
+5057,Helmets,No,Touring
+5058,Tires,No,Touring
+5059,Road Bikes,No,Touring
+5060,Road Bikes,No,Road
+5061,Tires,Yes,Touring
+5062,Mountain Bikes,No,Touring
+5063,Tires,No,Touring
+5064,Helmets,Yes,Mountain
+5065,Mountain Bikes,Yes,Standard
+5066,Tires,No,Touring
+5067,Tires,Yes,Touring
+5068,Tires,Yes,Standard
+5069,Road Bikes,Yes,Standard
+5070,Jerseys,Yes,Touring
+5071,Mountain Bikes,No,Mountain
+5072,Tires,Yes,Mountain
+5073,Mountain Bikes,Yes,Touring
+5074,Road Bikes,No,Mountain
+5075,Jerseys,No,Mountain
+5076,Mountain Bikes,Yes,Road
+5077,Jerseys,Yes,Mountain
+5078,Helmets,No,Standard
+5079,Road Bikes,No,Touring
+5080,Road Bikes,No,Mountain
+5081,Mountain Bikes,No,Touring
+5082,Tires,No,Standard
+5083,Road Bikes,Yes,Road
+5084,Mountain Bikes,No,Standard
+5085,Helmets,Yes,Mountain
+5086,Mountain Bikes,No,Road
+5087,Road Bikes,No,Touring
+5088,Jerseys,No,Touring
+5089,Road Bikes,No,Mountain
+5090,Jerseys,No,Standard
+5091,Mountain Bikes,No,Touring
+5092,Mountain Bikes,Yes,Road
+5093,Jerseys,Yes,Standard
+5094,Helmets,Yes,Standard
+5095,Tires,Yes,Mountain
+5096,Helmets,No,Touring
+5097,Mountain Bikes,No,Road
+5098,Mountain Bikes,No,Standard
+5099,Road Bikes,No,Standard
+5100,Road Bikes,No,Standard
+5101,Tires,Yes,Road
+5102,Road Bikes,Yes,Standard
+5103,Helmets,Yes,Touring
+5104,Helmets,No,Touring
+5105,Tires,Yes,Road
+5106,Road Bikes,No,Road
+5107,Helmets,No,Touring
+5108,Jerseys,Yes,Standard
+5109,Jerseys,Yes,Standard
+5110,Road Bikes,Yes,Mountain
+5111,Tires,No,Road
+5112,Road Bikes,Yes,Mountain
+5113,Jerseys,No,Mountain
+5114,Helmets,No,Mountain
+5115,Road Bikes,Yes,Mountain
+5116,Road Bikes,Yes,Mountain
+5117,Tires,No,Road
+5118,Helmets,No,Touring
+5119,Mountain Bikes,Yes,Mountain
+5120,Mountain Bikes,No,Mountain
+5121,Road Bikes,No,Mountain
+5122,Mountain Bikes,No,Standard
+5123,Tires,Yes,Touring
+5124,Mountain Bikes,Yes,Standard
+5125,Jerseys,No,Touring
+5126,Road Bikes,No,Touring
+5127,Jerseys,Yes,Mountain
+5128,Tires,Yes,Mountain
+5129,Tires,No,Road
+5130,Jerseys,Yes,Touring
+5131,Tires,Yes,Touring
+5132,Road Bikes,No,Mountain
+5133,Tires,Yes,Touring
+5134,Jerseys,Yes,Mountain
+5135,Mountain Bikes,No,Standard
+5136,Tires,Yes,Touring
+5137,Road Bikes,Yes,Road
+5138,Tires,No,Road
+5139,Helmets,Yes,Standard
+5140,Tires,No,Road
+5141,Tires,Yes,Standard
+5142,Mountain Bikes,No,Standard
+5143,Jerseys,Yes,Standard
+5144,Jerseys,No,Standard
+5145,Mountain Bikes,Yes,Road
+5146,Helmets,Yes,Standard
+5147,Helmets,No,Touring
+5148,Road Bikes,Yes,Road
+5149,Mountain Bikes,No,Mountain
+5150,Mountain Bikes,No,Mountain
+5151,Jerseys,No,Standard
+5152,Road Bikes,No,Mountain
+5153,Road Bikes,No,Touring
+5154,Road Bikes,Yes,Touring
+5155,Jerseys,No,Mountain
+5156,Road Bikes,No,Touring
+5157,Road Bikes,No,Touring
+5158,Road Bikes,No,Road
+5159,Jerseys,No,Touring
+5160,Road Bikes,No,Touring
+5161,Helmets,No,Mountain
+5162,Road Bikes,Yes,Mountain
+5163,Helmets,Yes,Standard
+5164,Tires,Yes,Road
+5165,Mountain Bikes,No,Road
+5166,Road Bikes,Yes,Mountain
+5167,Helmets,Yes,Standard
+5168,Road Bikes,Yes,Mountain
+5169,Tires,No,Touring
+5170,Tires,No,Standard
+5171,Mountain Bikes,No,Touring
+5172,Tires,Yes,Touring
+5173,Tires,Yes,Standard
+5174,Tires,Yes,Touring
+5175,Jerseys,No,Mountain
+5176,Tires,Yes,Mountain
+5177,Helmets,No,Standard
+5178,Road Bikes,Yes,Road
+5179,Helmets,Yes,Mountain
+5180,Road Bikes,Yes,Standard
+5181,Helmets,No,Standard
+5182,Helmets,No,Road
+5183,Jerseys,Yes,Touring
+5184,Tires,No,Standard
+5185,Jerseys,No,Mountain
+5186,Jerseys,Yes,Road
+5187,Road Bikes,Yes,Standard
+5188,Road Bikes,Yes,Mountain
+5189,Helmets,No,Standard
+5190,Tires,No,Standard
+5191,Jerseys,Yes,Touring
+5192,Mountain Bikes,No,Mountain
+5193,Mountain Bikes,Yes,Touring
+5194,Road Bikes,No,Mountain
+5195,Jerseys,No,Road
+5196,Mountain Bikes,No,Standard
+5197,Mountain Bikes,No,Mountain
+5198,Tires,Yes,Road
+5199,Jerseys,No,Road
+5200,Road Bikes,No,Road
+5201,Road Bikes,Yes,Standard
+5202,Road Bikes,Yes,Standard
+5203,Helmets,Yes,Touring
+5204,Road Bikes,No,Mountain
+5205,Mountain Bikes,Yes,Touring
+5206,Mountain Bikes,Yes,Touring
+5207,Road Bikes,No,Road
+5208,Road Bikes,Yes,Mountain
+5209,Jerseys,Yes,Road
+5210,Helmets,No,Touring
+5211,Road Bikes,Yes,Standard
+5212,Mountain Bikes,No,Mountain
+5213,Tires,No,Road
+5214,Tires,Yes,Touring
+5215,Helmets,Yes,Road
+5216,Road Bikes,Yes,Mountain
+5217,Helmets,No,Road
+5218,Helmets,Yes,Touring
+5219,Jerseys,No,Mountain
+5220,Jerseys,No,Standard
+5221,Jerseys,Yes,Road
+5222,Road Bikes,Yes,Standard
+5223,Helmets,No,Road
+5224,Mountain Bikes,Yes,Standard
+5225,Tires,Yes,Mountain
+5226,Jerseys,Yes,Road
+5227,Tires,Yes,Mountain
+5228,Helmets,Yes,Road
+5229,Tires,Yes,Road
+5230,Mountain Bikes,No,Mountain
+5231,Tires,No,Road
+5232,Road Bikes,Yes,Standard
+5233,Mountain Bikes,No,Standard
+5234,Tires,Yes,Standard
+5235,Jerseys,Yes,Road
+5236,Mountain Bikes,No,Standard
+5237,Jerseys,Yes,Mountain
+5238,Jerseys,No,Mountain
+5239,Mountain Bikes,Yes,Mountain
+5240,Jerseys,Yes,Road
+5241,Jerseys,Yes,Touring
+5242,Road Bikes,Yes,Standard
+5243,Tires,Yes,Road
+5244,Jerseys,Yes,Touring
+5245,Mountain Bikes,Yes,Road
+5246,Helmets,Yes,Mountain
+5247,Mountain Bikes,Yes,Road
+5248,Road Bikes,Yes,Standard
+5249,Mountain Bikes,Yes,Road
+5250,Mountain Bikes,No,Standard
+5251,Jerseys,Yes,Touring
+5252,Mountain Bikes,Yes,Road
+5253,Mountain Bikes,No,Road
+5254,Helmets,No,Standard
+5255,Helmets,No,Mountain
+5256,Jerseys,Yes,Mountain
+5257,Mountain Bikes,No,Mountain
+5258,Helmets,Yes,Standard
+5259,Mountain Bikes,Yes,Road
+5260,Tires,No,Mountain
+5261,Helmets,No,Road
+5262,Mountain Bikes,Yes,Mountain
+5263,Helmets,Yes,Road
+5264,Tires,Yes,Touring
+5265,Jerseys,Yes,Standard
+5266,Tires,No,Road
+5267,Road Bikes,No,Road
+5268,Road Bikes,Yes,Road
+5269,Mountain Bikes,Yes,Road
+5270,Mountain Bikes,No,Touring
+5271,Mountain Bikes,Yes,Mountain
+5272,Road Bikes,Yes,Touring
+5273,Road Bikes,Yes,Touring
+5274,Tires,No,Road
+5275,Tires,Yes,Standard
+5276,Jerseys,Yes,Standard
+5277,Road Bikes,No,Touring
+5278,Jerseys,No,Standard
+5279,Tires,No,Standard
+5280,Mountain Bikes,Yes,Touring
+5281,Road Bikes,No,Mountain
+5282,Jerseys,Yes,Standard
+5283,Road Bikes,Yes,Mountain
+5284,Jerseys,Yes,Standard
+5285,Mountain Bikes,No,Standard
+5286,Road Bikes,No,Mountain
+5287,Tires,No,Mountain
+5288,Mountain Bikes,No,Road
+5289,Road Bikes,Yes,Road
+5290,Tires,No,Standard
+5291,Jerseys,Yes,Road
+5292,Mountain Bikes,Yes,Mountain
+5293,Mountain Bikes,No,Road
+5294,Jerseys,Yes,Touring
+5295,Jerseys,No,Touring
+5296,Helmets,Yes,Standard
+5297,Jerseys,No,Mountain
+5298,Mountain Bikes,No,Standard
+5299,Road Bikes,Yes,Mountain
+5300,Jerseys,No,Touring
+5301,Road Bikes,Yes,Standard
+5302,Jerseys,Yes,Mountain
+5303,Tires,No,Touring
+5304,Road Bikes,No,Touring
+5305,Road Bikes,Yes,Standard
+5306,Mountain Bikes,Yes,Mountain
+5307,Tires,No,Mountain
+5308,Mountain Bikes,Yes,Standard
+5309,Tires,Yes,Standard
+5310,Tires,Yes,Mountain
+5311,Jerseys,No,Road
+5312,Jerseys,Yes,Mountain
+5313,Helmets,Yes,Road
+5314,Helmets,No,Touring
+5315,Tires,No,Mountain
+5316,Tires,Yes,Road
+5317,Mountain Bikes,Yes,Standard
+5318,Helmets,No,Standard
+5319,Jerseys,Yes,Touring
+5320,Jerseys,No,Standard
+5321,Helmets,Yes,Road
+5322,Helmets,Yes,Road
+5323,Mountain Bikes,No,Touring
+5324,Helmets,No,Road
+5325,Tires,No,Road
+5326,Jerseys,Yes,Mountain
+5327,Road Bikes,No,Road
+5328,Tires,No,Road
+5329,Tires,No,Standard
+5330,Tires,No,Mountain
+5331,Helmets,No,Touring
+5332,Helmets,No,Touring
+5333,Helmets,No,Standard
+5334,Road Bikes,Yes,Touring
+5335,Helmets,No,Mountain
+5336,Road Bikes,No,Road
+5337,Tires,No,Road
+5338,Tires,Yes,Standard
+5339,Tires,No,Touring
+5340,Tires,No,Standard
+5341,Tires,Yes,Road
+5342,Jerseys,No,Road
+5343,Road Bikes,Yes,Road
+5344,Road Bikes,No,Standard
+5345,Road Bikes,No,Standard
+5346,Road Bikes,Yes,Mountain
+5347,Helmets,Yes,Mountain
+5348,Road Bikes,Yes,Touring
+5349,Tires,No,Standard
+5350,Jerseys,Yes,Standard
+5351,Jerseys,Yes,Touring
+5352,Tires,Yes,Standard
+5353,Jerseys,No,Mountain
+5354,Jerseys,No,Touring
+5355,Tires,Yes,Standard
+5356,Jerseys,No,Road
+5357,Jerseys,No,Mountain
+5358,Mountain Bikes,No,Mountain
+5359,Road Bikes,Yes,Standard
+5360,Helmets,No,Mountain
+5361,Road Bikes,Yes,Mountain
+5362,Helmets,No,Touring
+5363,Helmets,Yes,Touring
+5364,Mountain Bikes,Yes,Road
+5365,Helmets,No,Standard
+5366,Tires,Yes,Road
+5367,Mountain Bikes,No,Road
+5368,Mountain Bikes,No,Mountain
+5369,Jerseys,No,Mountain
+5370,Road Bikes,Yes,Road
+5371,Road Bikes,Yes,Mountain
+5372,Jerseys,No,Touring
+5373,Jerseys,Yes,Mountain
+5374,Road Bikes,Yes,Road
+5375,Tires,Yes,Mountain
+5376,Helmets,No,Mountain
+5377,Road Bikes,No,Standard
+5378,Mountain Bikes,Yes,Road
+5379,Helmets,Yes,Touring
+5380,Tires,No,Touring
+5381,Road Bikes,No,Mountain
+5382,Jerseys,No,Standard
+5383,Tires,Yes,Touring
+5384,Road Bikes,Yes,Touring
+5385,Jerseys,No,Standard
+5386,Mountain Bikes,No,Road
+5387,Jerseys,No,Touring
+5388,Road Bikes,No,Standard
+5389,Jerseys,Yes,Standard
+5390,Road Bikes,No,Mountain
+5391,Road Bikes,Yes,Road
+5392,Jerseys,No,Road
+5393,Tires,Yes,Road
+5394,Mountain Bikes,Yes,Touring
+5395,Road Bikes,No,Standard
+5396,Jerseys,Yes,Touring
+5397,Road Bikes,No,Touring
+5398,Tires,No,Standard
+5399,Tires,No,Touring
+5400,Jerseys,Yes,Touring
+5401,Tires,No,Standard
+5402,Helmets,Yes,Road
+5403,Road Bikes,Yes,Touring
+5404,Helmets,Yes,Standard
+5405,Tires,Yes,Mountain
+5406,Road Bikes,No,Mountain
+5407,Mountain Bikes,No,Standard
+5408,Helmets,Yes,Road
+5409,Tires,Yes,Road
+5410,Jerseys,No,Mountain
+5411,Tires,Yes,Touring
+5412,Helmets,Yes,Road
+5413,Road Bikes,No,Road
+5414,Helmets,No,Road
+5415,Helmets,Yes,Standard
+5416,Mountain Bikes,No,Standard
+5417,Tires,Yes,Touring
+5418,Helmets,Yes,Standard
+5419,Mountain Bikes,Yes,Standard
+5420,Road Bikes,No,Standard
+5421,Tires,Yes,Standard
+5422,Jerseys,Yes,Touring
+5423,Road Bikes,No,Touring
+5424,Tires,Yes,Standard
+5425,Tires,No,Touring
+5426,Jerseys,No,Touring
+5427,Tires,No,Touring
+5428,Helmets,No,Standard
+5429,Road Bikes,No,Standard
+5430,Jerseys,No,Road
+5431,Mountain Bikes,Yes,Standard
+5432,Mountain Bikes,Yes,Road
+5433,Road Bikes,No,Standard
+5434,Road Bikes,No,Touring
+5435,Jerseys,No,Touring
+5436,Tires,No,Mountain
+5437,Mountain Bikes,No,Standard
+5438,Helmets,No,Touring
+5439,Mountain Bikes,Yes,Mountain
+5440,Road Bikes,No,Road
+5441,Road Bikes,Yes,Road
+5442,Tires,Yes,Touring
+5443,Road Bikes,No,Touring
+5444,Helmets,No,Standard
+5445,Road Bikes,No,Touring
+5446,Road Bikes,Yes,Mountain
+5447,Road Bikes,Yes,Standard
+5448,Jerseys,No,Touring
+5449,Tires,No,Road
+5450,Mountain Bikes,Yes,Road
+5451,Tires,Yes,Standard
+5452,Road Bikes,Yes,Road
+5453,Road Bikes,Yes,Mountain
+5454,Mountain Bikes,No,Mountain
+5455,Mountain Bikes,Yes,Road
+5456,Tires,Yes,Standard
+5457,Road Bikes,Yes,Touring
+5458,Road Bikes,Yes,Mountain
+5459,Tires,Yes,Mountain
+5460,Jerseys,Yes,Road
+5461,Jerseys,Yes,Touring
+5462,Jerseys,No,Road
+5463,Tires,Yes,Standard
+5464,Road Bikes,Yes,Standard
+5465,Road Bikes,Yes,Touring
+5466,Mountain Bikes,Yes,Mountain
+5467,Helmets,Yes,Road
+5468,Mountain Bikes,No,Standard
+5469,Road Bikes,No,Mountain
+5470,Road Bikes,Yes,Standard
+5471,Jerseys,Yes,Mountain
+5472,Tires,Yes,Standard
+5473,Mountain Bikes,No,Standard
+5474,Tires,Yes,Touring
+5475,Tires,No,Road
+5476,Helmets,No,Standard
+5477,Mountain Bikes,Yes,Standard
+5478,Mountain Bikes,Yes,Standard
+5479,Jerseys,No,Mountain
+5480,Road Bikes,No,Touring
+5481,Road Bikes,No,Mountain
+5482,Tires,Yes,Standard
+5483,Tires,No,Standard
+5484,Road Bikes,No,Road
+5485,Tires,Yes,Touring
+5486,Tires,Yes,Touring
+5487,Mountain Bikes,Yes,Touring
+5488,Helmets,Yes,Touring
+5489,Tires,Yes,Standard
+5490,Tires,No,Mountain
+5491,Tires,Yes,Road
+5492,Road Bikes,Yes,Standard
+5493,Mountain Bikes,Yes,Road
+5494,Road Bikes,Yes,Touring
+5495,Road Bikes,Yes,Mountain
+5496,Jerseys,No,Mountain
+5497,Road Bikes,Yes,Touring
+5498,Tires,No,Standard
+5499,Jerseys,Yes,Standard
